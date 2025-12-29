@@ -1,158 +1,133 @@
 ---
-title: "Consumer Discretionary Sector News Brief — 2025-12-27"
+layout: post
+title: "Consumer Discretionary Sector Daily Brief: Top Market News for 2025-12-27"
 date: "2025-12-27"
 sector: "Consumer Discretionary"
-description: "Daily Consumer Discretionary sector news roundup based on free RSS sources."
+etf: "XLY"
+description: "Today's Consumer Discretionary sector headlines: 12 stories covering tesla, stock, yahoo, finance, cnbc. Free daily market intelligence for investors."
+keywords: "Consumer Discretionary, XLY, stock market news, sector news, 2025-12-27, market intelligence, investing news"
+og_title: "Consumer Discretionary Daily Brief — 2025-12-27"
+og_description: "12 breaking stories in Consumer Discretionary: 3 positive signals for Home Depot — and its shareh..., Trump-linked crypto venture fires auditor after FT..., GM's record stock performance beats Tesla, Ford an..."
+permalink: /2025-12-27/consumer-discretionary/
 ---
 
-# Consumer Discretionary Sector News Brief (2025-12-27)
+# Consumer Discretionary Sector Daily Brief
+## 2025-12-27 — 12 Stories
 
-## Top stories
+**Today's highlights:** tesla, stock, yahoo, finance, cnbc
 
-### ‘You need a third job or a rich husband’: I fell victim to Allen Stanford’s multibillion-dollar Ponzi scheme and survived
+---
 
-- Source: MarketWatch Top Stories
-- Published: 2025-12-27T13:00:00+00:00
-- Link: https://www.marketwatch.com/story/you-need-a-third-job-or-a-rich-husband-i-fell-victim-to-allen-stanfords-multibillion-dollar-ponzi-scheme-and-survived-f8cf90bb?mod=mw_rss_topstories
+### 1. 3 positive signals for Home Depot — and its shareholders — heading into 2026
 
-“If you have never found yourself in a situation where your life does a complete 180, it’s wrong to talk down to anyone.”
-### How Las Vegas police ended up with a fleet of free Tesla Cybertrucks - The Guardian
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/29/3-positive-signals-for-home-depot-and-its-shareholders-heading-into-2026.html) · 2025-12-29
+> The stars may soon align for this retail stock, which is down over 10% year to date.
 
-- Source: Google News (Business)
-- Published: 2025-12-27T13:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUM5SW5teHZKWklyRFBFSkxqOEZ0d0hlM255OFNvMmdRNFNRVW1aVUdsVndzUG5PaEtJSDUwWlV2aWlkVzFKa0l6QVM2RGJicGROY1JKaVFNZ0VoWVg0ZFVjMWo0cmhuVy1leERTaEJYQlBGMjRSTkFjS1BkeVNaY18tQy1uNE14Ykp3RHp2WmpNSmdN?oc=5
+[Read full article →](https://www.cnbc.com/2025/12/29/3-positive-signals-for-home-depot-and-its-shareholders-heading-into-2026.html)
 
-How Las Vegas police ended up with a fleet of free Tesla Cybertrucks The Guardian
-### Got $5,000? 3 Incredible Stocks to Buy for 2026 - The Motley Fool
+---
 
-- Source: Google News (Business)
-- Published: 2025-12-27T11:15:00+00:00
-- Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGdwSE9sYmU3S2xFeC1RSlZpUTFfakhaTzVSUEVzdThKR1lXR29aLUdzV3pfNTBOQWtvbEZGT0pPTVcwX3Q1UjBHeGpaTjJOdWZTZmtUQWducHV5cEx6NDh5Ui1sal8xZklDc29hdVloTzdmaU9FQ2pib0xLeUNOZkVnY21xME4yTk4zdFFCT1A?oc=5
+### 2. Trump-linked crypto venture fires auditor after FT inquiries
 
-Got $5,000? 3 Incredible Stocks to Buy for 2026 The Motley Fool Barron’s Forecasting Quiz: Predict What’s Ahead for 2026 Barron's 5 Top Stocks With High 2026 Earnings Growth Targets Seeking Alpha The 3 Fastest-Growing Stocks Heading Into 2026 Yahoo Finance The Best Surging "Stro…
-### Bang for your buck: the best affordable watches of 2025 - Time+Tide Watches
+**Source:** [Financial Times Markets](https://www.ft.com/content/342d01b2-bf0f-47d7-bb61-0f1aa0997ffd) · 2025-12-29
+> Alt5 Sigma hires third accounting firm in six weeks, complicating efforts to bring its financial reporting up to date
 
-- Source: Google News (Technology)
-- Published: 2025-12-27T07:00:04+00:00
-- Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE1QTGQ2cjhCU1RNdlFIdlFFXzAzZ0kwdURIYVh1ZmF2cmtpMDFLSW5sWGZxTVF2eFB4TV85cmZ6aWNMN1ZBUmxsaUZmOVRwWHRseUNqRl9IZjNLYldTaWJTem84NlZBS09zUDFvV2NQbTE?oc=5
+[Read full article →](https://www.ft.com/content/342d01b2-bf0f-47d7-bb61-0f1aa0997ffd)
 
-Bang for your buck: the best affordable watches of 2025 Time+Tide Watches The 11 Best Affordable Watches of 2025 gq.com My Pick for the Top Watch Brand of 2025 May Surprise You Gear Patrol Team aBlogtoWatch’s Picks: The Top Brands Of 2025 aBlogtoWatch Recap: The Best Integrated…
-### China Industrial Profits Decline in November as Demand Cools
+---
 
-- Source: Bloomberg Markets
-- Published: 2025-12-27T01:51:48+00:00
-- Link: https://www.bloomberg.com/news/articles/2025-12-27/china-industrial-profits-decline-in-november-as-demand-cools
+### 3. GM's record stock performance beats Tesla, Ford and other automakers in 2025
 
-China’s industrial profits fell for a second month in November, adding to signs that weakening domestic demand and persistent deflation are weighing on corporate earnings.
-### More companies charging restocking fees this year than last as many make returns after Christmas 2025 | What to know - ABC7 Chicago
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/29/gm-stock-tesla-ford.html) · 2025-12-29
+> General Motors' stock is having its best year since the company's reemergence from bankruptcy in 2009.
 
-- Source: Google News (Business)
-- Published: 2025-12-27T00:45:22+00:00
-- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQQldjQ2ZVVl9FWU1EaU1nMHRhRzFRUDRfVmtnUkY5eXZFdS0wLXI3b3R4bml5YmYwdldMc3lqNGZtbjBkdFRPS2xMZUUxN0tqYk5YM2ZQcm9vWV9vQnpiUjNPVVNXLXpFbjNKT2wwZzYzT2d5aGJtM2RURFcwY29LSEtRc2FmdXFPMTY2U25mTEF2NXJpU1hBMU10bTBTNElUOFFvVW93R3Fpbkg1MXRBZzZYUGNUcmZfN0VUbHA3dzMyemxpTms1VGhzc9IB0AFBVV95cUxQNG9pMmxwX1FuYTRIblF2R2tFOFNwWklMRXNMZXI3OTVLaTJhWGVNak9ZTU84QU1nZUlPVGNxMHY0blhjeWpzT2dDRlhIekFnVWlCc1ZXeUV6dHl3NUZ5MnZ2bm9STUE2OUV1dXZveEFzMEZSWXN1N0xBdUtHWTN5WUhKRDZrSFYwVWhYNnZPLW1EazNyNlZRdG5fTEpwSDV3eUhIWFhYd3BBbzVtVlVTek94RWlYR2hEZjZxNkhkTFAwdkFtaGl6VnJtSWt4MjJY?oc=5
+[Read full article →](https://www.cnbc.com/2025/12/29/gm-stock-tesla-ford.html)
 
-More companies charging restocking fees this year than last as many make returns after Christmas 2025 | What to know ABC7 Chicago Planning to return unwanted Christmas gifts? You may be charged fees. CBS News Post-holidays return season in Minnesota, U.S. might not be so easy th…
-### Google is at last letting users swap out embarrassing Gmail addresses without losing their data - Los Angeles Times
+---
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T20:59:24+00:00
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNVk8wTDFMUkxiRUY2ZzhfUnBuLTdIWGY0ZlVaZ2ozODYybXZRNWlwMnVKQ1dzSE5UTjZ5bjBBdi11N2tZdXR0QV95Q0NhUzNiOV9rSTNmLTBkRGJLWW1FU2ZhVkZ3Y01hVVBoWGJFUGVqUW50RU9yUWlIVWpTalliS3BZR3dPLXM4T05mX2VMb1NrbGZBOGM0bG80RkNHU0lndjFWOHZha3l4aS1WR0NsNkRremtQakE?oc=5
+### 4. Coupang announces $1.18 billion compensation to South Korean users for data leak - Reuters
 
-Google is at last letting users swap out embarrassing Gmail addresses without losing their data Los Angeles Times Google is rolling out a new feature allowing users to change their Gmail address CNBC Google will finally let you change your embarrassing Gmail address Fast Company…
-### As the cost of living keeps climbing, Americans are 'trying to muscle through' the affordability crisis, analyst says
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUxMTTJUaFlSWk5yTFdnaHlLRldRbWpWTC1QeHFOcHRydmxEcmNJTFIyOGEyMW41TlQ2c0U0UjJFMkNHUHhkR1NaMzVzSjVUcUFDYU9iZENRTno2X3RoV05DSnpla1F4WWFhWDk3ckc2U2FzczNmYUZHb2tQVG84UnZBN0pNSEVnbzB4dFJEdFBwazE4UEgyWmFzSGZvRnNwVGZTOTRXUHJwX09EcE1JNUdNc3QxWlp4RXdzYzJDamU4eDA?oc=5) · 2025-12-29
+> Coupang announces $1.18 billion compensation to South Korean users for data leak Reuters Coupang Offers $1 Billion Compensation for Data Breach Victims Bloomberg.com South Korean retail giant Coupang to compensate $1.1 billion to affected users over data breach CNBC An E-Commerc…
 
-- Source: CNBC Top News
-- Published: 2025-12-26T19:51:09+00:00
-- Link: https://www.cnbc.com/2025/12/26/how-americans-are-responding-to-the-affordability-crisis.html
+[Read full article →](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaUxMTTJUaFlSWk5yTFdnaHlLRldRbWpWTC1QeHFOcHRydmxEcmNJTFIyOGEyMW41TlQ2c0U0UjJFMkNHUHhkR1NaMzVzSjVUcUFDYU9iZENRTno2X3RoV05DSnpla1F4WWFhWDk3ckc2U2FzczNmYUZHb2tQVG84UnZBN0pNSEVnbzB4dFJEdFBwazE4UEgyWmFzSGZvRnNwVGZTOTRXUHJwX09EcE1JNUdNc3QxWlp4RXdzYzJDamU4eDA?oc=5)
 
-Rising prices have created an affordability crisis for many Americans. Some consumers are changing behaviors, while others are carrying on as normal.
-### Stock Rally Wavers at End of Best Week in a Month | Bloomberg Markets: Early Edition 12/26/2025
+---
 
-- Source: Bloomberg Markets
-- Published: 2025-12-26T19:40:02+00:00
-- Link: https://www.bloomberg.com/news/videos/2025-12-26/bloomberg-markets-early-edition-12-26-2025-video
+### 5. Tesla Supplier Slashes Battery Contract After Cybertruck Delays - Yahoo Finance
 
-Paul Sweeney and Caroline Hyde host "Bloomberg Markets," tracking the market's wavering push for a year-end rally, the US strike on Islamic State targets in Nigeria and a recap of the holiday shopping season. (Source: Bloomberg)
-### Guilty Gear Strive Producer offers details on big Version 2.0 update including new characters, rebalancing, new moves and more - EventHubs
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNUlQcW5QWlI3TnF3TGlDQTAyOEt3anBsSlpPMjZVSk12REtxaUZNMmpja19MSFNDSm5EMFZ4RTZrNEVnektuWXQ4SFFxUGtXd2ZaaWFHeHhfdTBLazlJaXlsd0ZseW5tVllsUXNNT2hVclhKWC1Tck9kZ0N6YWgxUjBxNmZqbVBGb3NaWU5R?oc=5) · 2025-12-29
+> Tesla Supplier Slashes Battery Contract After Cybertruck Delays Yahoo Finance Tesla’s 4680 battery supply chain collapses as partner writes down deal by 99% Electrek Tesla Cybertruck Flop Proves Costly for South Korean Supplier Bloomberg.com South Korea's L&F slashes value of ba…
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T19:37:08+00:00
-- Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE40V3Mwd2I1aEJKLVpDV3BtaFFZVTh0dHp3VVVua181UzhaUS0ycEhpNTRlNWxOcWl1TkdWcFp4MEpDaGpvb0JfY2RvQmVsdWJEYmYxQlFIak1YRlVfZzEwMmtvb0p1TEhYMUJ4Z1RKZ2t6RXM?oc=5
+[Read full article →](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNUlQcW5QWlI3TnF3TGlDQTAyOEt3anBsSlpPMjZVSk12REtxaUZNMmpja19MSFNDSm5EMFZ4RTZrNEVnektuWXQ4SFFxUGtXd2ZaaWFHeHhfdTBLazlJaXlsd0ZseW5tVllsUXNNT2hVclhKWC1Tck9kZ0N6YWgxUjBxNmZqbVBGb3NaWU5R?oc=5)
 
-Guilty Gear Strive Producer offers details on big Version 2.0 update including new characters, rebalancing, new moves and more EventHubs Check out a segment from the GUILTY GEAR -STRIVE- MUSIC LIVE event GoNintendo Guilty Gear Strive Korea Live Show Set for March 2026, New Promo…
-### Treat yourself: The best smart glasses to buy with your holiday gift money - TechCrunch
+---
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T16:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNTlh4SWcyWXFSWlhfdEVKMGYtZ0JqdUR0di1YRWdtRlN2M2NEVWZ3OXVkeUNkNVNGZk5hamRuZGhaZjkyMWFSRXJTQ2RfdEtxUGdFaUY1WmNiRGlIUHdZYnJKVmhuUHdhdHljLWJDNmE0WEFscW1NTWVqRVdQbjdNeFZYVF80cTRsLVBPd3lkRnVIRXJ6MThQNklKX3AtT1gyOFVhSDlQT29kaVJH?oc=5
+### 6. GM's record stock performance beats Tesla, Ford and other automakers in 2025 - CNBC
 
-Treat yourself: The best smart glasses to buy with your holiday gift money TechCrunch If you thought 2025 was a good year for XR, just wait until you see what's coming in 2026 Android Central [News] Automakers Race Into the Emerging AI Glasses Arena TrendForce Top 7 Augmented Re…
-### Google is rolling out a new feature allowing users to change their Gmail address
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sN1p5VWpFTTRoSERWUDl4eF9ra2RKTHIzdk5CNGN4NTBiRV9DSFAyZHhOUFRyR2xhZDhjVm5RazZhYUxlWldFOXR6WXBpOFFsTDJCX1BQcTEwQ0p5VDBfN2xqZk04T0XSAWxBVV95cUxOS2R2UkVLSkRkWmRNcExKT3pmR1RXYnEwUDlkaHYxTU9McGxkT2dRXzhXdm41cmQ5ZVl4UC03Vm5lZ2NSbzZXekVjUDF1Ui1tel8yRVI0cDF4b0ttMnpMNXNFWXAyMWRKMnQ5MzQ?oc=5) · 2025-12-29
+> GM's record stock performance beats Tesla, Ford and other automakers in 2025 CNBC General Motors (GM) Surges Over 55%, Reaches All-Time High GuruFocus ‘This Cash Flow Monster Isn’t Done Yet,’ Says Analyst on General Motors Stock (GM) TipRanks How Strong Results, U.S. Onshoring,…
 
-- Source: CNBC Top News
-- Published: 2025-12-26T15:38:06+00:00
-- Link: https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html
+[Read full article →](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sN1p5VWpFTTRoSERWUDl4eF9ra2RKTHIzdk5CNGN4NTBiRV9DSFAyZHhOUFRyR2xhZDhjVm5RazZhYUxlWldFOXR6WXBpOFFsTDJCX1BQcTEwQ0p5VDBfN2xqZk04T0XSAWxBVV95cUxOS2R2UkVLSkRkWmRNcExKT3pmR1RXYnEwUDlkaHYxTU9McGxkT2dRXzhXdm41cmQ5ZVl4UC03Vm5lZ2NSbzZXekVjUDF1Ui1tel8yRVI0cDF4b0ttMnpMNXNFWXAyMWRKMnQ5MzQ?oc=5)
 
-Google says it is rolling out a feature that lets users change their Gmail addresses in a long-requested update to their email policy.
-### Pressure grows on Target as activist investor builds stake - Financial Times
+---
 
-- Source: Google News (Business)
-- Published: 2025-12-26T14:59:52+00:00
-- Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE42ZnEtdnR2WnBoOWZ6TVpQN0FPNjNzcTJmQWl4elBKMTdpQ2kzUmw4V0dfREJjakdLLWxTU2VwN0M1cW5iVTBETGZDMndrR01naGV0QzRQOTg2d1RjeWVzRXF2akFXU1lSSEYyRk1ZUV8?oc=5
+### 7. S&P 500 hits new highs, flight cancellations, the restaurant industry's value push and more in Morning Squawk - CNBC
 
-Pressure grows on Target as activist investor builds stake Financial Times Target’s beaten-down stock gets a lift after report of ‘significant investment’ from Toms Capital MarketWatch Target Jumps After FT Reports Activist Toms Capital Took Stake Bloomberg.com Target faces acti…
-### After 23 years working for Jeff Bezos, the CEO of a $1.3 billion skills platform shares lessons he learned from Andy Jassy and the Amazon founder
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVUVSci1fSmJnOTZwck9KbnNRdXcwV3llOWpwczV4XzJuTGdzWU44azFSTUpqUXVMeTRtdlVOTl9jOGlqYnNTZ2xmWWVhLTZ2azNnU2EyTHVUaFBoT0JybGg4TVM3d1EteVVWMWFZZUhKdV8xX280MjR0dnc1VFkzRHBKZ0FGYWNRaXBz0gGQAUFVX3lxTE0zUnplajlFcjNjUjQ3bmhqcUFucDZPaWFnTGVDcXVGZTFkelExamI3NndUSkZrbkljUmpsQUdZTzJvTVoxR2RtUGNRQzJHUnZGamdlZ2xjS19zNG5Va2FZUHhsbjAtQXJ1dktCYWczSXgxSmJZcUVUZ0x1MUJVWER4WURTZUswOWhiQXg0bmw3ag?oc=5) · 2025-12-29
+> S&P 500 hits new highs, flight cancellations, the restaurant industry's value push and more in Morning Squawk CNBC Stocks sit near record highs as 'Santa Claus rally' builds, 2026 approaches: What to watch this week Yahoo Finance Charting the Markets: S&P 500 Hit All-Time High B…
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-26T08:02:00+00:00
-- Link: https://finance.yahoo.com/news/23-years-working-jeff-bezos-080200591.html
+[Read full article →](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVUVSci1fSmJnOTZwck9KbnNRdXcwV3llOWpwczV4XzJuTGdzWU44azFSTUpqUXVMeTRtdlVOTl9jOGlqYnNTZ2xmWWVhLTZ2azNnU2EyTHVUaFBoT0JybGg4TVM3d1EteVVWMWFZZUhKdV8xX280MjR0dnc1VFkzRHBKZ0FGYWNRaXBz0gGQAUFVX3lxTE0zUnplajlFcjNjUjQ3bmhqcUFucDZPaWFnTGVDcXVGZTFkelExamI3NndUSkZrbkljUmpsQUdZTzJvTVoxR2RtUGNRQzJHUnZGamdlZ2xjS19zNG5Va2FZUHhsbjAtQXJ1dktCYWczSXgxSmJZcUVUZ0x1MUJVWER4WURTZUswOWhiQXg0bmw3ag?oc=5)
+
+---
+
+### 8. Electric vehicles had a bumpy road in 2025 — and one pleasant surprise - NPR
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMidkFVX3lxTFBlX0FLZlNxaDZjTUx4SHhvTDI5Mlh5cmRKVElpSzNBV1FncU1hSWRWOEFLNzlTTWhkME93SmltUUNzMWtSRWRXMjNOSWRFMVdNWFlPS2kzLU15aTJYVGJPUlpRb2hvNW9oWlNtRTNSZVhwUGkwanc?oc=5) · 2025-12-29
+> Electric vehicles had a bumpy road in 2025 — and one pleasant surprise NPR EV realism is here. How automakers react in 2026 will be telling CNBC American Automakers Are Facing an Expensive EV Dilemma amid Erratic Federal Rules Car and Driver Three EV Stocks and Policy Headwinds:…
+
+[Read full article →](https://news.google.com/rss/articles/CBMidkFVX3lxTFBlX0FLZlNxaDZjTUx4SHhvTDI5Mlh5cmRKVElpSzNBV1FncU1hSWRWOEFLNzlTTWhkME93SmltUUNzMWtSRWRXMjNOSWRFMVdNWFlPS2kzLU15aTJYVGJPUlpRb2hvNW9oWlNtRTNSZVhwUGkwanc?oc=5)
+
+---
+
+### 9. Luxury goods were once built to last. Now, some fall apart as easily as fast fashion - CNN
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMic0FVX3lxTE4tYzVWVGpQYV9FN2FiaXVOekdBVTFmQTFjR1hUZkgwY3NoQzZUMWlTYWtwMFN1SXhhcDEzcGF1THN5a0dMM2ZxaEtUVU5DR1VDNWh2RWEtM25mSHJKbGR6QnlCMGJyUERUamxnQmpNNTBRY0U?oc=5) · 2025-12-29
+> Luxury goods were once built to last. Now, some fall apart as easily as fast fashion CNN
+
+[Read full article →](https://news.google.com/rss/articles/CBMic0FVX3lxTE4tYzVWVGpQYV9FN2FiaXVOekdBVTFmQTFjR1hUZkgwY3NoQzZUMWlTYWtwMFN1SXhhcDEzcGF1THN5a0dMM2ZxaEtUVU5DR1VDNWh2RWEtM25mSHJKbGR6QnlCMGJyUERUamxnQmpNNTBRY0U?oc=5)
+
+---
+
+### 10. If You Invested $5000 In Tesla Around Christmas 2020, Here's How Much It Would Be Worth Today - Yahoo Finance
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjRwMjFORk5mbEVYMF9STHpNUmRwQWJzdTZjcDlXMkI1NE1Md1BJaUxuZXhsMkgtdWhmQkhvNFlSNjE5VVlSc1cteUltTmkxY01YeGZxZ2NHSGFLX3Z1TzlXSXQzRzJsTy1QdElmOVp5NzhNcXhtVE50QXdQanhRalJjMUlXX1N3LUE?oc=5) · 2025-12-29
+> If You Invested $5000 In Tesla Around Christmas 2020, Here's How Much It Would Be Worth Today Yahoo Finance Big Moves On The Horizon For Tesla Stock With These Two Deadlines Looming Investor's Business Daily Is Tesla Stock Still a Millionaire Maker? Nasdaq What’s ahead for Tesla…
+
+[Read full article →](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjRwMjFORk5mbEVYMF9STHpNUmRwQWJzdTZjcDlXMkI1NE1Md1BJaUxuZXhsMkgtdWhmQkhvNFlSNjE5VVlSc1cteUltTmkxY01YeGZxZ2NHSGFLX3Z1TzlXSXQzRzJsTy1QdElmOVp5NzhNcXhtVE50QXdQanhRalJjMUlXX1N3LUE?oc=5)
+
+---
+
+### 11. As Tesla Faces a New Investigation Over Door Safety, How Should You Play TSLA Stock Heading into 2026?
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/tesla-faces-investigation-over-door-140001111.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/tesla-faces-investigation-over-door-140001111.html)
+
+---
+
+### 12. One House, Three Owners: The Ballooning Cost of the American Dream
+
+**Source:** [The Wall Street Journal (Markets)](https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main) · 2025-01-25
+> The story of home affordability in the U.S. told from a single front porch.
+
+[Read full article →](https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main)
+
+---
 
 
-### Our Picky Editors Found 19 Worthwhile After-Christmas Sales From Vitamix, Anova, and More - Serious Eats
+## About This Brief
 
-- Source: Google News (Business)
-- Published: 2025-12-26T08:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5Cd2sxUlJHSWxXMFlrbkxTV3liU0NRS3AycHNWOF9OR3g0eGhjdUo4dWtPYmV4aGJsTFNEVTNRdlZoay1wb19OVGI0NnpRQzNTUmtZdmpkcTZqd0tIMl90cWQ1QklPTHFkbmItbUd6YUlOb0tfeDBn?oc=5
+This daily Consumer Discretionary sector intelligence brief is auto-generated from 9+ trusted financial news sources. Updated every morning at 8 AM UTC.
 
-Our Picky Editors Found 19 Worthwhile After-Christmas Sales From Vitamix, Anova, and More Serious Eats I've Covered Amazon for 7 Years, and Here's Everything I'm Buying From Its Major After-Christmas Sale—From $6 Real Simple I Found 19 After-Christmas Designer Deals on Amazon—Sc…
-### Yen weakens as Tokyo inflation cools more than expected - The Japan Times
-
-- Source: Google News (Business)
-- Published: 2025-12-26T00:56:00+00:00
-- Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxNQW5rNW1oWHR4V1VaMFRZbmZ3ZlB4bFE5MURoTTVQX181TDlSZldoLVhKUWNLNkhGT2M3RG1EUF9kdmlYd09yQ3Zpci00QUpZOGhNSmpDUmFiU0Zoalp6MmtmdUFVbjkyd2tVclpfZ1IySndyaHgzcU92eHVVbE9UcTFOZUJRQ20xdFE?oc=5
-
-Yen weakens as Tokyo inflation cools more than expected The Japan Times BOJ chief sees progress in hitting price goal, signals further hikes Reuters Ueda Signals Further Hikes With More Confidence Over Price Goal Bloomberg.com Tokyo CPI Falls To 2% As Gold, Silver Rally Leaves B…
-### Holiday spending data points to a ‘K-shaped’ Christmas - The Globe and Mail
-
-- Source: Google News (Business)
-- Published: 2025-12-25T22:26:30+00:00
-- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV1F4TzVZeUc3V0M4ZXV3d2ZoSXBFWVcybzVvWDN6QzdjdFBZOUQ5b1N1OFdmeG5oSUxUbXNvaTMyeG9KNC1pOFh5NGF1Q18wZnpndjAwSGZnemI4OF9HUXBWYnUwcjVCMFUwaHdDRTVQRDdVa2VvVTE0Q3VEUmliNVpQVGRXb2Jid0FvWlFBWEVsYVhFcTJQd2xnbjFmUXo3cmtlbGs2UFVETDl5MHFEdTNJOHpsS3dWTy1sQ3JZU1FWcEdPZXRKYlRzR0FpWHlZX1E?oc=5
-
-Holiday spending data points to a ‘K-shaped’ Christmas The Globe and Mail More thrifting and fewer returns, the early trends that defined shopping this holiday AP News Shoppers Spent Big This Holiday Season, Despite Economic Pressures The New York Times Local shops feel the Chri…
-### Amazon faces 'leader's dilemma' — fight AI shopping bots or join them
-
-- Source: CNBC Top News
-- Published: 2025-12-24T15:30:34+00:00
-- Link: https://www.cnbc.com/2025/12/24/amazon-faces-a-dilemma-fight-ai-shopping-agents-or-join-them.html
-
-Agents like OpenAI's Instant Checkout and Perplexity's Instant Buy threaten to reshape the e-commerce landscape.
-### 'Witch hunt': Ex-EU commissioner Breton denounces U.S. visa ban targeting 'censorship'
-
-- Source: CNBC Top News
-- Published: 2025-12-24T13:45:42+00:00
-- Link: https://www.cnbc.com/2025/12/24/us-bans-visas-for-ex-eu-commissioner-over-alleged-censorship.html
-
-The former EU commissioner and four anti-disinformation campaigners were the subject of U.S. travel sanctions.
-### Affordability is a buzzword right now — these charts show why
-
-- Source: CNBC Top News
-- Published: 2025-12-24T13:40:01+00:00
-- Link: https://www.cnbc.com/2025/12/24/affordability-is-a-buzzword-right-now-these-charts-show-why.html
-
-Affordability is top of mind for consumers and politicians as prices for household staples have risen sharply in recent years.
-### One House, Three Owners: The Ballooning Cost of the American Dream
-
-- Source: The Wall Street Journal (Markets)
-- Published: 2025-01-25T21:00:00-05:00
-- Link: https://www.wsj.com/articles/rising-house-mortgage-costs-north-carolina-home-468a46e5?mod=rss_markets_main
-
-The story of home affordability in the U.S. told from a single front porch.
+**Related:** [View all sectors for 2025-12-27](/2025-12-27/) | [Subscribe via RSS](/feed.xml)

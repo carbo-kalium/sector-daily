@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sector Intelligence Daily - Free Market News by Sector</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #fafafa;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1em 2em 1em;
+        }
+        
+        a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        footer {
+            margin-top: 3em;
+            padding: 2em 0;
+            border-top: 1px solid #ddd;
+            text-align: center;
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        footer p {
+            margin: 0.5em 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <style>
+  .hero {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 3em 2em;
+    border-radius: 8px;
+    margin-bottom: 2em;
+    text-align: center;
+  }
+
+  .hero h1 {
+    margin: 0 0 0.5em 0;
+    font-size: 2.5em;
+  }
+
+  .hero p {
+    margin: 0;
+    font-size: 1.1em;
+    opacity: 0.95;
+  }
+
+  .tabs-container {
+    margin: 2em 0;
+  }
+
+  .tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 2em;
+    overflow-x: auto;
+    padding-bottom: 1em;
+  }
+
+  .tab-button {
+    padding: 0.75em 1.25em;
+    border: none;
+    background: #f0f0f0;
+    color: #333;
+    cursor: pointer;
+    border-radius: 4px 4px 0 0;
+    font-weight: 500;
+    transition: all 0.3s;
+    white-space: nowrap;
+  }
+
+  .tab-button:hover {
+    background: #e0e0e0;
+  }
+
+  .tab-button.active {
+    background: #667eea;
+    color: white;
+  }
+
+  .tab-content {
+    display: none;
+    animation: fadeIn 0.3s;
+  }
+
+  .tab-content.active {
+    display: block;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  .news-container {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 2em;
+    margin-bottom: 2em;
+  }
+
+  .news-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5em;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 1em;
+  }
+
+  .news-header h2 {
+    margin: 0;
+    color: #333;
+  }
+
+  .news-date {
+    color: #999;
+    font-size: 0.95em;
+  }
+
+  .nav-buttons {
+    display: flex;
+    gap: 1em;
+  }
+
+  .nav-btn {
+    padding: 0.5em 1em;
+    border: 1px solid #ddd;
+    background: #f8f9fa;
+    color: #333;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: 500;
+    transition: all 0.2s;
+  }
+
+  .nav-btn:hover:not(:disabled) {
+    background: #667eea;
+    color: white;
+    border-color: #667eea;
+  }
+
+  .nav-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  .news-content {
+    line-height: 1.8;
+    color: #333;
+  }
+
+  .news-content h3 {
+    margin: 1.5em 0 0.5em 0;
+    color: #667eea;
+    font-size: 1.1em;
+  }
+
+  .news-content a {
+    color: #667eea;
+    text-decoration: none;
+  }
+
+  .news-content a:hover {
+    text-decoration: underline;
+  }
+
+  .empty-state {
+    text-align: center;
+    padding: 2em;
+    color: #999;
+  }
+
+  .search-section {
+    background: #f8f9fa;
+    padding: 2em;
+    border-radius: 8px;
+    margin-top: 3em;
+  }
+
+  .search-section h2 {
+    margin-top: 0;
+    color: #667eea;
+  }
+
+  .search-form {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1em;
+    margin-bottom: 1em;
+  }
+
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .form-group label {
+    margin-bottom: 0.5em;
+    font-weight: 500;
+    color: #333;
+  }
+
+  .form-group select,
+  .form-group input {
+    padding: 0.75em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1em;
+  }
+
+  .form-group select:focus,
+  .form-group input:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+  }
+
+  .search-btn {
+    padding: 0.75em 1.5em;
+    background: #667eea;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.2s;
+    align-self: flex-end;
+  }
+
+  .search-btn:hover {
+    background: #764ba2;
+  }
+
+  .about-section {
+    background: white;
+    padding: 2em;
+    border-radius: 8px;
+    margin-top: 3em;
+    border: 1px solid #ddd;
+  }
+
+  .about-section h2 {
+    margin-top: 0;
+    color: #667eea;
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1em;
+    margin: 2em 0;
+  }
+
+  .stat-box {
+    text-align: center;
+    padding: 1.5em;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+  }
+
+  .stat-number {
+    font-size: 2em;
+    font-weight: bold;
+    color: #667eea;
+  }
+
+  .stat-label {
+    color: #666;
+    font-size: 0.9em;
+    margin-top: 0.5em;
+  }
+</style>
+
+<div class="hero">
+  <h1>📊 Sector Intelligence Daily</h1>
+  <p>Free daily market news curated by sector. Updated every morning at 6 AM CST (12 PM UTC).</p>
+</div>
+
+<div class="stats">
+  <div class="stat-box">
+    <div class="stat-number">11</div>
+    <div class="stat-label">Sectors Covered</div>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">10+</div>
+    <div class="stat-label">News Sources</div>
+  </div>
+  <div class="stat-box">
+    <div class="stat-number">Daily</div>
+    <div class="stat-label">Updates</div>
+  </div>
+</div>
+
+<div class="tabs-container">
+  <h2 style="margin-top: 0;">Today's News by Sector</h2>
+  
+  <div class="tabs">
+    <button class="tab-button active" onclick="switchTab(event, 'energy')">🔋 Energy</button>
+    <button class="tab-button" onclick="switchTab(event, 'materials')">🏗️ Materials</button>
+    <button class="tab-button" onclick="switchTab(event, 'industrials')">✈️ Industrials</button>
+    <button class="tab-button" onclick="switchTab(event, 'consumer-discretionary')">🛍️ Discretionary</button>
+    <button class="tab-button" onclick="switchTab(event, 'consumer-staples')">🥫 Staples</button>
+    <button class="tab-button" onclick="switchTab(event, 'health-care')">⚕️ Health Care</button>
+    <button class="tab-button" onclick="switchTab(event, 'financials')">💰 Financials</button>
+    <button class="tab-button" onclick="switchTab(event, 'information-technology')">💻 Tech</button>
+    <button class="tab-button" onclick="switchTab(event, 'communication-services')">📱 Comms</button>
+    <button class="tab-button" onclick="switchTab(event, 'utilities')">⚡ Utilities</button>
+    <button class="tab-button" onclick="switchTab(event, 'real-estate')">🏢 Real Estate</button>
+  </div>
+
+  
+  
+
+  
+    <div id="energy" class="tab-content active">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>Energy Daily Brief</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-energy">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
+    <div id="materials" class="tab-content ">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>Materials Daily Brief</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-materials">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
+    <div id="industrials" class="tab-content ">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>Industrials Daily Brief</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-industrials">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
+    <div id="consumer-discretionary" class="tab-content ">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>Consumer discretionary Daily Brief</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-consumer-discretionary">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
+    <div id="consumer-staples" class="tab-content ">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>Consumer staples Daily Brief</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-consumer-staples">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
+    <div id="health-care" class="tab-content ">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>Health care Daily Brief</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-health-care">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
+    <div id="financials" class="tab-content ">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>Financials Daily Brief</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-financials">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
+    <div id="information-technology" class="tab-content ">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>Information technology Daily Brief</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-information-technology">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
+    <div id="communication-services" class="tab-content ">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>Communication services Daily Brief</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-communication-services">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
+    <div id="utilities" class="tab-content ">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>Utilities Daily Brief</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-utilities">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
+    <div id="real-estate" class="tab-content ">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>Real estate Daily Brief</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-real-estate">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
+</div>
+
+<div class="search-section">
+  <h2>🔍 Search Historical News</h2>
+  <p>Find news briefings from any past date by selecting a sector and date below.</p>
+  <div class="search-form">
+    <div class="form-group">
+      <label for="search-sector">Sector</label>
+      <select id="search-sector">
+        <option value="">-- Select Sector --</option>
+        <option value="energy">🔋 Energy</option>
+        <option value="materials">🏗️ Materials</option>
+        <option value="industrials">✈️ Industrials</option>
+        <option value="consumer-discretionary">🛍️ Consumer Discretionary</option>
+        <option value="consumer-staples">🥫 Consumer Staples</option>
+        <option value="health-care">⚕️ Health Care</option>
+        <option value="financials">💰 Financials</option>
+        <option value="information-technology">💻 Information Technology</option>
+        <option value="communication-services">📱 Communication Services</option>
+        <option value="utilities">⚡ Utilities</option>
+        <option value="real-estate">🏢 Real Estate</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="search-date">Date</label>
+      <input type="date" id="search-date">
+    </div>
+    <button class="search-btn" onclick="searchNews()">Search</button>
+  </div>
+  <div id="search-results"></div>
+</div>
+
+<div class="about-section">
+  <h2>About Sector Intelligence Daily</h2>
+  <p>An automated financial news aggregator that scans 10+ trusted sources (CNBC, Bloomberg, Yahoo Finance, WSJ, FT, and more) and organizes stories into 11 major market sectors aligned with SPDR ETFs.</p>
+  <p><strong>Updated:</strong> Daily at 6:00 AM CST (12:00 PM UTC) | <strong>Sources:</strong> Public RSS feeds | <strong>No AI:</strong> Extractive summaries only</p>
+</div>
+
+<script>
+let currentDate = new Date();
+let sectors = ["energy", "materials", "industrials", "consumer-discretionary", "consumer-staples", "health-care", "financials", "information-technology", "communication-services", "utilities", "real-estate"];
+
+function formatDate(date) {
+  return date.toISOString().split('T')[0];
+}
+
+function switchTab(evt, tabName) {
+  var i, tabcontent, tabbuttons;
+  
+  tabcontent = document.getElementsByClassName("tab-content");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].classList.remove("active");
+  }
+  
+  tabbuttons = document.getElementsByClassName("tab-button");
+  for (i = 0; i < tabbuttons.length; i++) {
+    tabbuttons[i].classList.remove("active");
+  }
+  
+  document.getElementById(tabName).classList.add("active");
+  evt.currentTarget.classList.add("active");
+  
+  loadNewsContent(tabName, currentDate);
+}
+
+function loadNewsContent(sector, date) {
+  const dateStr = formatDate(date);
+  const filePath = `./${dateStr}/${sector}/index.html`;
+  
+  fetch(filePath)
+    .then(response => {
+      if (!response.ok) throw new Error('Not found');
+      return response.text();
+    })
+    .then(content => {
+      const newsDiv = document.getElementById(`news-${sector}`);
+      
+      // Parse HTML and extract only the article content
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(content, 'text/html');
+      const articleContent = doc.querySelector('article') || doc.querySelector('.post-content') || doc.querySelector('main');
+      
+      if (articleContent) {
+        // Add target="_blank" to all links
+        const links = articleContent.querySelectorAll('a');
+        links.forEach(link => link.setAttribute('target', '_blank'));
+        
+        newsDiv.innerHTML = articleContent.innerHTML;
+      } else {
+        newsDiv.innerHTML = '<p class="empty-state">No articles found for this date.</p>';
+      }
+      
+      const dateDisplay = newsDiv.closest('.news-container').querySelector('.news-date');
+      if (dateDisplay) dateDisplay.textContent = dateStr;
+      updateNavButtons(dateStr);
+    })
+    .catch(error => {
+      console.error('Error loading news:', error, 'Path:', filePath);
+      document.getElementById(`news-${sector}`).innerHTML = '<p class="empty-state">No articles found for this date.</p>';
+      updateNavButtons(dateStr);
+    });
+}
+
+function updateNavButtons(dateStr) {
+  const today = formatDate(new Date());
+  const nextBtn = document.getElementById('next-btn');
+  const prevBtn = document.getElementById('prev-btn');
+  
+  nextBtn.disabled = dateStr >= today;
+  prevBtn.disabled = false;
+}
+
+function previousDay() {
+  currentDate.setDate(currentDate.getDate() - 1);
+  const activeSector = document.querySelector('.tab-button.active').getAttribute('onclick').match(/'([^']+)'/)[1];
+  loadNewsContent(activeSector, currentDate);
+}
+
+function nextDay() {
+  const today = new Date();
+  const dateStr = formatDate(currentDate);
+  const todayStr = formatDate(today);
+  
+  if (dateStr < todayStr) {
+    currentDate.setDate(currentDate.getDate() + 1);
+    const activeSector = document.querySelector('.tab-button.active').getAttribute('onclick').match(/'([^']+)'/)[1];
+    loadNewsContent(activeSector, currentDate);
+  }
+}
+
+function searchNews() {
+  const sector = document.getElementById('search-sector').value;
+  const dateInput = document.getElementById('search-date').value;
+  
+  if (!sector || !dateInput) {
+    alert('Please select both a sector and a date');
+    return;
+  }
+  
+  const searchDate = new Date(dateInput);
+  currentDate = new Date(searchDate);
+  
+  const filePath = `./${dateInput}/${sector}/index.html`;
+  
+  fetch(filePath)
+    .then(response => {
+      if (!response.ok) throw new Error('Not found');
+      return response.text();
+    })
+    .then(content => {
+      const resultsDiv = document.getElementById('search-results');
+      
+      // Parse HTML and extract only the article content
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(content, 'text/html');
+      const articleContent = doc.querySelector('article') || doc.querySelector('.post-content') || doc.querySelector('main');
+      
+      if (articleContent) {
+        // Add target="_blank" to all links
+        const links = articleContent.querySelectorAll('a');
+        links.forEach(link => link.setAttribute('target', '_blank'));
+        
+        let htmlContent = `<div style="background: white; padding: 1.5em; border-radius: 8px; margin-top: 1em;">`;
+        htmlContent += articleContent.innerHTML;
+        htmlContent += '</div>';
+        resultsDiv.innerHTML = htmlContent;
+      } else {
+        resultsDiv.innerHTML = '<p class="empty-state">No articles found for the selected date and sector.</p>';
+      }
+    })
+    .catch(error => {
+      console.error('Search error:', error, 'Path:', filePath);
+      document.getElementById('search-results').innerHTML = '<p class="empty-state">No articles found for the selected date and sector.</p>';
+    });
+}
+
+// Load initial content on page load
+document.addEventListener('DOMContentLoaded', function() {
+  loadNewsContent('energy', currentDate);
+  document.getElementById('search-date').valueAsDate = new Date();
+});
+</script>
+
+        
+        <footer>
+            <p><strong>Sector Intelligence Daily</strong></p>
+            <p>Free daily market intelligence across 11 major sectors. Updated every morning with curated news from trusted financial sources.</p>
+            <p>Contact: <a href="mailto:contact@sector-intel.com">contact@sector-intel.com</a></p>
+        </footer>
+    </div>
+</body>
+</html>

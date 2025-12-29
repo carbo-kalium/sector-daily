@@ -35,29 +35,33 @@ class KeywordSectorClassifier:
 
         best_sector = self._default
         best_score = 0
+        health_score = 0
 
         for sector in set(self._sector_keywords.keys()) | set(self._sector_companies.keys()):
             score = 0
-            
             keywords = self._sector_keywords.get(sector, [])
             for kw in keywords:
                 if not kw:
                     continue
                 if kw in haystack:
                     score += 1
-            
             companies = self._sector_companies.get(sector, [])
             for company in companies:
                 if not company:
                     continue
                 if company in haystack:
                     score += 2
-            
+            if sector.lower().replace(" ", "-") in ("health-care", "healthcare"):
+                health_score = score
             if score > best_score:
                 best_sector = sector
                 best_score = score
 
+        # Prefer Health Care if tied or nearly tied
+        if health_score > 0 and (health_score == best_score or health_score + 1 == best_score):
+            return ClassificationResult(sector="Health Care", score=health_score)
         return ClassificationResult(sector=best_sector, score=best_score)
+
 
     def assign_sector(self, article: Article) -> Article:
         res = self.classify(article)

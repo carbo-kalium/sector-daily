@@ -1,704 +1,951 @@
 ---
-title: "Industrials Sector News Brief — 2025-12-27"
+layout: post
+title: "Industrials Sector Daily Brief: Top Market News for 2025-12-27"
 date: "2025-12-27"
 sector: "Industrials"
-description: "Daily Industrials sector news roundup based on free RSS sources."
+etf: "XLI"
+description: "Today's Industrials sector headlines: 104 stories covering copper, year, rise, silver, more. Free daily market intelligence for investors."
+keywords: "Industrials, XLI, stock market news, sector news, 2025-12-27, market intelligence, investing news"
+og_title: "Industrials Daily Brief — 2025-12-27"
+og_description: "104 breaking stories in Industrials: Copper Hits Record in London as Supply Fears Fuel ..., Silver tops $80 for first time, then stages dramat..., Why your kitchen cabinets and furniture could get ..."
+permalink: /2025-12-27/industrials/
 ---
 
-# Industrials Sector News Brief (2025-12-27)
+# Industrials Sector Daily Brief
+## 2025-12-27 — 104 Stories
 
-## Top stories
+**Today's highlights:** copper, year, rise, silver, more
 
-### Airlines cancel over 1,000 flights as winter storm hits U.S. Northeast
+---
 
-- Source: Seeking Alpha (Market News)
-- Published: 2025-12-27T10:00:13-05:00
-- Link: https://seekingalpha.com/news/4535579-airlines-cancel-over-1000-flights-amid-us-winter-storm?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+### 1. Copper Hits Record in London as Supply Fears Fuel Rally - Yahoo Finance
 
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMigAFBVV95cUxOajhCcWJZeGdybmJsS2VkUVpabjZBU1BEWGVTRWgwejFuMzZ1a0RHeDNmSTlod2NpYW5sbS01WWphSnhFWGh1SmpUTm53SENvMTdWRXlRc3dIa2lsZkpSX0lua0FHT2tidWI5MGRYNU43SThTQnRCejYxbm52Y3BqVA?oc=5) · 2025-12-29
+> Copper Hits Record in London as Supply Fears Fuel Rally Yahoo Finance Copper prices rise by most in over a decade Financial Times Copper price nears $13,000 on tariffs woes, supply strain Mining.com Trade to watch 2026: Copper’s time to shine? FOREX.com Copper price on track for…
 
-### Billionaire hedge fund manager sends harsh warning on XRP
+[Read full article →](https://news.google.com/rss/articles/CBMigAFBVV95cUxOajhCcWJZeGdybmJsS2VkUVpabjZBU1BEWGVTRWgwejFuMzZ1a0RHeDNmSTlod2NpYW5sbS01WWphSnhFWGh1SmpUTm53SENvMTdWRXlRc3dIa2lsZkpSX0lua0FHT2tidWI5MGRYNU43SThTQnRCejYxbm52Y3BqVA?oc=5)
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-27T14:14:09+00:00
-- Link: https://finance.yahoo.com/news/billionaire-hedge-fund-manager-sends-141409303.html
+---
 
+### 2. Silver tops $80 for first time, then stages dramatic reversal overnight
 
-### Airlines cancel 600 more flights but disruptions from winter storm ease. Here's what to know
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/29/silver-tops-80-for-first-time-then-stages-dramatic-reversal-overnight.html) · 2025-12-29
+> Silver slid more than 8% on Monday, after topping $80 for the first time ever in overnight trading.
 
-- Source: CNBC Top News
-- Published: 2025-12-27T14:10:42+00:00
-- Link: https://www.cnbc.com/2025/12/26/winter-storm-flight-cancellations.html
+[Read full article →](https://www.cnbc.com/2025/12/29/silver-tops-80-for-first-time-then-stages-dramatic-reversal-overnight.html)
 
-Airlines waived change fees ahead of a large winter storm and low temperatures after Christmas holiday.
-### ‘It’s heartbreaking’: My cousin died and her estranged husband has taken possession of her home. Can we evict him?
+---
 
-- Source: MarketWatch Top Stories
-- Published: 2025-12-27T14:10:00+00:00
-- Link: https://www.marketwatch.com/story/its-heartbreaking-my-cousin-died-and-her-estranged-husband-has-taken-possession-of-her-home-can-we-evict-him-742e8446?mod=mw_rss_topstories
+### 3. Why your kitchen cabinets and furniture could get more expensive next year
 
-“The house remains in her name. He has since kicked out each of the boys one by one.”
-### A humanoid-robot revolution is coming. Don’t worry — here’s why it will take a while.
+**Source:** [MarketWatch Top Stories](https://www.marketwatch.com/story/why-your-kitchen-cabinets-and-furniture-could-get-more-expensive-next-year-4cff045f?mod=mw_rss_topstories) · 2025-12-29
+> Prices for some everyday home items may be about to get more expensive, as U.S. tariff rates on imports of certain furniture and kitchen cabinets are set to rise beginning Thursday.
 
-- Source: MarketWatch Top Stories
-- Published: 2025-12-27T14:00:00+00:00
-- Link: https://www.marketwatch.com/story/a-humanoid-robot-revolution-is-coming-dont-worry-heres-why-it-will-take-a-while-8e2b1d08?mod=mw_rss_topstories
+[Read full article →](https://www.marketwatch.com/story/why-your-kitchen-cabinets-and-furniture-could-get-more-expensive-next-year-4cff045f?mod=mw_rss_topstories)
 
-Robots that mimic humans are set to create a $5 trillion market. But it will take years and a lot of improvements to get there.
-### 401(k), Social Security, or pension? The order you choose can mean financial health or disaster. Get it right in 2026
+---
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-27T14:00:00+00:00
-- Link: https://finance.yahoo.com/news/401-k-social-security-pension-140000718.html
+### 4. ‘The bulls are definitely spooked’: Has silver’s stunning rise this year run out of steam?
 
+**Source:** [MarketWatch Top Stories](https://www.marketwatch.com/story/the-bulls-are-definitely-spooked-has-silvers-stunning-rise-this-year-run-out-of-steam-854100db?mod=mw_rss_topstories) · 2025-12-29
+> Thin holiday trading, higher margin costs and other factors trigger silver’s biggest daily dollar decline since 1980.
 
-### Peter Thiel warns US real estate ‘catastrophe’ will deal massive blow to young Americans, but boomers might get windfall
+[Read full article →](https://www.marketwatch.com/story/the-bulls-are-definitely-spooked-has-silvers-stunning-rise-this-year-run-out-of-steam-854100db?mod=mw_rss_topstories)
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-27T13:27:00+00:00
-- Link: https://finance.yahoo.com/news/peter-thiel-warns-us-real-132700099.html
+---
 
+### 5. The miracle of curing Alzheimer’s? No longer an impossibility.
 
-### Why mortgage rates are stuck at 6.2% — and might stay there
+**Source:** [MarketWatch Top Stories](https://www.marketwatch.com/story/the-miracle-of-curing-alzheimers-no-longer-an-impossibility-e385925f?mod=mw_rss_topstories) · 2025-12-29
+> New research shows the disease may one day be reversible.
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-27T13:00:34+00:00
-- Link: https://finance.yahoo.com/news/why-mortgage-rates-are-stuck-at-62--and-might-stay-there-130034088.html
+[Read full article →](https://www.marketwatch.com/story/the-miracle-of-curing-alzheimers-no-longer-an-impossibility-e385925f?mod=mw_rss_topstories)
 
+---
 
-### What are the hottest tech stocks for 2026? Here’s what ChatGPT and Gemini had to say.
+### 6. ‘Grift’ ETF Tied to Washington Access in Trump Era Hits a Wall
 
-- Source: MarketWatch Top Stories
-- Published: 2025-12-27T13:00:00+00:00
-- Link: https://www.marketwatch.com/story/what-are-the-hottest-tech-stocks-for-2026-heres-what-chatgpt-and-gemini-had-to-say-2cf896db?mod=mw_rss_topstories
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/articles/2025-12-29/-grift-etf-tied-to-washington-access-in-trump-era-hits-a-wall) · 2025-12-29
+> Wall Street’s $13 trillion ETF machine pushed boundaries this year, cranking out ever-riskier products to feed retail traders hooked on yield, leverage and novelty.
 
-MarketWatch asked the leading LLMs for their top stock picks — but the answers suggest AI may be following the herd instead of truly reasoning.
-### Tilray Brands, Inc. (TLRY)’s Potential Upside Meets a Cautious Consensus
+[Read full article →](https://www.bloomberg.com/news/articles/2025-12-29/-grift-etf-tied-to-washington-access-in-trump-era-hits-a-wall)
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-27T12:43:18+00:00
-- Link: https://finance.yahoo.com/news/tilray-brands-inc-tlry-potential-124318308.html
+---
 
+### 7. Economic Crosscurrents Heading Into 2026
 
-### Absci Corporation (ABSI) Draws Full Buy Consensus With 150% Upside Potential
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/videos/2025-12-29/economic-crosscurrents-heading-into-2026) · 2025-12-29
+> Jobs data sent mixed signals into the holidays as hiring cooled and unemployment edged higher. But consumers are still spending, inflation is easing, and rate cuts remain in play for 2026. Jennifer Lee, Senior Economist at BMO Capital Markets joins us on what’s flashing yellow a…
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-27T12:43:11+00:00
-- Link: https://finance.yahoo.com/news/absci-corporation-absi-draws-full-124311396.html
+[Read full article →](https://www.bloomberg.com/news/videos/2025-12-29/economic-crosscurrents-heading-into-2026)
 
+---
 
-### Is Autolus Therapeutics plc (AUTL) The Best Get Rich Fast Stocks to Buy Right Now?
+### 8. Softbank to buy data center firm DigitalBridge for $4 billion in AI push
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-27T12:43:01+00:00
-- Link: https://finance.yahoo.com/news/autolus-therapeutics-plc-autl-best-124301972.html
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html) · 2025-12-29
+> Japan's SoftBank on Monday said it has agreed to buy data center investment firm DigitalBridge for $4 billion.
 
+[Read full article →](https://www.cnbc.com/2025/12/29/digitalbridge-shares-jump-on-report-softbank-in-talks-to-acquire-firm.html)
 
-### 'You're going to live on beans and rice': Dave Ramsey tells a 73-year-old without retirement savings how to get on track
+---
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-27T12:40:00+00:00
-- Link: https://finance.yahoo.com/news/youre-going-live-beans-rice-124000210.html
+### 9. Turn your PC into a Super Nintendo with Epilogue’s new USB dock - The Verge
 
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUltdHAxaXhKWFQzUFRIZGlpdDJ0UTdWbDVrUXBEM3BhSzZRdkNLamxRNE9veC1XYThSOUhvOVUtQ1VvLWxiZkVkNUxVYUpxTWgyX1AtOEZJdTU0dy1Nd1BmRVlJTTBmSk9SaGZFa2FaWjZOd2hJYmNuejdsMUVwbkVvY21rT0Y1bHJmTmJzUWFOTU9EaXVRbWFXM1FURU5ZWWdyeUkzVUltTXI0?oc=5) · 2025-12-29
+> Turn your PC into a Super Nintendo with Epilogue’s new USB dock The Verge
 
-### Wall Street Rallies Behind Lexeo Therapeutics (LXEO)’s Gene Therapy Pipeline
+[Read full article →](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTUltdHAxaXhKWFQzUFRIZGlpdDJ0UTdWbDVrUXBEM3BhSzZRdkNLamxRNE9veC1XYThSOUhvOVUtQ1VvLWxiZkVkNUxVYUpxTWgyX1AtOEZJdTU0dy1Nd1BmRVlJTTBmSk9SaGZFa2FaWjZOd2hJYmNuejdsMUVwbkVvY21rT0Y1bHJmTmJzUWFOTU9EaXVRbWFXM1FURU5ZWWdyeUkzVUltTXI0?oc=5)
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-27T12:28:38+00:00
-- Link: https://finance.yahoo.com/news/wall-street-rallies-behind-lexeo-122838594.html
+---
 
+### 10. Big Bank Stocks Come Roaring Back in 2025
 
-### I want to gift my grandnieces, ages 5 and 10, stocks. How do I make sure they get an equal amount when they turn 18?
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/videos/2025-12-29/big-bank-stocks-come-roaring-back-in-2025-video) · 2025-12-29
+> 2025 was a good year for the big banks. The six titans of US banking are up by an average of more than 45% this year, while the stocks of the top four public alternative asset managers are collectively down. Bloomberg's Katherine Chiglinsky reports on The Big Take. (Source: Bloo…
 
-- Source: MarketWatch Top Stories
-- Published: 2025-12-27T12:00:00+00:00
-- Link: https://www.marketwatch.com/story/i-want-to-gift-my-grandnieces-ages-5-and-10-stocks-how-do-i-make-sure-they-get-an-equal-amount-when-they-turn-18-52f12144?mod=mw_rss_topstories
+[Read full article →](https://www.bloomberg.com/news/videos/2025-12-29/big-bank-stocks-come-roaring-back-in-2025-video)
 
-“One child’s portfolio will have an additional five years of growth.”
-### 130 layoffs expected for UPS facility in Alabama - AL.com
+---
 
-- Source: Google News (Business)
-- Published: 2025-12-27T12:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOSDFnWEdHSlFOV2hQQWJpaVlTdTNueUx5ZEFBWGpuZFVLa3hTdnVSMEpHcDVEUVBZeldHeUQtY241UTBURUtJMTlpclBCMDVKRWc2S0s4N3NOU3RZRHZzVVJOQXYtaWJRdDRaRkpFVEplUHBUQl81X2duMnozMjNpcUNpVXcxMHkyVDN1WDY1Z1A2TjTSAacBQVVfeXFMTmNQcjBZSGxHR0tKTmhVdFFCYzR1SW9UT2Yxam56OXBWamhud0JKSjVYNTY5c0VQRkZFVFJhTm1veF9NcjVHRHNOY1JvVUJhQTJCUUs2aDFWWG1KS2tSZEEwNEhCVHp5ZUdNejduNjNZMG9oTV93bjcxUEY3X2RXVGJlQVY3ZG54bFJ4enJHN2ZJSm1NbHRFUG1ueGF5U1RkT0FuN29URUU?oc=5
+### 11. Sandbar Puts AI on Your Finger
 
-130 layoffs expected for UPS facility in Alabama AL.com Montgomery UPS distribution facility to layoff employees WSFA UPS laying off 128 employees in Montgomery 1819 News UPS layoffs land in Alabama, 128 jobs cut in Montgomery Yellowhammer News UPS stock hits 6.42% dividend yiel…
-### China Revises Foreign Trade Law to Safeguard National Interests
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/videos/2025-12-29/sandbar-puts-ai-on-your-finger-video) · 2025-12-29
+> AI wearables have promised a lot — and mostly disappointed. Sandbar’s CEO says this time is different. Mina Fahmi joins us on the Stream Ring, a voice-first AI wearable designed to capture ideas effortlessly — and why the future of AI may finally move beyond the screen. (Source:…
 
-- Source: Bloomberg Markets
-- Published: 2025-12-27T11:59:20+00:00
-- Link: https://www.bloomberg.com/news/articles/2025-12-27/china-revises-foreign-trade-law-to-safeguard-national-interests
+[Read full article →](https://www.bloomberg.com/news/videos/2025-12-29/sandbar-puts-ai-on-your-finger-video)
 
-China’s legislature approved revisions to the country’s foreign trade law, incorporating provisions to safeguard national sovereignty, security and development interests, state-run Xinhua News Agency reported Saturday.
-### Europe is at a 'fork in the road' between AI competition and climate, fund managers say
+---
 
-- Source: CNBC Top News
-- Published: 2025-12-27T11:06:39+00:00
-- Link: https://www.cnbc.com/2025/12/27/europe-at-fork-in-the-road-between-ai-competition-and-climate.html
+### 12. Want to live longer? Try fartleks. - The Washington Post
 
-As power-hungry infrastructure scales and demand for electricity surges, friction between competition and climate goals becomes harder to ignore.
-### One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFo5THdvVzNpclVkaG5YT2tYS2c3MC1CTVhNNGFVcF9HLXJ2MWl0UWh5SFEzc0ZzV1ZvdmpKUEVfOERPRndSSDYxOVJYVUdSZ2NHMGV4X2wwRGpvdEtPSXBrcXdsWFpPT3pWbW5ZaC1yM3FoWndua0ZPeTR3SENaR2NMbzl5b0xaTW5rY0xzTzc?oc=5) · 2025-12-29
+> Want to live longer? Try fartleks. The Washington Post
 
-- Source: CNBC Top News
-- Published: 2025-12-27T11:05:07+00:00
-- Link: https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html
+[Read full article →](https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFo5THdvVzNpclVkaG5YT2tYS2c3MC1CTVhNNGFVcF9HLXJ2MWl0UWh5SFEzc0ZzV1ZvdmpKUEVfOERPRndSSDYxOVJYVUdSZ2NHMGV4X2wwRGpvdEtPSXBrcXdsWFpPT3pWbW5ZaC1yM3FoWndua0ZPeTR3SENaR2NMbzl5b0xaTW5rY0xzTzc?oc=5)
 
-Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
-### Russia Extends Temporary Gasoline-Export Ban Through February
+---
 
-- Source: Bloomberg Markets
-- Published: 2025-12-27T10:15:29+00:00
-- Link: https://www.bloomberg.com/news/articles/2025-12-27/russia-extends-temporary-gasoline-export-ban-through-february
+### 13. Cryptocurrency slump erases 2025 financial gains and Trump-inspired optimism - The Guardian
 
-Russia extended a temporary ban on gasoline exports through the end of February to maintain stability in its domestic fuel market.
-### UK Pension Funds Eye Stake in Brookfield’s Center Parcs: Sky
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMimgFBVV95cUxOV090Zi1FY09sNFFPd21DZGVCcEF4QUR0aUZmTHU5WXFKRE5vR2RNQmFZVzFlOWJSV0V6UlltZGFVRFpSaTE5d1VrNFJzSlpyVDZtSHppUXk4RFV2NTVUa1l3OExyWDJKMi1pT3dLR19QQUhHdm8tX3RJdklYZzVQMUc3OUt2b0g3OHE0Skh5d3NYLXhCN2hoWG1n?oc=5) · 2025-12-29
+> Cryptocurrency slump erases 2025 financial gains and Trump-inspired optimism The Guardian Can cryptocurrencies come back from a rollercoaster year? The Times Breakingviews - Donald Trump will bail out crypto holders in 2026 Reuters Behind Bitcoin's Struggles In Trump's New Regim…
 
-- Source: Bloomberg Markets
-- Published: 2025-12-27T09:13:58+00:00
-- Link: https://www.bloomberg.com/news/articles/2025-12-27/uk-pension-funds-eye-stake-in-brookfield-s-center-parcs-sky
+[Read full article →](https://news.google.com/rss/articles/CBMimgFBVV95cUxOV090Zi1FY09sNFFPd21DZGVCcEF4QUR0aUZmTHU5WXFKRE5vR2RNQmFZVzFlOWJSV0V6UlltZGFVRFpSaTE5d1VrNFJzSlpyVDZtSHppUXk4RFV2NTVUa1l3OExyWDJKMi1pT3dLR19QQUhHdm8tX3RJdklYZzVQMUc3OUt2b0g3OHE0Skh5d3NYLXhCN2hoWG1n?oc=5)
 
-Some of the UK’s biggest public sector pension funds are in talks to acquire a stake in holiday parks group Center Parcs, Sky News reported.
-### China industrial profits plunge as weak demand and deflation bite - Financial Times
+---
 
-- Source: Google News (Business)
-- Published: 2025-12-27T07:46:56+00:00
-- Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE5SS2pucVVGc3FqLXZjc3RYR3RyN3hFcTlzTDlsdjRFdGFHd2lUZUNtZ1QxWjdZd2RhUkdLQUk3eldIWG5mZXp1X2VzdHNxcG83X2hvNmplX1VEZWQ3aTZYOTROMFE1YXU0c1V5ZFB4dFk?oc=5
+### 14. Corn Slumps Most in a Month With Focus on China Grain Reserves
 
-China industrial profits plunge as weak demand and deflation bite Financial Times China's industrial profits tumble at fastest pace in over a year Reuters China Industrial Profits Decline in November as Demand Cools Bloomberg.com China bets on bold ideas in push for disruptive i…
-### CES 2026 could change TVs forever — here's what to expect - Tom's Guide
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/articles/2025-12-29/corn-slumps-most-in-a-month-with-focus-on-china-grain-reserves) · 2025-12-29
+> Corn’s biggest intraday losses in over a month paced declines in grain futures Monday as traders sought demand signals to break markets out of their holiday doldrums.
 
-- Source: Google News (Technology)
-- Published: 2025-12-27T07:30:00+00:00
-- Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1Q0SnN0TS1qZTBodzhLQzU5VUs0QTBUTEpyRlQ2cVdGMHNLc3ljR2pncFhZeFllWHV6d3ltRmhRY3M4Y19PVUVIcTdvNFMwblVZZjJDbEhfTExjTzJKN01WRXQtMktFUnp6b2dvV3JXbHBGZ0YxTmJIWVM2MmZSNjRJSGZMM3owUEpNNg?oc=5
+[Read full article →](https://www.bloomberg.com/news/articles/2025-12-29/corn-slumps-most-in-a-month-with-focus-on-china-grain-reserves)
 
-CES 2026 could change TVs forever — here's what to expect Tom's Guide How RGB Mini-LED will transform the premium TV landscape in 2026 TechRadar What to expect from LG in 2026: RGB Mini LED, OLED and Dolby Atmos Flex Connect What Hi-Fi? TV, Monitors, Projectors - What is the ult…
-### 2025 EDGE awards, top 10 games of the year - Nintendo Everything
+---
 
-- Source: Google News (Technology)
-- Published: 2025-12-27T05:02:51+00:00
-- Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE1aNi1HWlV0NFRyV1dhbzRwdDZuendnblNHb3BkTzBadWtVdUZSQW1WY2dvV3NtSEhtOUNrMkRyaDhqQng4R0RLanFuUkRReDB0bDFZbEV6N3gwMlViQk45Q2xST1dNWEJNNlRxTVM2ZGtzbzk4cUx4aGJ5a1JOZw?oc=5
+### 15. Iran’s currency ‘turns to ash’ as economy spirals
 
-2025 EDGE awards, top 10 games of the year Nintendo Everything The Dominik Diamond alternative game of the year awards 2025 The Guardian The Best Video Games of 2025 The Information Ars Technica’s Top 20 video games of 2025 Ars Technica 10 indie games from 2025 that delighted th…
-### Italy and Spain shake off ‘periphery’ tag as borrowing premiums hit 16-year low
+**Source:** [Financial Times Markets](https://www.ft.com/content/7295df7f-5e4b-4fe6-a266-7390c71412f5) · 2025-12-29
+> Anger over collapse in living standards prompts protests by shopkeepers in Tehran
 
-- Source: Financial Times Markets
-- Published: 2025-12-27T05:00:06+00:00
-- Link: https://www.ft.com/content/5c4a64a9-c40c-4fe5-93a5-89a2c695affa
+[Read full article →](https://www.ft.com/content/7295df7f-5e4b-4fe6-a266-7390c71412f5)
 
-Rome and Madrid rewarded by investors for cutting deficits, while France and Germany look to borrow more
-### 5 Video Games From The 1990s That Aged Flawlessly - svg.com
+---
 
-- Source: Google News (Technology)
-- Published: 2025-12-27T01:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMib0FVX3lxTE1DelVvY0hDeEFYcDZ3M3ljVjdHdU84bWVfVmZiSkVESlZmTHlURlNoNndvTXdmekFkZG51UEFfUnE1UnVQN3lFTjZKdGtjbWVMb0t3a29VMGJpZ04zc2NXLWdxbkF1cE5Za3JucGZhWQ?oc=5
+### 16. What you need to know about changes to Social Security, Medicare and Medicaid in 2026
 
-5 Video Games From The 1990s That Aged Flawlessly svg.com These 10/10 Retro JRPGs Need No Notes Comic Book Resources The Best RPG From Every Console Generation DualShockers Overlooked JRPG Masterpieces Worth Playing Today Game Rant '90s RPGs That Aged Surprisingly Well svg.com
-### Senegal Raises $1 Billion in Oversubscribed Regional Bond Sale
+**Source:** [MarketWatch Top Stories](https://www.marketwatch.com/story/what-you-need-to-know-about-changes-to-social-security-medicare-and-medicaid-in-2026-549b2f8c?mod=mw_rss_topstories) · 2025-12-29
+> Here’s a rundown of what retirees and savers can expect in the coming year.
 
-- Source: Bloomberg Markets
-- Published: 2025-12-27T00:53:19+00:00
-- Link: https://www.bloomberg.com/news/articles/2025-12-27/senegal-raises-1-billion-in-oversubscribed-regional-bond-sale
+[Read full article →](https://www.marketwatch.com/story/what-you-need-to-know-about-changes-to-social-security-medicare-and-medicaid-in-2026-549b2f8c?mod=mw_rss_topstories)
 
-Senegal raised 560 billion CFA francs ($1 billion) in a regional bond sale that was extended by several days, as the government faces funding pressures after a hidden-debt scandal limited access to international capital markets.
-### It's time to stock up on chargers - Android Police
+---
 
-- Source: Google News (Technology)
-- Published: 2025-12-27T00:30:00+00:00
-- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE1LNHVEZlBfek5fcHRtOFhUdzlwR05rb0x0QUEwb2tNaHhyUzFRV1JTdndVVV9FcjdXZHUzbGNnbDhTTWJ5bkJrdjVGTTlDY3lrdmJEREZCeDg0ekxnY3ZBRkp3a2F5Rnd2SHdLSTJZSlRVbS1sb3NURkhsOA?oc=5
+### 17. 2025 Was Just a Bizarre Year in Markets
 
-It's time to stock up on chargers Android Police
-### 2026 Outlook For Dealmaking
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/newsletters/2025-12-29/2025-was-just-a-bizarre-year-in-markets) · 2025-12-29
+> Hello and welcome to the newsletter, a grab bag of daily content from the Odd Lots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing you our thoughts on the most recent developments in markets, finance and the economy. And sometimes it's contributions from…
 
-- Source: Bloomberg Markets
-- Published: 2025-12-26T22:46:32+00:00
-- Link: https://www.bloomberg.com/news/videos/2025-12-26/2026-outlook-for-dealmaking-video
+[Read full article →](https://www.bloomberg.com/news/newsletters/2025-12-29/2025-was-just-a-bizarre-year-in-markets)
 
-Bloomberg's Nina Trentmann discusses the outlook for dealmaking in 2026, the impact of geopolitics, how less deals have been challenged by FTC and DOJ, and the prospect of lowering financing costs with Vonnie Quinn and Isabelle Lee on 'Bloomberg Markets.' (Source: Bloomberg)
-### LG to unveil a new home robot helper at CES 2026 - Mashable
+---
 
-- Source: Google News (Business)
-- Published: 2025-12-26T22:28:52+00:00
-- Link: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VY2x4TmptaXZOdGxuR3dUa093S3psTjl1MDMwWFZmXzFZd2lMbl9EY1BES29nUDRQQzBLUGFnSzZ0RHZMeHdPdzZ4ZTJCRWlWSFNWaVpUQmFhVTlKN0xjYVBZSGVmTTMy?oc=5
+### 18. CD PROJEKT co-founder Michał Kiciński acquires GOG from CD PROJEKT - CD Projekt
 
-LG to unveil a new home robot helper at CES 2026 Mashable LG will show off a humanoid robot for household chores at CES 2026 Engadget LG teases a new chore-completing home robot The Verge LG to Unveil Home Robot at CES 2026, Sharing Vision for the "Zero Labor Home" lgnewsroom.co…
-### Roanoke family sues airlines after allegedly being attacked by bed bugs during flight - WSET
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEFhY3kxNENrVGZNZkpSU3Jyc0xyVGJtTm5MRzdRYTBUcXBxTXgtM015aUtXNElUdXRpdnMyTENoTDRNRnFaaHhiR2s5cmhpWHh4RzJ0aWVXOXpkd0RVLTJ0OHVPREVrRXdveFRFdG5Hd2Y1VnNCYm94MjhtMUxmVTVJSTVQbE5LTEFNMUZxa0VtTG4yS0pyMUZMbVNjVXJPR1V2NlN3OFBnbFE?oc=5) · 2025-12-29
+> CD PROJEKT co-founder Michał Kiciński acquires GOG from CD PROJEKT CD Projekt GOG’s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free The Verge CD Projekt Sells DRM-Free PC Storefront GOG to Original Co-Founder for $25.2 Million, Insists It's Financially St…
 
-- Source: Google News (Business)
-- Published: 2025-12-26T22:08:44+00:00
-- Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxNSkVTWk5iUkt0OGJ5dXFUMDF1cldFdVJFZWx6RlNFVlNyYkNlaklUcFZPdEF5VC1fZmt6dzRONTBUcl9OYjVyZXJhQ3lDRFVxVThQdzhSbmJCVDVmOFpULU11N200VllPd1dXaFRFbHdEdmc5SHdpT2pCeHF2NWxsYnVJWHU0UE83S0VKUG5feGdpYnVMRjdZd3FGdldvMXVqdEVRZjlnb2lQaU9rbDFwd010NVRTTGpLOEpUWXRIOURUR1V0SkxyOXZQMEZPSWpNaGxhaDIwc1lnYXJfdmZUVUpiZWxLLXIxcTFlamdialJ5NW1HOWlDZU5Cb1g3VXE2QjdMQUNITV9rU3JkaGJjSXNxOXJ1SEpFMWc?oc=5
+[Read full article →](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMEFhY3kxNENrVGZNZkpSU3Jyc0xyVGJtTm5MRzdRYTBUcXBxTXgtM015aUtXNElUdXRpdnMyTENoTDRNRnFaaHhiR2s5cmhpWHh4RzJ0aWVXOXpkd0RVLTJ0OHVPREVrRXdveFRFdG5Hd2Y1VnNCYm94MjhtMUxmVTVJSTVQbE5LTEFNMUZxa0VtTG4yS0pyMUZMbVNjVXJPR1V2NlN3OFBnbFE?oc=5)
 
-Roanoke family sues airlines after allegedly being attacked by bed bugs during flight WSET Virginia family says they were swarmed and bitten by bedbugs on flight, sue Delta and KLM airlines NBC News Flights infested with bed bugs prompt Roanoke family to sue airlines WDBJ7 Passe…
-### Nintendo explains how Metroid Prime 4 came to be, talks development challenges - game was a request from Nintendo of America - Nintendo Everything
+---
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T21:35:40+00:00
-- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVJMc0Z6b1RiZXRZM2duajZnYk5IdUJtS1M1Ykg2aUlFeDYtWTYzaTJYUS1sdjlTWFFJZ1ZldjR3bzFYalZ0QVB3WXpydWd6UVpMakdiU2IxZW0zQnJWRFE3NWlQZkE4WFZXNE9mNmJXUUFDekxTRXpMSDVKbDRfUzItZkNHZ3ZIZVRPb0VWOA?oc=5
+### 19. Markets Brief: A Solid Year for Bonds and 60/40 Portfolios - Morningstar
 
-Nintendo explains how Metroid Prime 4 came to be, talks development challenges - game was a request from Nintendo of America Nintendo Everything An Ecological Tale Gives Life to Metroid Prime 4 The New York Times Nintendo discusses its approach to Metroid Prime 4, talks why it i…
-### An Underrated RPG Is An Absolute Steal On Switch Right Now - Kotaku
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXVnOVRGS2hQSU1lcHExWEdPYjNXemFZMV82QV9nOEVKeERiZmRGamZVTFFMTVhWNnFkV3dyQWpkZXNhOUlsTHYyT3UtMTE5R3lyZHcwQUZ1Rkd2VEJLeGFFUi1lRDk3bkt5WGtSV0w3N0N6T05hVkVJQ09ubmdfT0U3VzJxc0lkWHpzRmZFNA?oc=5) · 2025-12-29
+> Markets Brief: A Solid Year for Bonds and 60/40 Portfolios Morningstar Treasuries Volatility Heads for Biggest Annual Slump Since 2009 Bloomberg.com Bond Markets Clear Path for Stock Rally by Ignoring a Near-Term Risk Barron's Bonds Starting to Offer More Diversification - Black…
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T21:28:46+00:00
-- Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE1Zd0xHNEF4LVlReFdnUXFIdURoV2pXcjI3bF9DRXZzazRGd2ZxMHlkRF9FbEpablVrd3VUSEt4Skp6NURXcFBURV9reTh0TThaSG5KdXZrUlI5bkN2WkRDLWFQZHY0d1k3Z3UxeUhuUWk5dkR4ZEZlQmZuTXo?oc=5
+[Read full article →](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXVnOVRGS2hQSU1lcHExWEdPYjNXemFZMV82QV9nOEVKeERiZmRGamZVTFFMTVhWNnFkV3dyQWpkZXNhOUlsTHYyT3UtMTE5R3lyZHcwQUZ1Rkd2VEJLeGFFUi1lRDk3bkt5WGtSV0w3N0N6T05hVkVJQ09ubmdfT0U3VzJxc0lkWHpzRmZFNA?oc=5)
 
-An Underrated RPG Is An Absolute Steal On Switch Right Now Kotaku The Nintendo eShop New Year Sale begins on 26 December 2025 nintendo.com Nintendo has huge discounts on Switch 2 games in its holiday sale Engadget Ubisoft hosting new Nintendo Switch sale, features lowest prices…
-### Samsung Smart TV Owners Get Hundreds Of Channels For Free - Here's How - bgr.com
+---
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T21:17:00+00:00
-- Link: https://news.google.com/rss/articles/CBMickFVX3lxTFBMSFZYLTZ4VlMtMlU0SnBiMUtFVXRiMVR0ZHpBUGc2MmFWZW9CTGNxekljUVY5RXBBM3NEX2E4bTJtSFpNRGRuanpkb1ZfODd0TGRZUkFkTldrcHpMVVliTkRYdVV1Y3FHOFlnS1ZQY25TUQ?oc=5
+### 20. Bankruptcy success rate for student loan borrowers jumps to 87%, study finds - CNBC
 
-Samsung Smart TV Owners Get Hundreds Of Channels For Free - Here's How bgr.com Samsung has AI-upscaled an entire channel on its TVs SamMobile Samsung Electronics' TV Plus Launches All-in-One AI-Integrated Channel; Shares Jump 5% marketscreener.com Samsung restores 2000s Korean d…
-### Silver prices continue soaring as debt fears and geopolitical tensions send precious metals to fresh record highs - Fortune
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMiekFVX3lxTE5WU0R6RXdjTWprdHB0SFdNV2xHSUNPQzhNQXJ6eXFKU2xjVGhzM3BialZUSFlKZ3NMTmowRTh1SnVmeVUxX05jbXc1RVlrNTRqU3d5WE16S2VXLVE2U0s4OF9GVi1FT3kzRzBVZ2lXRDE1bDRWNXdnYVhn0gF_QVVfeXFMTnRiS2JFTEhENnBDWjlnRFFCTFFTaUh0bjI0SHhVTVBDWWJBQ2JNdXRFbjJ5NE9yNlo2ZDM0c3AySGtQeWNEanB6NGY5LXMwNVlCWno0MF9KQ0Z4MFBleEgyelZRNXE5X0hVOGM5R1pncDFWbHN4UE5LWnQyY19GOA?oc=5) · 2025-12-29
+> Bankruptcy success rate for student loan borrowers jumps to 87%, study finds CNBC More Student Loan Borrowers Are Shedding Debts in Bankruptcy The New York Times More Student Loan Borrowers Shedding Debts in Bankruptcy RealClearEducation Student Debt Increasingly Wiped Away by B…
 
-- Source: Google News (Business)
-- Published: 2025-12-26T21:03:00+00:00
-- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT3NfSUZYSWpCSDVyb1JuV3ctTGNXNmh1M3A4LWZjRHEwaGk2NkU1ZWVqUHllSXZXVzRIc0c1WWpLQlJiNG5UWnp1MVcwbnFuaHdjMkdrUE0xZXU1Y0F1UG12TFFIN0gzTkVURDRtRUtuXzdRdmRPN2hjT2lSVkswQUllckVxZU1XX3FjeDZKMldQazhvN3hTWmtKQXJBa0JHMHBMby1wY0Q2Q2EtZVZSVU16MWpXZFBmWkUtZmVSNzZTS1ktT2RoSWRRQjREMGZmcVlRSXBhYnZ3WU1zYlpWZFB3?oc=5
+[Read full article →](https://news.google.com/rss/articles/CBMiekFVX3lxTE5WU0R6RXdjTWprdHB0SFdNV2xHSUNPQzhNQXJ6eXFKU2xjVGhzM3BialZUSFlKZ3NMTmowRTh1SnVmeVUxX05jbXc1RVlrNTRqU3d5WE16S2VXLVE2U0s4OF9GVi1FT3kzRzBVZ2lXRDE1bDRWNXdnYVhn0gF_QVVfeXFMTnRiS2JFTEhENnBDWjlnRFFCTFFTaUh0bjI0SHhVTVBDWWJBQ2JNdXRFbjJ5NE9yNlo2ZDM0c3AySGtQeWNEanB6NGY5LXMwNVlCWno0MF9KQ0Z4MFBleEgyelZRNXE5X0hVOGM5R1pncDFWbHN4UE5LWnQyY19GOA?oc=5)
 
-Silver prices continue soaring as debt fears and geopolitical tensions send precious metals to fresh record highs Fortune Silver rises 9% to hit fresh record high Reuters Silver’s Runaway Rally Sweeps Up Amateur Investors The Wall Street Journal Gold is set for its best year sin…
-### Betting on climate failure, these investors could earn billions - Politico
+---
 
-- Source: Google News (Business)
-- Published: 2025-12-26T21:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMmQ2SEFGU3JFdHR3VlBnTVhRSjhoYXpFZVVPbDdodWhabmZtS3ZCYWtUSWtEUkdiTHpCSHU2eTBjclBCWmllT09fdEdVcTlKNkVsdndueElpRjBtTjk0ejNLZkoxOUxCRDBEbi1xaVo4U01PU0tINl9lSHh5TEhWMUtWTG9aN01yOU5PTUF6M2w1UzNWTjhtd0JiemtRdkw3Q09jT2RvdVFHQQ?oc=5
+### 21. How Lululemon’s founder is looking to restore investor faith as a new CEO is picked
 
-Betting on climate failure, these investors could earn billions Politico Inside the multi-million dollar race to dim the sun and stop climate change The Independent Dyer: Geoengineering part of climate change solution London Free Press E&E News: Betting on climate failure, these…
-### Pocket-sized Test Pattern Generator Helps Check Those CRTs - Hackaday
+**Source:** [MarketWatch Top Stories](https://www.marketwatch.com/story/why-lululemon-founder-chip-wilson-wants-to-shake-up-the-board-ahead-of-ceos-departure-c2b5387e?mod=mw_rss_topstories) · 2025-12-29
+> Lululemon founder and large shareholder Chip Wilson is looking to restore investor faith in the yoga-gear maker by changing the makeup of the board of directors.
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T21:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPMkJrc3lLVEhLOUlaNldCekxuZnJiNlRNazRhWUhZMlFQQ1VHc2wwd3ZBT2lGcFE4MzFxbm90TG4wN3pWSDNNLUxsZjlFbVJyYUt6MzkxT0NfelhVTzREdmU2YUNxZGJEbnJ1UVhJSEJ2RnVxSXBnV3F6RkdEb1RnbXRjZ051LVBWZ244VU5iam9NOG9xSHc?oc=5
+[Read full article →](https://www.marketwatch.com/story/why-lululemon-founder-chip-wilson-wants-to-shake-up-the-board-ahead-of-ceos-departure-c2b5387e?mod=mw_rss_topstories)
 
-Pocket-sized Test Pattern Generator Helps Check Those CRTs Hackaday
-### Logan Paul’s $5.3 million Pokémon bet raises a bigger question: Do collectibles belong in your portfolio?
+---
 
-- Source: MarketWatch Top Stories
-- Published: 2025-12-26T20:38:00+00:00
-- Link: https://www.marketwatch.com/story/logan-pauls-5-3-million-pokemon-bet-raises-a-bigger-question-do-collectibles-belong-in-your-portfolio-48426a15?mod=mw_rss_topstories
+### 22. Bankrupt NYC Rental Buildings Get $451 Million Offer From Summit
 
-Collectibles may offer eye-catching returns, but not all financial experts are on board.
-### Doubling down on DFW: American further strengthens its Flagship hub - American Airlines Newsroom
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/articles/2025-12-29/bankrupt-nyc-rental-buildings-get-451-million-offer-from-summit) · 2025-12-29
+> Real estate firm Summit Properties USA has struck a $451 million deal to acquire dozens of New York City apartment buildings put into bankruptcy by current owner Pinnacle Group, according to court papers.
 
-- Source: Google News (Business)
-- Published: 2025-12-26T20:18:57+00:00
-- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNWGV1Wm9YMmE4TDJmNkl4SzlNS05pdzBvdXFndEhySTVRRnNQZ3lKZFBjeFJWV2dobEtFX1gxNXZabl9UN2IzeHBpazhqSTFTRU5La191OGczUGo0VXlWc3Z4ZGJWb1liTTNVNF9ITUlweVdHM3Q3OW9ZczI5ZW90SGtqcHA3YnkxNmdKZkNnN2FZdjdLTHVlQ0RiQkQ2X0R0eDFDUllzZEIxSU5MVnVOWldSRVlnSFFSanVTTUtR?oc=5
+[Read full article →](https://www.bloomberg.com/news/articles/2025-12-29/bankrupt-nyc-rental-buildings-get-451-million-offer-from-summit)
 
-Doubling down on DFW: American further strengthens its Flagship hub American Airlines Newsroom American Airlines announces significant changes to operations at DFW Airport to "improve passenger experience" CBS News American Airlines Overhauls Its Schedules Starting In April To B…
-### Did you know you can share the Brick? A hot tip for using the social media blocker. - Mashable
+---
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T20:05:35+00:00
-- Link: https://news.google.com/rss/articles/CBMib0FVX3lxTE95YVBhSldtSlRTZmJ0RTJnOWpIcU1tWmhnT2h3V2Jxem0yTm45bXVmSHMwa24zSEVGUkpyczV6Q3hWQ1ZHcXBoSkpmOGdrWkdKZEVNdktuUmh2X2N6S1N5clg2aUVWT2RMTUdCTmgwSQ?oc=5
+### 23. ‘I completely trust her’: Should I name my daughter as beneficiary on all my accounts — or add her name instead?
 
-Did you know you can share the Brick? A hot tip for using the social media blocker. Mashable This simple gadget was a life hack in disguise Pocket-lint Listen Up, Doomscrollers: I Tried the ‘Phone Detox’ Device Going Viral - and Wow, It Works Marie Claire UK Bricking My iPhone I…
-### 2 AI Defense Stocks Soar 30%+ in 2025, Poised for More in 2026 - Zacks Investment Research
+**Source:** [MarketWatch Top Stories](https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories) · 2025-12-29
+> “She is an intelligent and responsible individual.”
 
-- Source: Google News (Business)
-- Published: 2025-12-26T19:30:57+00:00
-- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxOVi1sYVlhbkplcDVBajR3SldCcmUzalNLZFd0OVE3RS1oYUhNNzJGSy0waFlDWllQNVh6WWJRWmxBQ3Jxajh6dU9FQ1lqNzNtb3lQeEplVjVtRFA0dkF6S2lMVDV0bnllMlR6ZU16ZzVEbTBJZUQ2amo5RGh2VzljclJiVHlDajQ5V3FrejRBUnVVakU0SDU5N1JYN2tSMjdzVEE?oc=5
+[Read full article →](https://www.marketwatch.com/story/i-completely-trust-her-should-i-name-my-daughter-as-beneficiary-on-all-my-accounts-or-add-her-name-instead-dc24750b?mod=mw_rss_topstories)
 
-2 AI Defense Stocks Soar 30%+ in 2025, Poised for More in 2026 Zacks Investment Research Wall Street wrote off Palantir as too expensive. Retail investors can't get enough CNBC Why Palantir Technologies Inc. (PLTR) Dipped More Than Broader Market Today Yahoo Finance PLTR vs. BBA…
-### So long, American exceptionalism - Financial Times
+---
 
-- Source: Google News (Business)
-- Published: 2025-12-26T18:00:09+00:00
-- Link: https://news.google.com/rss/articles/CBMicEFVX3lxTFAyTWZ2ZHpPeG1GY1JEbjVfUjFNSnJDc013eVRZLXMwdGZRWG5LM1JoR0sxcDNpb1lkX3hMQ2t4dG56ay1QOEdIenFRUkFXcjBLTm5FNHFtTkVtX1ZfZllQeEFPWldtY2lzS0VKblFnbHk?oc=5
+### 24. Rainbow Six Siege servers are back online after shutting down in response to Marketplace hacks - Engadget
 
-So long, American exceptionalism Financial Times The five biggest market developments of 2025 The Economist Tariffs, tech and tanks: Morning Bid's 2025 Year in Review Reuters 2025: The Year of Maximum Incoherence Robin J Brooks | Substack US stocks rose again in 2025 after overc…
-### What Will AI Flip Into?
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU1prQ3QxelVOdGIyMVJGOGxUUzFXRzNFSW9kNVMwbnl1cURxVWh2Y3Zac0Z3azM5UFA0RGVBMHZkc2UyV2s5Ylh3a25wUGkzNjlkcUNtcVM1UGFSUlo0dHpWX2d4U3JUdm5iM0gzOTFGckNBMGN5ZFlRTzM3MnUzNE1mR0VzeDhxSk4wVmg1enRVeGsyWkZ0UWlLRTFJQVBjMFkxdUxJSk42Y1lUWTR0SWVEWWJnMmhvMjZueEducExyNEU3ZzloVVY3SHR5b0ItNk8tNDMtSkQ?oc=5) · 2025-12-29
+> Rainbow Six Siege servers are back online after shutting down in response to Marketplace hacks Engadget Rainbow 6 Siege: Game back online as Ubisoft works to fix issues BBC Massive Rainbow Six Siege breach gives players billions of credits BleepingComputer Ubisoft takes 'Rainbow…
 
-- Source: Bloomberg Markets
-- Published: 2025-12-26T17:15:22+00:00
-- Link: https://www.bloomberg.com/news/newsletters/2025-12-26/what-will-ai-flip-into
+[Read full article →](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU1prQ3QxelVOdGIyMVJGOGxUUzFXRzNFSW9kNVMwbnl1cURxVWh2Y3Zac0Z3azM5UFA0RGVBMHZkc2UyV2s5Ylh3a25wUGkzNjlkcUNtcVM1UGFSUlo0dHpWX2d4U3JUdm5iM0gzOTFGckNBMGN5ZFlRTzM3MnUzNE1mR0VzeDhxSk4wVmg1enRVeGsyWkZ0UWlLRTFJQVBjMFkxdUxJSk42Y1lUWTR0SWVEWWJnMmhvMjZueEducExyNEU3ZzloVVY3SHR5b0ItNk8tNDMtSkQ?oc=5)
 
-Hello and welcome to the newsletter, a grab bag of daily content from the Odd Lots universe. Sometimes it's us, Joe Weisenthal and Tracy Alloway, bringing you our thoughts on the most recent developments in markets, finance and the economy. And sometimes it's contributions from…
-### This clever car charger delivers fast charging while using wired Android Auto & CarPlay [Gallery] - 9to5Google
+---
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T17:15:00+00:00
-- Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxObUtZaWR6RkdMa2dfcFlWZjBJcVpTM1FhWFhpbTN5dko3VmhKLVpBVng1WjRvNXRLT1FZSFpUck1NOTZ1Zk1JNHFFS09qcEpZZjgwVkNicUZwc1NzVlo3WUg3X250bmcxcnk2Nnhud0ZRY1dkZjFyTktrbEFaU09BNTlzbmFLQUZlLXJF?oc=5
+### 25. Report: Xbox & PlayStation Could Delay Next-Gen Consoles Due To RAM Price Increases - Pure Xbox
 
-This clever car charger delivers fast charging while using wired Android Auto & CarPlay [Gallery] 9to5Google
-### The 15 highest-paying jobs you can land without a 4-year degree, according to new report - CNBC
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0ttOHMyaHpRWXd4cUZHS1RFV0JQZ29CMElQREhXMzI4NENrSS03NXhKZEJQSm5EYUl0T0xORXNFa0hiel9qVDBScVY0S0dPMjgyeHZtNGtGNE4teUx2VVhaWXEtRHNXS1NncFJaWkZEdDlKMlY4QUdTcVBwUFpsWWZ3SHZRZTVnbkpILUdSZlVnVXkyekVrQ2YwNGNMdWd2ZHFvSHdJQjlFM043MDZxbVpGVm5yeEQ3YVlkeGxsQQ?oc=5) · 2025-12-29
+> Report: Xbox & PlayStation Could Delay Next-Gen Consoles Due To RAM Price Increases Pure Xbox New Report Says PS6 And The Next Xbox Could Be Delayed Thanks To AI Forbes RAM Crisis May Result in Next-Gen Console Delay TechPowerUp Current generation consoles could potentially see…
 
-- Source: Google News (Business)
-- Published: 2025-12-26T17:13:40+00:00
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOcjFKSG12VGZUYzFyRVB3ZTEtaDN3OFI1bGlIZ0NraXo4dXpDWkFJbVZrX3NJZ3VacS1nTF9tQTMtc3FQaDYzSTdfNFFZNC1hY3RfcGFBaXdqaFRGZVZadnpGTW00emFjaTJEUzFqNWRDM3NKWjhtc29kNjBlZ1U2VzM3SUw4bEkwbU56dGlXR3hCSklVZEExazIyNlFlWEk0VWRGSWFGWFFsTVVUU2dMdExRdV9rQm_SAbwBQVVfeXFMTUE4QTg0TTBzWDc3YWZTSlpvUGtyN3dCZTZZWU1tWElOd3F4S1JfS0tRdDZLTDRLOG5qSDdTRlNqZ2R4R1hxN3BicTBlRUtoa2E1cWVJc3ppNUtOMExHNTRRVnVEd3JfbW9tUWJjSlQzNDFYX04yVWNZbUxkZ0Z6cUl3S2pvSFNWYkZ1WThkcVlVUms1b0xiTmg4dTljMy1pTHVGMmg3cy1GWUlZV1VZMlNLU3NlekEwMFZSWXU?oc=5
+[Read full article →](https://news.google.com/rss/articles/CBMivwFBVV95cUxPY0ttOHMyaHpRWXd4cUZHS1RFV0JQZ29CMElQREhXMzI4NENrSS03NXhKZEJQSm5EYUl0T0xORXNFa0hiel9qVDBScVY0S0dPMjgyeHZtNGtGNE4teUx2VVhaWXEtRHNXS1NncFJaWkZEdDlKMlY4QUdTcVBwUFpsWWZ3SHZRZTVnbkpILUdSZlVnVXkyekVrQ2YwNGNMdWd2ZHFvSHdJQjlFM043MDZxbVpGVm5yeEQ3YVlkeGxsQQ?oc=5)
 
-The 15 highest-paying jobs you can land without a 4-year degree, according to new report CNBC 25 Remote Jobs That Don’t Require a Degree Money Talks News 7 Jobs Paying More Than College Degrees Right Now savingadvice.com 8 Jobs That Require Minimal Experience But Pay Over $45 an…
-### $100,000 Christmas Eve Powerball ticket sold in Twin Cities - CBS News
+---
 
-- Source: Google News (Business)
-- Published: 2025-12-26T16:55:21+00:00
-- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOVno4cl9ycGRWS0g3UlAwYWVtZk9nRUN2MV9mQ2FGc2hFUHRwX2RHUl94ZE9hWWZPUzFGSjc0eEF0SjFFN3I5dVZIbWVNOU5DVFNNV1RfcDBTQkVxd0JMbDUtLTNObUs5RlV6SF9BTGVyZmhIOHRZQnVpQ1VOc2JwZEJiYmJQbVJBbUFHUXppMl9RWm14Wk82WkllRQ?oc=5
+### 26. The Performance Of Arch Linux Powered CachyOS On AMD EPYC Servers - Phoronix
 
-$100,000 Christmas Eve Powerball ticket sold in Twin Cities CBS News A winning Powerball ticket was sold in WNY WGRZ 8 Powerball tickets worth $50,000 sold in Massachusetts for Christmas Eve drawing. Here's where. CBS News 3 lottery players in Georgia win $50K in Powerball drawi…
-### LG announces line of premium gaming monitors that offer 5K visuals - Engadget
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMia0FVX3lxTFBoUVNORlpMeVRrYlE0TWlhek9rT0NHdEVSMFNvbjZIS001MEQwdG1aRlo5X19SZVZTM0tzQ3ZTQ2NwQzJhS3VpYjBaRmNZdm1wcm5NVTBQelE1RWtLdzJUM2FSMDdlbGZjUjE4?oc=5) · 2025-12-29
+> The Performance Of Arch Linux Powered CachyOS On AMD EPYC Servers Phoronix CachyOS Plans 2026 Server Edition: Optimized Arch Linux for NAS and Servers WebProNews CachyOS wants to be your NAS operating system How-To Geek Cachyos Eyes Sharper Server Performance Menafn CachyOS Want…
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T16:52:24+00:00
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPeU9RN0p6RVdndFBiQkl0SHYxZnJGeUpXVEUtYTBWSE5WTVh1VlVTeWVjT0xYTEVYd1dCQzkySTVpdzVQaC0wS3FHbjk4VnkwV25XQTdGbFVvbk8zNzUtc1U2V3JTQjVjSlZyUmxwdFZwMmpiM2hINkJMc0o5eWRwa2QwV05yT3NxSnRTcFcyOWYxanNDVHNhTHhJVWZGa2lsaXdiQkg1em83N2tJQUR6S1Q2RkpqU1RpQVZCckZOMDJhNmVzOXBB?oc=5
+[Read full article →](https://news.google.com/rss/articles/CBMia0FVX3lxTFBoUVNORlpMeVRrYlE0TWlhek9rT0NHdEVSMFNvbjZIS001MEQwdG1aRlo5X19SZVZTM0tzQ3ZTQ2NwQzJhS3VpYjBaRmNZdm1wcm5NVTBQelE1RWtLdzJUM2FSMDdlbGZjUjE4?oc=5)
 
-LG announces line of premium gaming monitors that offer 5K visuals Engadget LG Unveils UltraGear evo, Redefining 5K Gaming With World's First AI Upscaling Technology lgnewsroom.com LG’s Monstrous 52-Inch 5K Gaming Monitor Will Swallow Up Your Desk Gizmodo The LG 39GX950B is the…
-### The 'Trump-class' battleship faces a large obstacle in its way: Reality
+---
 
-- Source: CNBC Top News
-- Published: 2025-12-26T16:45:19+00:00
-- Link: https://www.cnbc.com/2025/12/26/trump-class-battleship-uss-defiant-golden-fleet-rail-gun-laser-reality-defense-war-experts-skeptical.html
+### 27. Add these 2 routines to your workday in 2026, says focus and productivity expert: 'Get more out of your life outside work'
 
-Even if it were technically feasible, the cost of building the battleship would be prohibitive.
-### 4.3% GDP Growth Overstated By Odd Video Game Inflation Data - Investor's Business Daily
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/29/add-these-2-routines-to-your-workday-in-2026-says-focus-and-productivity-expert.html) · 2025-12-29
+> Cal Newport, author of several books on focus and productivity, suggests a routine for deep work and a routine that can help manage work anxiety after-hours.
 
-- Source: Google News (Business)
-- Published: 2025-12-26T16:42:00+00:00
-- Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQTXNZSjFIMl9HMUNwOWNRZkxvLXZZR29kZ1dtUW4yb01UUk9KUDZrdHZJeUwtYWxRMktEMWt1YTFta2R6d0tfdHItb19OVXRhZDEwNDVGbHNXOTIza25BS3BYa2pDbjBrSE5wbks5RUkxUmFrNTNQbjFZZks3VExPb3NId3R5ZF80dnJRalBmNk5JX2hldkItb3RTTHpNTEQ3WVJ4YmNB?oc=5
+[Read full article →](https://www.cnbc.com/2025/12/29/add-these-2-routines-to-your-workday-in-2026-says-focus-and-productivity-expert.html)
 
-4.3% GDP Growth Overstated By Odd Video Game Inflation Data Investor's Business Daily Why so many Americans dislike this fast-growing economy CNN Opinion | 3 Theories of What’s Going On With the Contradictory Economic Data The New York Times US economy grew strongly in third qua…
-### This Small Plug-In Gadget Was Made To Save Your Home From Electric Fires - SlashGear
+---
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T16:15:00+00:00
-- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxObG5mSFBYMWNObVlmYmxVNUMza21lanhzbTUxdXQtZTd3YWZPU3Z3SUs5RFRWd2drd21YZS16a0ZHUXRRZHZNVzVrTDBUTmNkQmJHQjJOTmpPUFJ3LUlYRzQwRW5ZODRpaGY4YnRFcXAyeFNmMXkwQmRBbFRISUFZcTAwSW1oMkxYcTltUmhja0FKdw?oc=5
+### 28. Add these 2 routines to your workday in 2026, says focus and productivity expert: 'Get more out of your life outside work' - CNBC
 
-This Small Plug-In Gadget Was Made To Save Your Home From Electric Fires SlashGear
-### Quiz: How Well Do You Remember 2025? Nintendo Life's Gaming Quiz Of The Year - Nintendo Life
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGNCaHV3SV9HVUs1a09UeTkxYjhhckFRRWEwWW5NVHNQb28wN1ZkRUlZc3R2UlNGUTRuazB4NllzOFU4eTNRMThMNy1sYmpVaXRCbWJ1dXk1bl91RzNEU1BTYnlwVHlMMFJ1Nko0LXZvck5yZk5iRk1qb0J3cV9aYkstajdEN3U4SFJZb2s5UHRKcXowblIxQWMwdGwzRGlsS2lzU09xbHFLZ1d5RFk0SEJPSHBjVVHSAbwBQVVfeXFMTkd4ZUdKRmJJdnNmUmV3MXlMUW9hZDJ2Um9mbXV1WC1lUWYtSjdDaHZRUzV0bDIzTldHbFZQcDVLa0YyWEdpXzZjcVBzbjhHbXdDWHk5R1NMTXJJWmN4bThIRXVpOHpEZkFrQ0psTEwteWx1aTl3cU9oZGE0OHB0eFFpTC1zaGNIM1dmNTVnWl9BbzRHdUxxcXdtNTZ5LUFGVXFlanZ1eGlIQjIxNkdUSHVtdzF5TnhYZW1fS1g?oc=5) · 2025-12-29
+> Add these 2 routines to your workday in 2026, says focus and productivity expert: 'Get more out of your life outside work' CNBC
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T16:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeGJuak5kVkZZaE5GdlJ2S2VjQzZrcTZJZW5CcGRkWklRa0tUbnFZZ3gzTm9mV1ZCME9LMTJlenBnSXVYbzEwU0p5aU80c2tkTWgtTUY4QXpIU3VIREUweF9QN2g5dy1YTU5XZ3BLWE54eFpNNUstREd1ZFA5eGZ4V2phTExQZkFyTVV3RWZ2N3BwYm5mRjF1U0hEczBKcTlGcVlENWJoU2I?oc=5
+[Read full article →](https://news.google.com/rss/articles/CBMitwFBVV95cUxOUGNCaHV3SV9HVUs1a09UeTkxYjhhckFRRWEwWW5NVHNQb28wN1ZkRUlZc3R2UlNGUTRuazB4NllzOFU4eTNRMThMNy1sYmpVaXRCbWJ1dXk1bl91RzNEU1BTYnlwVHlMMFJ1Nko0LXZvck5yZk5iRk1qb0J3cV9aYkstajdEN3U4SFJZb2s5UHRKcXowblIxQWMwdGwzRGlsS2lzU09xbHFLZ1d5RFk0SEJPSHBjVVHSAbwBQVVfeXFMTkd4ZUdKRmJJdnNmUmV3MXlMUW9hZDJ2Um9mbXV1WC1lUWYtSjdDaHZRUzV0bDIzTldHbFZQcDVLa0YyWEdpXzZjcVBzbjhHbXdDWHk5R1NMTXJJWmN4bThIRXVpOHpEZkFrQ0psTEwteWx1aTl3cU9oZGE0OHB0eFFpTC1zaGNIM1dmNTVnWl9BbzRHdUxxcXdtNTZ5LUFGVXFlanZ1eGlIQjIxNkdUSHVtdzF5TnhYZW1fS1g?oc=5)
 
-Quiz: How Well Do You Remember 2025? Nintendo Life's Gaming Quiz Of The Year Nintendo Life Nintendo Dominated Gaming News Coverage In 2025 The Outerhaven Nintendo was the most-covered game company of 2025 GoNintendo
-### Forget Rigetti Computing: This Quantum Stock Offers a Far Better Risk‑Reward Right Now - Yahoo Finance
+---
 
-- Source: Google News (Business)
-- Published: 2025-12-26T15:55:00+00:00
-- Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxOaEZXV1llWjlRT2hDRTFqaEFFWTg1V1M1WkllVjczTzUtNXNxSE9kbVVpeHRNQWRZX2ZnTFI1aU00NndLenFIWUl4M2VXOWhWVVlPYnZLRTFaQlNFTGtpa2RGR1V4VDhwRTlyM3pvR3pERjkwX2VaR1QxMDM0U0JkWmlhd19rNTlhUXBQcg?oc=5
+### 29. Introduce new people to Warhammer, and help us reach a target of one million miniatures painted in 2026 - Warhammer Community
 
-Forget Rigetti Computing: This Quantum Stock Offers a Far Better Risk‑Reward Right Now Yahoo Finance Will Rigetti Computing Make a Comeback in 2026? Yahoo Finance The Quantum Computing Stock Big Money Managers Are Quietly Buying The Motley Fool Prediction: Rigetti Computing Stoc…
-### The AI bubble is all over now, baby blue - Marcus on AI
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa2tiMlowZ3pUZThJZ0RBdDBDcXpnWTZaUDZjMlM1Z3hOc3R3TXBieEp3dl9saFhvRFExUzFXLUZUWU01OW9hbE1aQTZNMEZ1NFhCOUstc1lrNnpiNmlCYjltOTQwTjJtU21IVGJIWm9jdGxRaGdhM2VPZkc4WEgwVkZ2eHdUdHBsTWRlRm1KQ3pqOHBzcHVxd1BWTy1fcHhfb2xsUm5VR2Qxa3hsV3NyNGh6Nk5hcXZINzJCTmlkY0o4R3d3dC1TbllkS1FHcjNoUUtUdzZ2czRKN2J4SXVacFJsTFdiREh5TkdQWTBJNU83ejduUnc?oc=5) · 2025-12-29
+> Introduce new people to Warhammer, and help us reach a target of one million miniatures painted in 2026 Warhammer Community
 
-- Source: Google News (Business)
-- Published: 2025-12-26T14:39:54+00:00
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5tTTN4R25KWnJtdXZhQXRqbUdPQVFmNUVyaTFxRDRDVnpTa1JZU2xBa1hRLVpXdG45bVpfRW1zTDRTUXp4VHl5SWFxTXVHUVU1NGFwdk9uWnhVZXgxRWtjQzhEb0tFaEhncHU5NnR0ZG1zTXBqd0lz?oc=5
+[Read full article →](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa2tiMlowZ3pUZThJZ0RBdDBDcXpnWTZaUDZjMlM1Z3hOc3R3TXBieEp3dl9saFhvRFExUzFXLUZUWU01OW9hbE1aQTZNMEZ1NFhCOUstc1lrNnpiNmlCYjltOTQwTjJtU21IVGJIWm9jdGxRaGdhM2VPZkc4WEgwVkZ2eHdUdHBsTWRlRm1KQ3pqOHBzcHVxd1BWTy1fcHhfb2xsUm5VR2Qxa3hsV3NyNGh6Nk5hcXZINzJCTmlkY0o4R3d3dC1TbllkS1FHcjNoUUtUdzZ2czRKN2J4SXVacFJsTFdiREh5TkdQWTBJNU83ejduUnc?oc=5)
 
-The AI bubble is all over now, baby blue Marcus on AI When the AI bubble bursts, humans will finally have their chance to take back control | Rafael Behr The Guardian AI Bubble Fears Scaring You Off? Buy This Magnificent 7 Stock for Stability. Yahoo Finance AI upheaval shows lit…
-### As A.I. Companies Borrow Billions, Debt Investors Grow Wary - The New York Times
+---
 
-- Source: Google News (Business)
-- Published: 2025-12-26T14:12:48+00:00
-- Link: https://news.google.com/rss/articles/CBMidEFVX3lxTFBwenJ4MzVnQVFfcm10MkJSTndfU2JVU3JkSklxV0JIQUN3TWNLdXlMcXFkd0xkWDJ0UWI2LUNZV3pURjhwNWtSbkxnRjNFd0JTeWRjOEZNeDhyVTA5Q3ROakU3S09qQUdraTBvR2tra2Jfc0ps?oc=5
+### 30. DigitalBridge Rallies on SoftBank Talks; Lululemon Edges Higher; Airbus Ramps Up Deliveries
 
-As A.I. Companies Borrow Billions, Debt Investors Grow Wary The New York Times AI debt boom pushes US corporate bond sales close to record Financial Times AI spending spree drives global tech debt issuance to record high Reuters AI’s Growing Share in Public Credit Markets Apollo…
-### 8 timeless money lessons from my 79-year-old dad: 'Being cheap and being frugal aren’t the same thing'
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/videos/2025-12-29/stock-movers-digitalbridge-lululemon-airbus-video) · 2025-12-29
+> DigitalBridge Group (DBRG) soared in premarket trading as Japan's SoftBank Group is said to near a deal to acquire DigitalBridge. The Japanese conglomerate could announce an agreement as soon as Monday for New York-listed DigitalBridge, according to sources who asked not to be i…
 
-- Source: CNBC Top News
-- Published: 2025-12-26T14:01:29+00:00
-- Link: https://www.cnbc.com/2025/12/26/8-money-lessons-from-a-79-year-old-that-stand-the-test-of-time.html
+[Read full article →](https://www.bloomberg.com/news/videos/2025-12-29/stock-movers-digitalbridge-lululemon-airbus-video)
 
-Money expert Brian Page shares the timeless financial lessons he learned growing up with a frugal father. "While others rushed to buy the newest car or gadget, he was content with what he had," he writes. "That mindset made him the quintessential millionaire next door."
-### A tale of 2 Ralphs — Lauren and the grocery — shows a K-shaped economy - The Seattle Times
+---
 
-- Source: Google News (Business)
-- Published: 2025-12-26T14:01:03+00:00
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUDFEZGFPWXJQUTNzbmFXSVhoLV9jaUpJV3cwX0psOUVTS3VBVlo0SmZjdEU5TkNpTFpneDhIVW1La1RaSTluanA3Zmh5bGx6Z0ZXMl9JOVBDdUFoOW1TTUh2UjA0eC0yZndzTnhWdnFXWTlvMlRiYXhib2VBdHVsRUFVWHhZYjlELVFlQTV5VFZuZWxCWlUwbFlMd0l1Q1pEUjg0ZXBXeE0?oc=5
+### 31. US Stocks Slip as Risk-Off Sentiment Hits Big Tech, Lifts Energy
 
-A tale of 2 Ralphs — Lauren and the grocery — shows a K-shaped economy The Seattle Times Consumer spending powers the US economy. A K-shaped economy will further test this dynamic in 2026. Yahoo Finance When Did Everything Become ‘K-Shaped’? The New York Times ‘The gap is wideni…
-### I tried dozens of Linux apps in 2025, but these are the ones I still use - How-To Geek
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/articles/2025-12-29/us-stocks-slip-as-risk-off-sentiment-hits-big-tech-lifts-energy) · 2025-12-29
+> The S&P 500 Index dropped in Monday trading amid intensifying unease about volatile asset moves and geopolitical tensions. Nvidia Corp. and Palantir Technologies Inc. were among the top decliners by volume as the two were featured in stories wrapping the biggest trades of the ye…
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T14:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNTE9pYXhmLWRkRVh3QlZ2MXhOb3hCb25zbUt0OUg3bVlzWDJNM21jR3RoTHJwZDZBaXJUaXhwOUtMaUVlOU83alRJczlnNlR1M3JtSG9BYWRrNm10RlJWZGZRNU5MNTYwdnhTTDU3bEVTajdmNXpWWXNkWHdBc0JRMUpRTDFhNm5nb1UzWGpGWm55UQ?oc=5
+[Read full article →](https://www.bloomberg.com/news/articles/2025-12-29/us-stocks-slip-as-risk-off-sentiment-hits-big-tech-lifts-energy)
 
-I tried dozens of Linux apps in 2025, but these are the ones I still use How-To Geek
-### The Outer Worlds 2 Takes Away A Key Choice For You To Make Role-Playing More Rewarding - GameSpot
+---
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T14:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxNeEFnd3VTNWQ5Wl9VZFV6ZzZEQmRucFdwWnROeXpvd0xEeERwOWJJS1o3YkNiY3lqQ3cwUlZvOHFTM05JT3VmajRRa3MzZlBCbHVQSEhWWmpuN2tOQlpPLThqbmtlU2ZBUWZrenE1U2tKQlBjUF83eEJzMVd5OXk4LUZwbkgyeEpheGxHREVPeHZzOXRuT3R4RHdNTDVVTDhvM3VRVElDdENkZ2NCVFRTQlN4UkFZUEUtcEZNaTlPQUxCeWNacDEya05Hdl95a2M?oc=5
+### 32. SoftBank to Pay $4 Billion for Data Center Firm DigitalBridge - Bloomberg.com
 
-The Outer Worlds 2 Takes Away A Key Choice For You To Make Role-Playing More Rewarding GameSpot What Starfield 2 Needs to learn from The Outer Worlds 2 IGN The Outer Worlds 2 is an open world dream but there's a lot I wish I'd know about before I made mistakes GamesRadar+ The ou…
-### These are the first accessories you should get for your new Google Pixel phone - 9to5Google
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEVDc0hpU2tpTTFUWWZ6NmZGSTBvTUZpLUZ4ZHB2eUZDWTQ3MTItMEx3TU54dHZIVl9RZGZZSWhNVnNSVUwtSE1yRDVhS2pBM1N4YmRWWkZWT2czYS16VnhzTzgyNGM0Ykc4azRHRnJNb3pQUjBZOVhnWTJUZjNjbjhQU09XM25oMzBUbmNBX0hULUpLc1VER285NGIxQUNmQ3llLVl3U0NVa0hfbFJieA?oc=5) · 2025-12-29
+> SoftBank to Pay $4 Billion for Data Center Firm DigitalBridge Bloomberg.com Softbank to buy data center firm DigitalBridge for $4 billion in AI push CNBC SoftBank’s Billionaire Founder Launches His Next Big Dream With AI-Adjacent Deal Bloomberg.com SoftBank to buy DigitalBridge…
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T14:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTFBubTlhc2NuOElFYWxXazJteTdfOXc0T3RMWWN6LTBTdkU1QkEydkFwU20xZDFibVRfUDRHcWRkVDFha1N6Vi1jTW41Vlg5UlV2N1VGZXVfN2dGVWFZTUU0d0phWTNGRmJNN2c0bXJHYUszcjlrY0dfWg?oc=5
+[Read full article →](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEVDc0hpU2tpTTFUWWZ6NmZGSTBvTUZpLUZ4ZHB2eUZDWTQ3MTItMEx3TU54dHZIVl9RZGZZSWhNVnNSVUwtSE1yRDVhS2pBM1N4YmRWWkZWT2czYS16VnhzTzgyNGM0Ykc4azRHRnJNb3pQUjBZOVhnWTJUZjNjbjhQU09XM25oMzBUbmNBX0hULUpLc1VER285NGIxQUNmQ3llLVl3U0NVa0hfbFJieA?oc=5)
 
-These are the first accessories you should get for your new Google Pixel phone 9to5Google
-### Snow Storm Brings Holiday Travel Disruptions to NYC Airports
+---
 
-- Source: Bloomberg Markets
-- Published: 2025-12-26T13:57:53+00:00
-- Link: https://www.bloomberg.com/news/videos/2025-12-26/snow-storm-brings-travel-disruptions-to-nyc-airports-video
+### 33. Middle managers are getting laid off—but their role is 'more important than ever,' says leadership expert
 
-New York’s major airports have seen hundreds of flight cancellations as a significant winter storm descends on the city and neighboring regions. New York City is in line to get 5 to 9 inches (13 to 23 cm) of snow Friday into Saturday, according to the National Weather Service. B…
-### California Faces More Flooding in Latest Wave of Heavy Rains
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/29/middle-managers-are-getting-laid-offbut-their-role-is-more-important-than-ever-says-leadership-expert.html) · 2025-12-29
+> As middle management jobs shrink, workplace experts stress the importance of managers, especially in the age of AI.
 
-- Source: Bloomberg Markets
-- Published: 2025-12-26T13:57:27+00:00
-- Link: https://www.bloomberg.com/news/articles/2025-12-26/california-faces-more-flood-risks-with-la-evacuations-extended
+[Read full article →](https://www.cnbc.com/2025/12/29/middle-managers-are-getting-laid-offbut-their-role-is-more-important-than-ever-says-leadership-expert.html)
 
-California is facing another day of heavy rain and risks of flash floods, prompting officials to warn about the dangers for road travel in this busy holiday period.
-### TE Connectivity (TEL) Surged Following Strong Performance
+---
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-26T13:38:24+00:00
-- Link: https://finance.yahoo.com/news/te-connectivity-tel-surged-following-133824589.html
+### 34. How ‘Clair Obscur: Expedition 33’ Revitalized the RPG and Won Game of the Year - The Ringer
 
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmp4Q2ZkQ202QXluTzNMTFdlb05iMHB0M18wN19TUXlkYmxJdW5WY1RzdEhKUWR2amNLejBuN0lDRzZNS2g5a19MQVgtaHhWRlBUb1VtZlRvMmotR2xJV3UzMHF1NTB2TG5ocE1FVzZCQVpMRWl0NXZ4V29mVFRoaHZPcVNuekRVTzVvYUQ0N2stV1JuSmV1eXVsNDBYeVF6cHlfRXkyRlpoMlk?oc=5) · 2025-12-29
+> How ‘Clair Obscur: Expedition 33’ Revitalized the RPG and Won Game of the Year The Ringer Game of the Year 2025 – Best Role Playing Game TheSixthAxis 4 Underrated New RPGs of 2025 You Won’t Want to Miss ComicBook.com Stevivor’s Best Direction 2025 Stevivor A gaming tour de force…
 
-### Unmarried couples aren't viewed as 'a default unit' at end of life, advisor says. Why that matters
+[Read full article →](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmp4Q2ZkQ202QXluTzNMTFdlb05iMHB0M18wN19TUXlkYmxJdW5WY1RzdEhKUWR2amNLejBuN0lDRzZNS2g5a19MQVgtaHhWRlBUb1VtZlRvMmotR2xJV3UzMHF1NTB2TG5ocE1FVzZCQVpMRWl0NXZ4V29mVFRoaHZPcVNuekRVTzVvYUQ0N2stV1JuSmV1eXVsNDBYeVF6cHlfRXkyRlpoMlk?oc=5)
 
-- Source: CNBC Top News
-- Published: 2025-12-26T13:30:01+00:00
-- Link: https://www.cnbc.com/2025/12/26/unmarried-couples-arent-default-unit-if-one-dies-why-that-matters.html
+---
 
-For the 9.5 million U.S. households headed by unmarried couples, a partner's death wouldn't come with the 'automatic safety net' that their married peers get.
-### Why you should spend more than 4% in retirement, even if the math says no. Are you thriving or just surviving? - Yahoo Finance
+### 35. Samsung's Year End Sale Introduces Major Discounts on Popular Monitors and TVs - MacRumors
 
-- Source: Google News (Business)
-- Published: 2025-12-26T13:30:00+00:00
-- Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE1zSDJxSmdOYU1HQzFPN3RfMnNab01HUThwbkE5VTY2QzhnRVZMc1NWemFfT2YwWXFSX1EtZllGUnFmMnNhaF9RLUJpTWFpUkIwTTJYQ0wwQjdVZVRVcU1vQVdBY1hXZGVqVmw2WWlWSnJpYnFUZ3hYSGdMaVpuQQ?oc=5
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMibEFVX3lxTFBxTFZyb051b3lDOTlBR29EVUVOTWE3TWFyak5vckFEV1A0RVdQS3VtWXhzb1A4YjU5OFhGczRKUFdxa0J3akxRT3kwaENQVm0wR1JEMUZEcnllckhRMDlfRnoyN3NFUVpiLUpiYw?oc=5) · 2025-12-29
+> Samsung's Year End Sale Introduces Major Discounts on Popular Monitors and TVs MacRumors Samsung has one of the best OLED TVs in the USA, now for up to $1,500 off SamMobile Samsung's popular 65" OLED TV with a 144Hz refresh rate is currently $600 off on Amazon for the holiday se…
 
-Why you should spend more than 4% in retirement, even if the math says no. Are you thriving or just surviving? Yahoo Finance Early retirees may be ‘cheating themselves,’ says 4% rule creator—they can likely withdraw more money each year CNBC Ditch the 4% Rule For This Retirement…
-### RTX 5090 16-Pin Connector Cooked Beyond Recognition - Wccftech
+[Read full article →](https://news.google.com/rss/articles/CBMibEFVX3lxTFBxTFZyb051b3lDOTlBR29EVUVOTWE3TWFyak5vckFEV1A0RVdQS3VtWXhzb1A4YjU5OFhGczRKUFdxa0J3akxRT3kwaENQVm0wR1JEMUZEcnllckhRMDlfRnoyN3NFUVpiLUpiYw?oc=5)
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T13:24:00+00:00
-- Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE9nTGlxYURzZE9iOVU3c21Zal9OZnlpMzMzUlBjOUE5OE9UajJTYTZKSFg4VDFtcjlzdkl4MVZvT3l5RlFGdElTVEhLRDFEekh5dGE1ZXdPcmR2NnlCLTQ4WldHQVMya3BIUER3ZXVyX01wU1dRRGlUR09hRVBFd9IBgwFBVV95cUxNOUNKS1dOV1J4cmFOVFhENHBWUExTLVdoRWJMVXlnNk5XV2tSX1IyTWZZV1pkVEdZYmtzYW9XcW1YVkVkeGpNc3VadllRMGRNeVhDOWZsaU1veUQ4Rzgwak5VVFBVM2dFRUFQVTlUZ1FYeEdDY2ZZaVF5cWZsbC1vXzFOOA?oc=5
+---
 
-RTX 5090 16-Pin Connector Cooked Beyond Recognition Wccftech Nvidia GeForce RTX 5090 power wire reportedly caught fire despite using the original cable — CPU cooler's tubing was also caught in the blaze Tom's Hardware Doctor Doom Won't Appear in the Fourth Teaser for \"Avengers:…
-### China Vows to Prevent Yuan’s Exchange Rate From ‘Overshooting’ - Yahoo Finance
+### 36. Why I pair the Capital One Venture X and Amex Platinum cards - The Points Guy
 
-- Source: Google News (Business)
-- Published: 2025-12-26T13:11:34+00:00
-- Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDIyVTlTWHdvcjBMUXoyOWg2cVI2TWNZZFJPd3dsbm1pSkZLRWZqWUxQZWpGS2JjM1djSUM4TGx0bFR6NnFiWlJ3SHVyR0drTWFBclZDZm1OUURmZkNjbnRGWjNJN2NaNHlVdWxmSGM5N3lYUFlaRWZ1cmtmMzFWNHlxTGM?oc=5
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2N5NmpGN0kxeTFjTVFrQnY2elhqRXk3TUliNnFHaHBORWRYRWo0ZUxUUXp5a2hBLWVqb1F4OV8xbE1hZUZpbnZBbWtrZXpRZ3otRndlQXhVQ0FjNElOZUtxZ0REZk1HYUZCbG1nRy1wOHpaYmNBejhmZy0tWmROQkdZaUxiOTdadU1fdQ?oc=5) · 2025-12-29
+> Why I pair the Capital One Venture X and Amex Platinum cards The Points Guy Capital One Venture X vs. Citi Strata Elite: Which Premium Card Is a Better Fit? CNBC 15 Things To Do When You Get the Capital One Venture X Card [2025] Upgraded Points Offer Ending, Act Now: Capital One…
 
-China Vows to Prevent Yuan’s Exchange Rate From ‘Overshooting’ Yahoo Finance China Signals Goal of Slow Yuan Gain Via Fix Well Below Estimate Bloomberg.com China’s offshore yuan breaks major benchmark as appreciation momentum builds South China Morning Post China’s Yuan Climbs P…
-### Johnson & Johnson Statement on the Phase 2b DUPLEX-AD Study - Johnson & Johnson
+[Read full article →](https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2N5NmpGN0kxeTFjTVFrQnY2elhqRXk3TUliNnFHaHBORWRYRWo0ZUxUUXp5a2hBLWVqb1F4OV8xbE1hZUZpbnZBbWtrZXpRZ3otRndlQXhVQ0FjNElOZUtxZ0REZk1HYUZCbG1nRy1wOHpaYmNBejhmZy0tWmROQkdZaUxiOTdadU1fdQ?oc=5)
 
-- Source: Google News (Business)
-- Published: 2025-12-26T13:06:52+00:00
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc19kX2wxOEt6cjBzYV94VnFjN3hCRXc4NEJwVDBTX1FSOFNWMTkwaUdBSlNaYUZMalBVanlXdVVVSEtwbkNuejNlbGJsY1FUVGJWWHBBaG5LeFZlR0tGTW8yU3h3b0ZOeGYtVXpkYWh3ME0zQXEtd05xREI5cWwwUjhtU3J0U1pYVlgteVFSbWNGMlVoVGNOcXo2aGlfUEcxTV9XMzB2M2U?oc=5
+---
 
-Johnson & Johnson Statement on the Phase 2b DUPLEX-AD Study Johnson & Johnson View Full Coverage on Google News
-### Global dealmaking hits $4.5tn in second-best year on record - Financial Times
+### 37. A nod to the future: American takes Chicago expansion up a notch with 100 new daily departures this spring - American Airlines Newsroom
 
-- Source: Google News (Business)
-- Published: 2025-12-26T13:00:07+00:00
-- Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE5tRi1Hb2xCN1BZaW9KRHhvaFEwVHU1d3F4czZYNUdpNFpFTy1lbm5Fc29UZnlzNjI5VWR1TVJBUHpzbWs4THdqSmNwVkhjX1lTeEJneE5DTURLZHluaVI2Y0xWZHZOXzBBNUpTd2FsQ1A?oc=5
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUGJrNFRmWk53aDctYzNTcW5IeG9lejRvaXNvMldXOUI0UXcyX0xxaF9DZ2NVWm1CWm1iV3k5SC1JUERtSUk0VTc0U1Z3U1V3cHZ1QU1IYjdOcWpuOXdMLUt3OUFkUHUxSl9jeFNNWlhtdzlFMGw5SEUwWGtCeUtkVV9aVVNvc0JYRUo4ZzRxTlFTdUhlZVc1OFBDQ1pIRTVMWGR5d3BZeG1UajNiYmZjUVg0N21ZSU9vX1pHMkUzX2hFYWhBemdPVElPYk9CaU5nd3ZWcHZMWjlLUHJ2NEVNc191TFEtR2EyVDMtbmVkY0Fwdw?oc=5) · 2025-12-29
+> A nod to the future: American takes Chicago expansion up a notch with 100 new daily departures this spring American Airlines Newsroom American Airlines to add more than 100 departures from Chicago early next year CBS News American Airlines Dares United, Adding 100 More O’Hare Fl…
 
-Global dealmaking hits $4.5tn in second-best year on record Financial Times Trump’s Lax Approach to Antitrust Helps Spur Banner Year for Corporate Mergers Common Dreams Riding a High, Deal Makers Grow Bullish on 2026 The New York Times Warner Bros bidding war and red hot M&A mar…
-### Analyst Report: Monster Beverage Corp.
+[Read full article →](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUGJrNFRmWk53aDctYzNTcW5IeG9lejRvaXNvMldXOUI0UXcyX0xxaF9DZ2NVWm1CWm1iV3k5SC1JUERtSUk0VTc0U1Z3U1V3cHZ1QU1IYjdOcWpuOXdMLUt3OUFkUHUxSl9jeFNNWlhtdzlFMGw5SEUwWGtCeUtkVV9aVVNvc0JYRUo4ZzRxTlFTdUhlZVc1OFBDQ1pIRTVMWGR5d3BZeG1UajNiYmZjUVg0N21ZSU9vX1pHMkUzX2hFYWhBemdPVElPYk9CaU5nd3ZWcHZMWjlLUHJ2NEVNc191TFEtR2EyVDMtbmVkY0Fwdw?oc=5)
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-26T12:40:41+00:00
-- Link: https://finance.yahoo.com/research/reports/ARGUS_3631_AnalystReport_1766752841000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+---
 
+### 38. Airbus Wins $8 Billion in Aircraft Orders From Chinese Airlines
 
-### Market Digest: MNST
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/articles/2025-12-29/airbus-wins-8-billion-in-aircraft-orders-from-chinese-airlines) · 2025-12-29
+> Airbus SE landed orders for dozens of aircraft from two Chinese carriers as the European planemaker grows its market share in Asia’s biggest economy.
 
-- Source: Yahoo Finance (All News)
-- Published: 2025-12-26T12:40:41+00:00
-- Link: https://finance.yahoo.com/research/reports/ARGUS_45694_MarketSummary_1766752841000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei
+[Read full article →](https://www.bloomberg.com/news/articles/2025-12-29/airbus-wins-8-billion-in-aircraft-orders-from-chinese-airlines)
 
+---
 
-### Code Vein II character trailer – Valentin Voda - Gematsu
+### 39. Linux will be unstoppable in 2026 - but one open-source legend may not survive - ZDNET
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T12:15:55+00:00
-- Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxOR3ZBVEdpQkxuU1NUODVhUjdZVjVVc3YtX1V0alFTdk41eVlsNFNPblZOa1ZpOVIxakZ4SzI2LXJkeGZ4TFZEVS1Fai1Jemg3T3F1Vm11WWxWazVSaVUtVVkzV01TMFB4WXBMcUZBamRnTnd0NDN1QXFsX2w1YV9jeW9n?oc=5
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMieEFVX3lxTE5QaXpheXlKM2RsVFRZTVc0alhNWnY3Z3BPMFFZV21tRGRfWVFRSG9haGZFbjkyTk1SV0lMSzhHMnpqaWd6ZkEzc0czNk44Mi1jMG9TNjktQm5NbnBzM0dKQnpaRDFzWVpMMEpBYkxnNFdMTFI5eFVXag?oc=5) · 2025-12-29
+> Linux will be unstoppable in 2026 - but one open-source legend may not survive ZDNET 4 interesting Linux distributions that first appeared in 2025 Yahoo! Tech 6 reasons 2026 could finally be the year of desktop Linux—for real this time How-To Geek FOSS Weekly #25.52: Free eBook,…
 
-Code Vein II character trailer – Valentin Voda Gematsu 12 Games of Christmas - CODE VEIN II GameGrin Code Vein II gets new trailer introducing Valentin Voda Niche Gamer Code Vein II System Requirements Demand a High-End CPU for 60 FPS Prima Games Code Vein II Prologue Trailer Gi…
-### Trump promised ‘aggressive’ housing reform next year. Here’s what to expect for home prices in 2026 - CNN
+[Read full article →](https://news.google.com/rss/articles/CBMieEFVX3lxTE5QaXpheXlKM2RsVFRZTVc0alhNWnY3Z3BPMFFZV21tRGRfWVFRSG9haGZFbjkyTk1SV0lMSzhHMnpqaWd6ZkEzc0czNk44Mi1jMG9TNjktQm5NbnBzM0dKQnpaRDFzWVpMMEpBYkxnNFdMTFI5eFVXag?oc=5)
 
-- Source: Google News (Business)
-- Published: 2025-12-26T12:00:59+00:00
-- Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDExVEo2bUNNNDlFRkFTMXBPVWFDWkhRYU5heHFZdlVZc0J1UHVsWHhSUXRaUHdnd19RVUtndWNucjRqMGpLOFU4UEVaYWhtMGFZWWNOc2dYN0pZVlExdmtTd1VwUjhZajhkdXJrQlJ2cVlWUGl6UGZSLWhVN2VQVlRnOUVHWHQ0U1YxRg?oc=5
+---
 
-Trump promised ‘aggressive’ housing reform next year. Here’s what to expect for home prices in 2026 CNN The Seattle-area real estate market is at a turning point. Here are predictions for 2026 The Seattle Times Question #9 for 2026: What will happen with house prices in 2026? Su…
-### Vanke Wins Approval for Longer Grace Period on Another Yuan Bond
+### 40. Your past-due student loans can make it harder to rent an apartment. These 5 tips can help
 
-- Source: Bloomberg Markets
-- Published: 2025-12-26T11:48:04+00:00
-- Link: https://www.bloomberg.com/news/articles/2025-12-26/vanke-wins-approval-for-longer-grace-period-on-another-yuan-bond
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/29/student-debt-rent.html) · 2025-12-29
+> If you've fallen behind on your student loans, it may be more challenging to get a property manager to approve you for rental housing, financial experts say.
 
-China Vanke Co., which just days ago got a reprieve on a local bond, has gained further breathing room after investors agreed to extend the grace period of another note, helping the embattled developer avert an imminent default once again.
-### Rolex Took Its Biggest Risk in Years in 2025. Did It Pay Off? - Gear Patrol
+[Read full article →](https://www.cnbc.com/2025/12/29/student-debt-rent.html)
 
-- Source: Google News (Technology)
-- Published: 2025-12-26T11:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMibEFVX3lxTE5kNU1aald0dmk1NHFvZkg4TzJwVEpRU1k3dnpOZzhqR0pkQlVrQ2ZFR3g4dmhNaXJuSFkzcF9jS0dNTGxTcUFWMVpaYnN1NFlaTGpsTXpwRU05WE9YcFBodDExREpQR043NUVaZQ?oc=5
+---
 
-Rolex Took Its Biggest Risk in Years in 2025. Did It Pay Off? Gear Patrol
-### Prediction: This Stock Will Be the Biggest Quantum Computing Winner of 2026 - Yahoo Finance
+### 41. This Year’s IPO Billionaires See Wealth Eroded by Market Moves
 
-- Source: Google News (Business)
-- Published: 2025-12-26T10:50:00+00:00
-- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxQYzdhR1RYeXc1Zy0zXzhIQW52ZFY0SGg1N2tqRGxkTC1veU1yNWdYZ3F5SDJyQTg3WnI2ekhqQUxhZTh1clhuNHFvTEN1SzBoOU9hdmZicnMxaUUxa2V6cVBNUGlwWGFZelZPay1rS2YzZW5mbGh2c0J5LWRWRHlkOEk3Vm1YNGRYdUo5ckNHclpydw?oc=5
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/articles/2025-12-29/this-year-s-ipo-billionaires-see-wealth-wiped-away-by-markets) · 2025-12-29
+> The long-awaited return of IPO activity this year minted 21 new billionaires, but what came after many companies’ eye-popping debuts was often a different story.
 
-Prediction: This Stock Will Be the Biggest Quantum Computing Winner of 2026 Yahoo Finance View Full Coverage on Google News
-### Toast the New Year With These Sparkling Wines - The New York Times
+[Read full article →](https://www.bloomberg.com/news/articles/2025-12-29/this-year-s-ipo-billionaires-see-wealth-wiped-away-by-markets)
 
-- Source: Google News (Business)
-- Published: 2025-12-26T10:02:18+00:00
-- Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3BoQnVOcVpvamF1LXl6XzJic3F6bUZkSnVkS3V5eTBvXzd2ZHFDbGd1SmFmYTNXS1Ezd1dBOTB2OVdfbzJqeEtsRlRQb2pXWjdObXlGemhneUxIcmNRNXNub0RkUTVnbDlmclFQckkzNFo0NC1XM0FHOWRqc1Z2ZXM5Zw?oc=5
+---
 
-Toast the New Year With These Sparkling Wines The New York Times 9 Stellar Champagnes to Pop This New Year’s Eve Robb Report Champagne Or Prosecco? How To Choose The Right Bubbles For New Year’s Eve Forbes The Best Sparkling Wine for Your New Year's Eve Celebration — Whether You…
-### Brain-computer implants are coming of age. Here are 3 trends to watch in 2026 - statnews.com
+### 42. Xiaomi’s 17 Ultra Leica edition has a rotatable camera zoom - The Verge
 
-- Source: Google News (Business)
-- Published: 2025-12-26T09:34:27+00:00
-- Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxQaU1UX0x6anNkVUpETXZZeGpzZWhZblZESDZCcmtSRGl5QTlxbkNWcEl5T2h6ZHExNDQwUUMwRTNmTWtZQjhsc2RCLXRUZWRGMjRvNmNJUjk4bkF3Ml9DRFgtY0ZYaG5FamVGMTU1MnpHX2xZUnJIUi1pNHk3bjQ1RDlaVXkwYkVMeEdQaA?oc=5
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMiggFBVV95cUxObjBqSGNzc204WndfY2ZtM05KTEpsUFJ5YnlRMEhWd2dOTkpzRjVGMEpMQy1iQnpUUlVmellHWXZSX1I1clh3b3dORzlZd1MwWUZTb3Q5Vll2U0hWdzBvV1NFQkVDeDktaWRtbXFhaUNoUXliX3Rza2Z0U1h4UWpfRFBR?oc=5) · 2025-12-29
+> Xiaomi’s 17 Ultra Leica edition has a rotatable camera zoom The Verge Xiaomi's 17 Ultra Leica Edition smartphone comes with a manual zoom ring Engadget Xiaomi’s New 17 Ultra by Leica Phone Looks and Acts Like a Real Camera PetaPixel Xiaomi finalizes price hikes, with Samsung and…
 
-Brain-computer implants are coming of age. Here are 3 trends to watch in 2026 statnews.com Brain Implants, Yes or No? The Gospel Coalition Global Brain Computer Interface Market Size & Forecast 2025–2033 vocal.media Less invasive technologies will redefine future neurological ca…
-### AI boom adds $500bn to net worth of US tech billionaires in 2025 - Financial Times
+[Read full article →](https://news.google.com/rss/articles/CBMiggFBVV95cUxObjBqSGNzc204WndfY2ZtM05KTEpsUFJ5YnlRMEhWd2dOTkpzRjVGMEpMQy1iQnpUUlVmellHWXZSX1I1clh3b3dORzlZd1MwWUZTb3Q5Vll2U0hWdzBvV1NFQkVDeDktaWRtbXFhaUNoUXliX3Rza2Z0U1h4UWpfRFBR?oc=5)
 
-- Source: Google News (Business)
-- Published: 2025-12-26T05:00:43+00:00
-- Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE42aXM3UTVqYVhWOGVzWjNUc1czd2JMaDNfUUQ3c0ozeG5XYTZYckRQQzNUR21EYWpGdzhDQnRMMFBTTEdtZXpaYURHUFljZktlc2t1VTlpek5hTTFUQ3NXc3RxLTZaMHlwWHpGX2FBcmQ?oc=5
+---
 
-AI boom adds $500bn to net worth of US tech billionaires in 2025 Financial Times AI boom adds more than half a trillion dollars to wealth of US tech barons in 2025 | Rich lists The Guardian AI is creating a new billionaire class with a record number of founders under 30 Times of…
-### America’s Biggest Oil Field Is Turning Into a Pressure Cooker - The Wall Street Journal
+### 43. Canada Pensions Overseeing $1.2 Trillion Revamp Private Equity Model
 
-- Source: Google News (Business)
-- Published: 2025-12-26T04:00:00+00:00
-- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPSXJaNmlwSkVQRlhYblBvXzFJcDU5bW5HcmF4NlZvSVNZVnRUXzFjbGJvaEg0ei1JY0Z0WlZtZWJlZThNcjZsZ202MWk5UE55bXEzWGhORi1NSjVrYjU5czVpT0pSQ3VGc0czd09venBpcVpNQ3FublB1U04tcy1xeFpxSzJvcm5SaXhtU2lGemJhSG8wZWVLNURVRlh1V3NVMmtId0hRYnhQLTBET2c?oc=5
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/articles/2025-12-29/canada-pensions-overseeing-1-2-trillion-revamp-private-equity-model) · 2025-12-29
+> For the likes of Blackstone Inc. and KKR & Co., a multibillion-dollar opportunity beckons from Canada.
 
-America’s Biggest Oil Field Is Turning Into a Pressure Cooker The Wall Street Journal View Full Coverage on Google News
-### Emerging-Market Stocks, Currencies Add to Rally in Quiet Session
+[Read full article →](https://www.bloomberg.com/news/articles/2025-12-29/canada-pensions-overseeing-1-2-trillion-revamp-private-equity-model)
 
-- Source: Bloomberg Markets
-- Published: 2025-12-26T03:49:36+00:00
-- Link: https://www.bloomberg.com/news/articles/2025-12-26/emerging-market-stocks-currencies-head-for-weekly-advance
+---
 
-Emerging-market assets added to their recent advances on Friday amid thin holiday trading, as investor sentiment remained bullish heading into the year-end.
-### China launches venture capital funds to invest in 'hard technology', state media report - Reuters
+### 44. How to watch the Sony Afeela CES 2026 press conference - Engadget
 
-- Source: Google News (Business)
-- Published: 2025-12-26T03:18:00+00:00
-- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbUV1NXhkUlBjSlR5ZV83Z3A0UnktTVc3MmllSW5aVFo5T180aF9NWUdtZmNlRzhDN242bVQ3ZU9wWjhOaXRpNHNTTHZXR1dVYlhZaXlGeEdMVjJJOXB2R0tYNUdXOF9zX01KZHBMYkxRa0c2d3pCVUxFS29vTlpxRUMzSjJGaU5KNVo2bkJyUG4wS3puY3FxRk1kZ0Q0QlA5ZVhWeU1mY010YU9zWmJLYnZicnE2bWtHd1VIRi01UjJyYlkzbVNhNnlDSkVvOUdERFdhZHUySm05ZXJfdHl3X1JwWk9wNm54NFE?oc=5
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaURRQmwxalNoVkFJbm5NUjBnVFYycjJWOE5YS3ViSGhEVXhzUzJnQ3FwWDNvc2x5S2t2YTBzUktKcTR4b24yZ3ptMEc5NFdzM1M1OThmZTZKbTRETWdYN0h5SzdZejlfX1dqLTdGWUstSG5sS2dTUzFuOVV2SFdYRzA2aUJlQkd3WjRPYm84QTNQWkpURzJEQl9EYWhOelpweEN5d211Z29VVmpJeG1GWVhkaw?oc=5) · 2025-12-29
+> How to watch the Sony Afeela CES 2026 press conference Engadget
 
-China launches venture capital funds to invest in 'hard technology', state media report Reuters China Starts State-Backed Venture Funds to Support Tech Startups Bloomberg.com China Launches $14 Billion State Fund to Back Strategic Tech Industries Caixin Global China Throws Down…
-### Copper Hits Record in China, Jumps in New York on Supply Concern
+[Read full article →](https://news.google.com/rss/articles/CBMiswFBVV95cUxNaURRQmwxalNoVkFJbm5NUjBnVFYycjJWOE5YS3ViSGhEVXhzUzJnQ3FwWDNvc2x5S2t2YTBzUktKcTR4b24yZ3ptMEc5NFdzM1M1OThmZTZKbTRETWdYN0h5SzdZejlfX1dqLTdGWUstSG5sS2dTUzFuOVV2SFdYRzA2aUJlQkd3WjRPYm84QTNQWkpURzJEQl9EYWhOelpweEN5d211Z29VVmpJeG1GWVhkaw?oc=5)
 
-- Source: Bloomberg Markets
-- Published: 2025-12-26T02:49:19+00:00
-- Link: https://www.bloomberg.com/news/articles/2025-12-26/copper-hits-record-in-china-jumps-in-new-york-on-supply-concern
+---
 
-Copper surged to a record in Shanghai and rallied in New York, adding to substantial annual gains as investors bet on tighter global supplies in 2026, while also pricing in the impact of a weaker US dollar.
-### 'Humans are the most important part' of investing, says a fund manager whose firm makes every call with algorithms
+### 45. US stocks eclipsed by rest of world in 2025 as investors diversify - Financial Times
 
-- Source: CNBC Top News
-- Published: 2025-12-26T01:50:16+00:00
-- Link: https://www.cnbc.com/2025/12/26/humans-most-important-part-investing-founder-ai-run-asset-manager.html
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMicEFVX3lxTE0wMEd5LXR2RU44NUxjYUJXd0I0dEl3VW1jWHQ5TkVLVGxPaU1ORzdpb3dReFlIeFk1ZTJlNTZCYVVXdEZxaU1EVmZkQU15ZUE2dG5BTG5PS3hDa3BzbUhJNGQyaUJnbDk0X3E3X3BCWEM?oc=5) · 2025-12-29
+> US stocks eclipsed by rest of world in 2025 as investors diversify Financial Times S&P 500 Set to Underperform Global Peers by Most Since 2009 TipRanks Opportunities Are Knocking Outside the U.S. Too Barron's 2026 Stock Indices Outlook: Dow Jones, Nikkei 225, Hang Seng poised to…
 
-The AI-driven fund has seen higher annual returns across a 10-year period compared with an industry benchmark, per the firm.
-### China Vows to Prevent Yuan’s Exchange Rate From ‘Overshooting’
+[Read full article →](https://news.google.com/rss/articles/CBMicEFVX3lxTE0wMEd5LXR2RU44NUxjYUJXd0I0dEl3VW1jWHQ5TkVLVGxPaU1ORzdpb3dReFlIeFk1ZTJlNTZCYVVXdEZxaU1EVmZkQU15ZUE2dG5BTG5PS3hDa3BzbUhJNGQyaUJnbDk0X3E3X3BCWEM?oc=5)
 
-- Source: Bloomberg Markets
-- Published: 2025-12-26T01:30:43+00:00
-- Link: https://www.bloomberg.com/news/articles/2025-12-26/china-signals-goal-of-slow-yuan-gain-via-fix-well-below-estimate
+---
 
-China vowed to prevent the yuan’s exchange rate from overshooting, sending yet another clear signal of its intention to slow the currency’s appreciation.
-### These 3 retailers liquidated after Chapter 11 bankruptcy - thestreet.com
+### 46. Windows on Arm had another good year - The Verge
 
-- Source: Google News (Business)
-- Published: 2025-12-26T01:19:00+00:00
-- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxPbDBRWnRTMHZtVzBfbmV6VW4tSEZ0dVFOM0dxemZaQVRidE9zckFOMDVpS2VSUENld2w1ZmdrUnVuUmtJTzUydGJZRGphNE9weUhFaDJYbkpGcFoyWjRIQldvcmxsdzF6VnFxMFpSckNBVWZTSU53b3RfcGhjNHhUTFRoTlQzN0hpQnlNUTVQaw?oc=5
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTA5dmlVclV3b01Ya29YaUJVNC1IT19mWXlLdEE5SVZFbkFZa2MyVjI2WEZKMHo4YjUtZGQyY2l3dGRrbmhKTnAtaGNVMzJEd0hhTHNGS0RFOF9zV1FmTnpocHZGdDZwYkpUWHZad1VxMFpMX2tOb21ZaW5UZ2RvdWxUbkJETlZma1FnZE5CZEpySjVk?oc=5) · 2025-12-29
+> Windows on Arm had another good year The Verge
 
-These 3 retailers liquidated after Chapter 11 bankruptcy thestreet.com View Full Coverage on Google News
-### Gold and Silver Smash Records Again as Rally Gathers Momentum
+[Read full article →](https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTA5dmlVclV3b01Ya29YaUJVNC1IT19mWXlLdEE5SVZFbkFZa2MyVjI2WEZKMHo4YjUtZGQyY2l3dGRrbmhKTnAtaGNVMzJEd0hhTHNGS0RFOF9zV1FmTnpocHZGdDZwYkpUWHZad1VxMFpMX2tOb21ZaW5UZ2RvdWxUbkJETlZma1FnZE5CZEpySjVk?oc=5)
 
-- Source: Bloomberg Markets
-- Published: 2025-12-25T23:29:51+00:00
-- Link: https://www.bloomberg.com/news/articles/2025-12-25/silver-rises-to-record-gold-near-all-time-high-as-risks-persist
+---
 
-Gold, silver and platinum jumped to all-time highs to extend a historic end-of-year rally for precious metals, with support from escalating geopolitical tensions, US dollar weakness and thin market liquidity.
-### Galaxy Z TriFold suffers horrific defeat in durability test; there’s just more to break - 9to5Google
+### 47. Nearly half of Americans believe their financial security is getting worse, poll finds - The Guardian
 
-- Source: Google News (Technology)
-- Published: 2025-12-25T19:34:00+00:00
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE1CTmdBRmUxek5vSkZFVjV2Yl9JTjBWNXhIOFljSzF3YjZmcS1iLXdYZlEySXkya0k0Y1JLTW9TRGZTQXdrTE9zYWx2dkRtZmRQVzhDU1E4MUVxU2lhd19leDNTSVEzZzNOYnJhaDhCWUFwdUpjdEE?oc=5
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEhhQ0ZWTG15dDVnZzMzLVlmejFNSXlIV1RMcVA0TkJiUlJyZ2h4TmRrRFhBbThVU2VFSWxCak8xNDVpdVdtZ0dJWUlVbC1XdGNXb05YVU5ELUYycnVmb2c1QUhNR19LeTRGdWRHM0huTmFsMDlSSDZPT2kwcWVXVUJMOFZNZEpZeXFzUnZwMl9zNmhH?oc=5) · 2025-12-29
+> Nearly half of Americans believe their financial security is getting worse, poll finds The Guardian Trump Hit by Humiliating Poll as His 2026 Nightmare Looms The Daily Beast Most Americans don’t think Trump or Democratic leaders are listening. Here’s what they wish they could te…
 
-Galaxy Z TriFold suffers horrific defeat in durability test; there’s just more to break 9to5Google Galaxy Z TriFold vs. Huawei Mate XT: One Is the Most Versatile Phone I've Ever Used CNET I’ve Been Using The Samsung Trifold For A Week And It’s A Game Changer Forbes JerryRigEvery…
-### Wall Street wrote off Palantir as too expensive. Retail investors can't get enough
+[Read full article →](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEhhQ0ZWTG15dDVnZzMzLVlmejFNSXlIV1RMcVA0TkJiUlJyZ2h4TmRrRFhBbThVU2VFSWxCak8xNDVpdVdtZ0dJWUlVbC1XdGNXb05YVU5ELUYycnVmb2c1QUhNR19LeTRGdWRHM0huTmFsMDlSSDZPT2kwcWVXVUJMOFZNZEpZeXFzUnZwMl9zNmhH?oc=5)
 
-- Source: CNBC Top News
-- Published: 2025-12-25T13:00:01+00:00
-- Link: https://www.cnbc.com/2025/12/25/palantir-retail-investors-valuation-karp.html
+---
 
-The stock, which made its market debut in 2020, is an indisputable star of the retail investing world.
-### Tariff turmoil, a gold rush and the sinking dollar — 2025 in charts
+### 48. Market Digest: ACN, EXPE
 
-- Source: Financial Times Markets
-- Published: 2025-12-25T05:00:09+00:00
-- Link: https://www.ft.com/content/6e32f728-51a7-4677-b5e4-fff33f05e730
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/research/reports/ARGUS_45700_MarketSummary_1767009275000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei) · 2025-12-29
 
-FT reporters round up 2025’s biggest market stories
-### Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning
+[Read full article →](https://finance.yahoo.com/research/reports/ARGUS_45700_MarketSummary_1767009275000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei)
 
-- Source: CNBC Top News
-- Published: 2025-12-24T16:53:21+00:00
-- Link: https://www.cnbc.com/2025/12/24/tubi-fox-streaming-free.html
+---
 
-Fox's Tubi outpaced Peacock and HBO Max for share of streaming minutes in Nielsen's November Gauge report.
-### Big US banks add $600bn in value as deregulation spurs gains
+### 49. The original turns 50 – Volkswagen celebrates five decades of GTI in 2026 - Volkswagen Newsroom
 
-- Source: Financial Times Markets
-- Published: 2025-12-24T14:58:15+00:00
-- Link: https://www.ft.com/content/0784b2a8-11fc-45d2-81c6-78325886e974
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSURubTBZalhJMFBtcnBMRVZqMHdJZk84bEIwMXlWT0NSR0FtNnZ4MVNTNkNpSVIwX1dXTzBzV21POWt3WWpMM21NVjhlU1VvTjFWQndpZ2hUbkp1eE0wVF96ODUyX1BKRFNnVDBSVWRkeEJad2ZndmpiWmxlN0szUmtlRkR0Ym9penk1OEY3bGh4RFFiRWlMYXRsZlVwSXJobERzYWhGbEhvZmtsUUVCc29ienBHMlFHUHV1Y2p4ZlVub1JNejlGNWpObw?oc=5) · 2025-12-29
+> The original turns 50 – Volkswagen celebrates five decades of GTI in 2026 Volkswagen Newsroom Volkswagen unveils new edition as it marks five decades of GTI Business Motoring 2026 Will Be the Year of the Golf GTI Hagerty Golf GTI turns 50 as Volkswagen unveils electric GTI Autom…
 
-Moves to allow higher leverage and overhaul stress tests have driven increase in market capitalisation
-### Banks and traders race to capitalise on gold’s historic rally
+[Read full article →](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSURubTBZalhJMFBtcnBMRVZqMHdJZk84bEIwMXlWT0NSR0FtNnZ4MVNTNkNpSVIwX1dXTzBzV21POWt3WWpMM21NVjhlU1VvTjFWQndpZ2hUbkp1eE0wVF96ODUyX1BKRFNnVDBSVWRkeEJad2ZndmpiWmxlN0szUmtlRkR0Ym9penk1OEY3bGh4RFFiRWlMYXRsZlVwSXJobERzYWhGbEhvZmtsUUVCc29ienBHMlFHUHV1Y2p4ZlVub1JNejlGNWpObw?oc=5)
 
-- Source: Financial Times Markets
-- Published: 2025-12-24T10:06:11+00:00
-- Link: https://www.ft.com/content/ae214919-1617-48fa-8f0d-7734f5c98e72
+---
 
-Surge in bullion prices turns precious metals trading and vaulting into one of finance’s most profitable businesses
-### Tech groups shift $120bn of AI data centre debt off balance sheets
+### 50. The 'actually premium' Motorola Signature phone is coming on January 7, 2026 - PhoneArena
 
-- Source: Financial Times Markets
-- Published: 2025-12-24T05:00:29+00:00
-- Link: https://www.ft.com/content/0ae9d6cd-6b94-4e22-a559-f047734bef83
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkhSclFSNS0wRmd1Yk5pcEVZRFNPRU9oM1BqeWpGcjVwcGVENFpUTFgtQVlmMjg3SjctdkNsSXZsSGhJM3R6VTFySlhuNlJtOVVueUEtTVpQY29xQXo5ZmNvcVZMLUFjc3RuajgxQUZxZzk2MEFJc0hmNVBQdnAwbldkZnVIUmtMTnduUFR1UnpHMzNOQjlzcXZDOU9Ub2pKejFwMTBkbV9ueGVGMkFmcU8tM04?oc=5) · 2025-12-29
+> The 'actually premium' Motorola Signature phone is coming on January 7, 2026 PhoneArena First look at Motorola’s new Signature flagship phone made me double-take Tech Advisor The Moto X70 Air Pro Hits the Certification Stage Gizchina.com Motorola Teases the Powerful X70 Air Pro…
 
-Creative financing helps insulate Big Tech while binding Wall Street to a future boom or bust
-### One in seven FTSE 100 companies changed bosses this year
+[Read full article →](https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkhSclFSNS0wRmd1Yk5pcEVZRFNPRU9oM1BqeWpGcjVwcGVENFpUTFgtQVlmMjg3SjctdkNsSXZsSGhJM3R6VTFySlhuNlJtOVVueUEtTVpQY29xQXo5ZmNvcVZMLUFjc3RuajgxQUZxZzk2MEFJc0hmNVBQdnAwbldkZnVIUmtMTnduUFR1UnpHMzNOQjlzcXZDOU9Ub2pKejFwMTBkbV9ueGVGMkFmcU8tM04?oc=5)
 
-- Source: Financial Times Markets
-- Published: 2025-12-24T05:00:11+00:00
-- Link: https://www.ft.com/content/fb302853-f2d3-48f8-a3bc-668d3be54cd0
+---
 
-Chief executive turnover was above average even as London’s blue-chip index heads for best year since 2009
-### Copper price hits record high on concerns over tariffs and shortages
+### 51. Starbucks doesn’t want to be on every street in New York and Los Angeles anymore - CNN
 
-- Source: Financial Times Markets
-- Published: 2025-12-23T17:04:39+00:00
-- Link: https://www.ft.com/content/0bb510f2-da57-4575-bb5c-0460a6c14944
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzctQTNGVkVLX3ItcmtnZ0hjYU5GdEpVbURIcm9PMmpncEdxQTk0cDA5RWFndUtMUjRJTE5JcjlQZ0pXMXBOXzhuOTN3SHUxbXNOZzh6MUNibnk2bDZCbjdCa29fbmFCN2hyUXlYa2hWLWxfZzB6TXhVTm82UlAwcFBjQQ?oc=5) · 2025-12-29
+> Starbucks doesn’t want to be on every street in New York and Los Angeles anymore CNN Iconic coffee chain to close 400 stores in major cities MLive.com Starbucks plans to close approximately 400 stores in major metropolitan areas WFTV Starbucks (SBUX) Shifts Focus to Suburban Dri…
 
-Industrial metal has passed $12,000 a tonne as rally continues
-### What Tesco can teach fintech hotshots about cultural imperialism
+[Read full article →](https://news.google.com/rss/articles/CBMigwFBVV95cUxPbzctQTNGVkVLX3ItcmtnZ0hjYU5GdEpVbURIcm9PMmpncEdxQTk0cDA5RWFndUtMUjRJTE5JcjlQZ0pXMXBOXzhuOTN3SHUxbXNOZzh6MUNibnk2bDZCbjdCa29fbmFCN2hyUXlYa2hWLWxfZzB6TXhVTm82UlAwcFBjQQ?oc=5)
 
-- Source: Financial Times Markets
-- Published: 2025-12-23T09:43:10+00:00
-- Link: https://www.ft.com/content/4f7c76ba-3fcf-4eb4-91d8-2e01bbac6772
+---
 
-Cultural hurdles can be just as hard to get over as regulatory ones
-### Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat
+### 52. Man builds his own Apple Watch from scratch in just one week while in the world's largest electronics market in China - supercarblondie.com
 
-- Source: The Wall Street Journal (Markets)
-- Published: 2025-01-27T12:20:00-05:00
-- Link: https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMid0FVX3lxTE9pc01ZNEhXTUc2aUVsZFBKWUtLT0tJUFJYMXNCemJlV0Z2VnFCWnMzTHRybmEtN0Fjd1ZLTVNqQkQ3MzREMWhfY0w3Q0NoQUVEUHF4MDJ6ZmlMVUpOc1REYmxEdmV5dGJMUDliOUNfRmxEdXFYWndR?oc=5) · 2025-12-29
+> Man builds his own Apple Watch from scratch in just one week while in the world's largest electronics market in China supercarblondie.com
 
-Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.
-### Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens
+[Read full article →](https://news.google.com/rss/articles/CBMid0FVX3lxTE9pc01ZNEhXTUc2aUVsZFBKWUtLT0tJUFJYMXNCemJlV0Z2VnFCWnMzTHRybmEtN0Fjd1ZLTVNqQkQ3MzREMWhfY0w3Q0NoQUVEUHF4MDJ6ZmlMVUpOc1REYmxEdmV5dGJMUDliOUNfRmxEdXFYWndR?oc=5)
 
-- Source: The Wall Street Journal (Markets)
-- Published: 2025-01-27T09:55:00-05:00
-- Link: https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main
+---
 
-The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.
-### Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins
+### 53. Bauxite miner Axis launches $29bn claim against Guinea
 
-- Source: The Wall Street Journal (Markets)
-- Published: 2025-01-26T05:30:00-05:00
-- Link: https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main
+**Source:** [Financial Times Markets](https://www.ft.com/content/3ef783f3-87f3-4910-a678-9f7210eef94f) · 2025-12-29
+> Mining groups lose licences as resource-rich African states seek bigger share of profits
 
-Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.
+[Read full article →](https://www.ft.com/content/3ef783f3-87f3-4910-a678-9f7210eef94f)
+
+---
+
+### 54. A Swedish city is being moved — building by building — amid Europe’s minerals push
+
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/29/kiruna-swedish-city-is-moving-as-europe-ramps-up-its-minerals-push.html) · 2025-12-29
+> Sweden's northernmost city of Kiruna is on the move because of ground subsidence from the expansion of the world's largest underground iron ore mine.
+
+[Read full article →](https://www.cnbc.com/2025/12/29/kiruna-swedish-city-is-moving-as-europe-ramps-up-its-minerals-push.html)
+
+---
+
+### 55. China to crack down on AI chatbots around suicide, gambling
+
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/29/china-ai-chatbot-rules-emotional-influence-suicide-gambling-zai-minimax-talkie-xingye-zhipu.html) · 2025-12-29
+> The proposed rules come as Chinese artificial intelligence chatbot startups Minimax and Z.ai have this month filed for Hong Kong IPOs.
+
+[Read full article →](https://www.cnbc.com/2025/12/29/china-ai-chatbot-rules-emotional-influence-suicide-gambling-zai-minimax-talkie-xingye-zhipu.html)
+
+---
+
+### 56. China signals tolerance for stronger renminbi
+
+**Source:** [Financial Times Markets](https://www.ft.com/content/0dfded3d-c3b4-4a25-b18c-b04b9610fd1f) · 2025-12-29
+> Central bank fixes currency at highest level against dollar in 15 months
+
+[Read full article →](https://www.ft.com/content/0dfded3d-c3b4-4a25-b18c-b04b9610fd1f)
+
+---
+
+### 57. Trump-linked crypto venture fires auditor after FT inquiries - Financial Times
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMicEFVX3lxTE5TblE1RGw3QkJtb0JMZEk4MUl4RUZRdDQ0dDRscFNrQ2o4SHRSSHVkTUd1UlIyY2tBTmZHaHdGdnI0Y3dqV0ZRaEdrN2lGLWZ4TEJ6UnV5Y2VxZGpteUhxNjZuRTBGMzJneTlqbUFrNHU?oc=5) · 2025-12-29
+> Trump-linked crypto venture fires auditor after FT inquiries Financial Times Trump Family Crypto Firm Fires Auditor Whose License Expired The Information Trump-Linked Crypto Firm ALT5 Sigma Faces Scrutiny Over Unlicensed Auditor: FT Yahoo Finance ALT5 INVESTIGATION: Investigatio…
+
+[Read full article →](https://news.google.com/rss/articles/CBMicEFVX3lxTE5TblE1RGw3QkJtb0JMZEk4MUl4RUZRdDQ0dDRscFNrQ2o4SHRSSHVkTUd1UlIyY2tBTmZHaHdGdnI0Y3dqV0ZRaEdrN2lGLWZ4TEJ6UnV5Y2VxZGpteUhxNjZuRTBGMzJneTlqbUFrNHU?oc=5)
+
+---
+
+### 58. American Airlines pilot shared screenshot of salary — and people’s jaws are on the floor - AOL.com
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXUtQUlUeHBQa1BEWGxRZ1d3d2ZkdjNQWm5SYXFDSVB3RDJGc3JZdnYwV3BacTVhcVlrNXpRNFY2cTlzM2JkNml0VlRtak1DVUZCVFdrVWVWUGVFZkZzYUFaODNNZ0dLRkZJYk5MLU92VnRtdXlhc0hkS05Cd0doSnl3aTJKR2RN?oc=5) · 2025-12-29
+> American Airlines pilot shared screenshot of salary — and people’s jaws are on the floor AOL.com United States Aviation and Travel Sector Reacts as American Airlines Pilot Salary Disclosure Highlights Changing Economics of Air Travel Travel And Tour World Miami-based pilot revea…
+
+[Read full article →](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXUtQUlUeHBQa1BEWGxRZ1d3d2ZkdjNQWm5SYXFDSVB3RDJGc3JZdnYwV3BacTVhcVlrNXpRNFY2cTlzM2JkNml0VlRtak1DVUZCVFdrVWVWUGVFZkZzYUFaODNNZ0dLRkZJYk5MLU92VnRtdXlhc0hkS05Cd0doSnl3aTJKR2RN?oc=5)
+
+---
+
+### 59. End of newspaper JOA heralds new era of competition in Detroit - The Detroit News
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUTFESUZxMUZkelM0TmEwOEk2U0FxQjJKZkJlRF9CaTU0Z3pIdkYzWUhnX2EzbDY1YXBvaHowLVNvcmNsQ3Z6dnhBbjBGdmppS3VFN3F1dUhVU1QtYWNGZURubnBNWWpFU3VTQ3lwUUVQa0hpSm0tM3ZnLWtkdENfUFdVbjQtTC1faTJMSkFkdjFYaVRHUmMwU3Zoc0FMeV9JcmEzano2UnFKOXU0N3VuSTVLckRCTEtwUDRNOF9URGhwcm9aYkVTOTdYd2wxYnJMdG9ieWQ2cG5ISTFlU2c4UktLQWd4R3Y4d2owSnln?oc=5) · 2025-12-29
+> End of newspaper JOA heralds new era of competition in Detroit The Detroit News Bound together for 36 years, Detroit's 2 daily newspapers go their separate ways Crain's Detroit Business Starkman: As JOA Ends, News and Free Press Remain Among Best Local Newspapers in America Dead…
+
+[Read full article →](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUTFESUZxMUZkelM0TmEwOEk2U0FxQjJKZkJlRF9CaTU0Z3pIdkYzWUhnX2EzbDY1YXBvaHowLVNvcmNsQ3Z6dnhBbjBGdmppS3VFN3F1dUhVU1QtYWNGZURubnBNWWpFU3VTQ3lwUUVQa0hpSm0tM3ZnLWtkdENfUFdVbjQtTC1faTJMSkFkdjFYaVRHUmMwU3Zoc0FMeV9JcmEzano2UnFKOXU0N3VuSTVLckRCTEtwUDRNOF9URGhwcm9aYkVTOTdYd2wxYnJMdG9ieWQ2cG5ISTFlU2c4UktLQWd4R3Y4d2owSnln?oc=5)
+
+---
+
+### 60. Sony Removes Free Game From the Library of PlayStation Users - ComicBook.com
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmVhLTlBa1pxNHRfOFJ1ZXE1eUdQOTB2a0N0TktoRVcwaUVYS3BoYUVtVXltTmRrVlNFQjU0blF6MWV1bGJCMDVtblJxdFp6Qmd4aE9fNVFEWV9LbXQwRFZvQ3NPZnB2RVgtRHZZQ3Q0bHVNVklzUTdEMTVsN21QS0FZM0VnaEdBWlBXTFpTUzNWem1sdXh5VWxnZw?oc=5) · 2025-12-29
+> Sony Removes Free Game From the Library of PlayStation Users ComicBook.com Astrologers have declared a week of nostalgia: "Bombora" has started working on a book about the "Heroes of Might and Magic" series IXBT.games PlayStation Responds After Giving Away Free Game Accidentally…
+
+[Read full article →](https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmVhLTlBa1pxNHRfOFJ1ZXE1eUdQOTB2a0N0TktoRVcwaUVYS3BoYUVtVXltTmRrVlNFQjU0blF6MWV1bGJCMDVtblJxdFp6Qmd4aE9fNVFEWV9LbXQwRFZvQ3NPZnB2RVgtRHZZQ3Q0bHVNVklzUTdEMTVsN21QS0FZM0VnaEdBWlBXTFpTUzNWem1sdXh5VWxnZw?oc=5)
+
+---
+
+### 61. Oil Pushes Higher With Ukraine Talks and China’s Pledge in Focus
+
+**Source:** [Bloomberg Markets](https://www.bloomberg.com/news/articles/2025-12-28/latest-oil-market-news-and-analysis-for-dec-29) · 2025-12-28
+> Oil reversed Friday’s decline as US-led talks to end Russia’s war in Ukraine failed to yield a breakthrough, and China vowed to support growth next year.
+
+[Read full article →](https://www.bloomberg.com/news/articles/2025-12-28/latest-oil-market-news-and-analysis-for-dec-29)
+
+---
+
+### 62. LG announces new UltraGear evo gaming monitors with AI upscaling - The Verge
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmFyOUxZODJ2YTdacXVYSE9FQVBhVlVvY3ZIZXVnYU9CaFdPWEFSOWdEbDE1bkJVLXlNRnlLUC1meG1CY1VJdzR2VXpPRHpmRVhYOXo2dC14ajdlU3BtYnFJOWJVdTdLSlNMa0RyZnhXcjcxRUtsT29FdXJzM0lETnlBV1FJTThuemNxcmNqbUhvRlFsNzZBVFJVTHZtQ2Ffc1hj?oc=5) · 2025-12-28
+> LG announces new UltraGear evo gaming monitors with AI upscaling The Verge LG announces line of premium gaming monitors that offer 5K visuals Engadget LG Display to Showcases Wide Line-up of World-first, Leading OLED Monitors at CES 2026 TechPowerUp This 39-inch 5K Tandem WOLED…
+
+[Read full article →](https://news.google.com/rss/articles/CBMiowFBVV95cUxOYmFyOUxZODJ2YTdacXVYSE9FQVBhVlVvY3ZIZXVnYU9CaFdPWEFSOWdEbDE1bkJVLXlNRnlLUC1meG1CY1VJdzR2VXpPRHpmRVhYOXo2dC14ajdlU3BtYnFJOWJVdTdLSlNMa0RyZnhXcjcxRUtsT29FdXJzM0lETnlBV1FJTThuemNxcmNqbUhvRlFsNzZBVFJVTHZtQ2Ffc1hj?oc=5)
+
+---
+
+### 63. AI start-ups amass record $150bn funding cushion as bubble fears mount - Financial Times
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMicEFVX3lxTFBQaG1jLUFvaHpkc0hyU1VteDEySHdOcHdoRWJUN0hxZ1A3ZlVwTDFzRHphenNVN1hCNHlwUVg2aXd4RG9IcWp1bFF6aW8xdWk3VkYzUzJIbjFldHgzSm1Ucm5mWGFoQ3FTR2thLWtaRWs?oc=5) · 2025-12-28
+> AI start-ups amass record $150bn funding cushion as bubble fears mount Financial Times 2025 was the year AI got a vibe check TechCrunch AI Firms Build $150B Funding Fortress PYMNTS.com War Chest for a Bubble Burst? AI Startups Raise Record $150B in 2025 TipRanks $84B story: The…
+
+[Read full article →](https://news.google.com/rss/articles/CBMicEFVX3lxTFBQaG1jLUFvaHpkc0hyU1VteDEySHdOcHdoRWJUN0hxZ1A3ZlVwTDFzRHphenNVN1hCNHlwUVg2aXd4RG9IcWp1bFF6aW8xdWk3VkYzUzJIbjFldHgzSm1Ucm5mWGFoQ3FTR2thLWtaRWs?oc=5)
+
+---
+
+### 64. Synspective tapped to provide satellite imagery for Japan’s new military constellation - SpaceNews
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJYZUFmSGh1OW1XQmw2U0VCcnJZam5wNmdUNFF5VlgtVnZsVXVTeUFvMy1vMVJkMHN1UUhmemVsUU0tUW9aZmh2Vi1ucVk3ZEZGc3k4aFFrQmJzZkgwWk5wWXFVRWc2bGpmOW9aZThwVUhydTB2QVhUenZ2T0ZueGFRN1AtY3k1cnlGNGtsXzd1T1Q0ZTVlcDNJaXFyaVZmZ0dXT00yajd1M2Rp?oc=5) · 2025-12-28
+> Synspective tapped to provide satellite imagery for Japan’s new military constellation SpaceNews Axel Space has risen for five consecutive days after winning the bid for a satellite constellation project with the Ministry of Defense. 富途牛牛 Japanese MOD To Fund Private SAR Constel…
+
+[Read full article →](https://news.google.com/rss/articles/CBMirAFBVV95cUxORWJYZUFmSGh1OW1XQmw2U0VCcnJZam5wNmdUNFF5VlgtVnZsVXVTeUFvMy1vMVJkMHN1UUhmemVsUU0tUW9aZmh2Vi1ucVk3ZEZGc3k4aFFrQmJzZkgwWk5wWXFVRWc2bGpmOW9aZThwVUhydTB2QVhUenZ2T0ZueGFRN1AtY3k1cnlGNGtsXzd1T1Q0ZTVlcDNJaXFyaVZmZ0dXT00yajd1M2Rp?oc=5)
+
+---
+
+### 65. 'Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs' - Fortune
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDYwU2l6cFgxS1JjYUhNM1l0X0ttOFRhUFh1XzBPdlp4dzQ5OVd0c0NFbHptVnRrVDUzMDE5ejJBaHgzMmZrUGxTY1VGWV9aM09KdF9na01jdk1MV3oyR3VBMENOUzFaZHhDaVY3Yk9jb2F1bjFKS0IwbzdxaTkyM3pWVHgtM1NfblFiUXp3d2RLcFVLV2ZFN3FwQUVLN3Z6UmtqUlFJVQ?oc=5) · 2025-12-28
+> 'Godfather of AI' Geoffrey Hinton predicts 2026 will see the technology get even better and gain the ability to 'replace many other jobs' Fortune Opinion | Sal Khan: A.I. Will Displace Workers at a Scale Many Don’t Realize The New York Times AI was behind over 50,000 layoffs in…
+
+[Read full article →](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcDYwU2l6cFgxS1JjYUhNM1l0X0ttOFRhUFh1XzBPdlp4dzQ5OVd0c0NFbHptVnRrVDUzMDE5ejJBaHgzMmZrUGxTY1VGWV9aM09KdF9na01jdk1MV3oyR3VBMENOUzFaZHhDaVY3Yk9jb2F1bjFKS0IwbzdxaTkyM3pWVHgtM1NfblFiUXp3d2RLcFVLV2ZFN3FwQUVLN3Z6UmtqUlFJVQ?oc=5)
+
+---
+
+### 66. Sonic Racing CrossWorlds director is preparing more surprises for 2026 - My Nintendo News
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFk4YnIxcHVUM1FoUWphcTliZ1BpcG4taU90U19lYUhJY1BKWUV2WEx2MU02RzROeXlTdWxaejJlLVZkNGZpV3lwMzFveEd2ckFEQjNvVTNsVjZWem91SE83d3FIY043UDV1RFVjNHNFLWlDU2xTcHRra0otLXJKcFZhcnRJQXlwcmk0ZG4tQjBKdzdkVWEzMDRJY1ZmMXcxOGE0X19QWVpwRjg1ZVE?oc=5) · 2025-12-28
+> Sonic Racing CrossWorlds director is preparing more surprises for 2026 My Nintendo News Sonic Racing: CrossWorlds review for Nintendo, PlayStation, Xbox, PC Gaming Age Sonic Fans Actually Have Some Pretty Reasonable Requests After "Amazing Surprises" Teased For CrossWorlds TheGa…
+
+[Read full article →](https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFk4YnIxcHVUM1FoUWphcTliZ1BpcG4taU90U19lYUhJY1BKWUV2WEx2MU02RzROeXlTdWxaejJlLVZkNGZpV3lwMzFveEd2ckFEQjNvVTNsVjZWem91SE83d3FIY043UDV1RFVjNHNFLWlDU2xTcHRra0otLXJKcFZhcnRJQXlwcmk0ZG4tQjBKdzdkVWEzMDRJY1ZmMXcxOGE0X19QWVpwRjg1ZVE?oc=5)
+
+---
+
+### 67. Corvette ZR1 Stuns Ferrari 296 GTB in a Drag Race - Motor1.com
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMigwFBVV95cUxQMDVSZ0ZZLTNHS2UwU2Vad0Z1RGVKMExDNHFmLWt4a05BSTZSOUV6YWt0X1JvYmhCRzRJRDBFY2xVTGJoOEU3bDJna0Rsc0lQV1kzZUNxeXhxN3M0c1Y2bHFObFRaQWlMY2xocTVfR0NwandNZ3FEQWxtaXh6N1V5NVFEVQ?oc=5) · 2025-12-28
+> Corvette ZR1 Stuns Ferrari 296 GTB in a Drag Race Motor1.com Chevy Could Be Lying About the Corvette ZR1’s Power Output Autoblog The Blue-Collar American Hypercar That's Going To Dominate 2026 CarBuzz [VIDEO] Hennessey Gets Amazing Numbers from their Stock 2026 Corvette ZR1 on t…
+
+[Read full article →](https://news.google.com/rss/articles/CBMigwFBVV95cUxQMDVSZ0ZZLTNHS2UwU2Vad0Z1RGVKMExDNHFmLWt4a05BSTZSOUV6YWt0X1JvYmhCRzRJRDBFY2xVTGJoOEU3bDJna0Rsc0lQV1kzZUNxeXhxN3M0c1Y2bHFObFRaQWlMY2xocTVfR0NwandNZ3FEQWxtaXh6N1V5NVFEVQ?oc=5)
+
+---
+
+### 68. Airlines cancel 1,400 more flights but disruptions from winter storm ease. Here’s what to know
+
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/26/winter-storm-flight-cancellations.html) · 2025-12-28
+> Airlines waived change fees ahead of a large winter storm and low temperatures after Christmas holiday.
+
+[Read full article →](https://www.cnbc.com/2025/12/26/winter-storm-flight-cancellations.html)
+
+---
+
+### 69. The Wireless Gadget That Turns Your Phone Into A Microscope - bgr.com
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMifEFVX3lxTE9vVDRFWjBTeTdYXzRFUmF2STlBMC04c2FBWFF4N3BlWGF5UU0wQ3BMRFpyVGtRQTRyRldnemxLOHJxc3JFWGVfYVNubzVnNm45TlRzVTVBbGFDLTdrRkppUmVCSVFHdm5hWC1aVTlmMkZMLVU3UmtpU3JWcWY?oc=5) · 2025-12-28
+> The Wireless Gadget That Turns Your Phone Into A Microscope bgr.com
+
+[Read full article →](https://news.google.com/rss/articles/CBMifEFVX3lxTE9vVDRFWjBTeTdYXzRFUmF2STlBMC04c2FBWFF4N3BlWGF5UU0wQ3BMRFpyVGtRQTRyRldnemxLOHJxc3JFWGVfYVNubzVnNm45TlRzVTVBbGFDLTdrRkppUmVCSVFHdm5hWC1aVTlmMkZMLVU3UmtpU3JWcWY?oc=5)
+
+---
+
+### 70. Fedora Continued At The Forefront Of Upstream Linux Innovations In 2025 - Phoronix
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMiakFVX3lxTE1uOS0tX1AxWkxodkVUV2RlME40UU9sZUt1dzdxblB3MkJ0d3I3ZTh2RThZbGNCMFIybDJ2U25Cc3hfcFlmQVBheEpOazlOeFJPMjM1RjFvd2ZOXzdhQkdPXzhnWXh2M21jOWc?oc=5) · 2025-12-28
+> Fedora Continued At The Forefront Of Upstream Linux Innovations In 2025 Phoronix
+
+[Read full article →](https://news.google.com/rss/articles/CBMiakFVX3lxTE1uOS0tX1AxWkxodkVUV2RlME40UU9sZUt1dzdxblB3MkJ0d3I3ZTh2RThZbGNCMFIybDJ2U25Cc3hfcFlmQVBheEpOazlOeFJPMjM1RjFvd2ZOXzdhQkdPXzhnWXh2M21jOWc?oc=5)
+
+---
+
+### 71. 5 Underrated CarPlay Apps Most Drivers Are Missing Out On - SlashGear
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMickFVX3lxTFBmSWJhTGVsc3JCcUJiTzNIRGFwUnNjZ2RPazkzeTc0ZjBQZWNNUTV1bko2a2k3OXZucmFHalZ6V0NoamFWT3hZUlREMlZoSGM5WklSa3VkSEJEZVVTMFFSOTlURHpoSGlWTW43Nm92LTFQZw?oc=5) · 2025-12-28
+> 5 Underrated CarPlay Apps Most Drivers Are Missing Out On SlashGear
+
+[Read full article →](https://news.google.com/rss/articles/CBMickFVX3lxTFBmSWJhTGVsc3JCcUJiTzNIRGFwUnNjZ2RPazkzeTc0ZjBQZWNNUTV1bko2a2k3OXZucmFHalZ6V0NoamFWT3hZUlREMlZoSGM5WklSa3VkSEJEZVVTMFFSOTlURHpoSGlWTW43Nm92LTFQZw?oc=5)
+
+---
+
+### 72. Wendy's Is Selling Cheeseburgers for One Cent This Week - Allrecipes
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMifEFVX3lxTE1UaVc4MzdqWHVNY1Y4c3BlWmhySm5hZVpSNFpwbTJtdXBXd1RraFBrRmd3U203UlhtT3k2Tm5pWFN0aE5jalp6dEJ2ZERCaGNjb3JnU0dtbnVwNVJtd0VCTXRBeEVfb0ZCQWJUSFBldm9Mamd6Ry1BY1ZJRTc?oc=5) · 2025-12-28
+> Wendy's Is Selling Cheeseburgers for One Cent This Week Allrecipes Major fast-food chain selling 1-cent bacon cheeseburgers Tuesday MLive.com Major fast-food chain offers 1-cent bacon burgers on Tuesday — How to get one MassLive Wendy's has 1-cent Jr. Bacon Cheeseburgers on Dec.…
+
+[Read full article →](https://news.google.com/rss/articles/CBMifEFVX3lxTE1UaVc4MzdqWHVNY1Y4c3BlWmhySm5hZVpSNFpwbTJtdXBXd1RraFBrRmd3U203UlhtT3k2Tm5pWFN0aE5jalp6dEJ2ZERCaGNjb3JnU0dtbnVwNVJtd0VCTXRBeEVfb0ZCQWJUSFBldm9Mamd6Ry1BY1ZJRTc?oc=5)
+
+---
+
+### 73. Trump chooses to go back to the moon — and to do it this decade - The Hill
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMifEFVX3lxTFBMcE9TeDRuVGZpQWc1aGUwWXlXSzhzSEU3NXRUZ2tIMG1ueGhWMENtY2VYLTlpLUczSXpkRnllcDRhU1JobVpRS0xvb19aRURvRDBqOUdOTjZub04zOFJQWmVraVRscnllazFuZmlqY0NObXpYWkI0UGZNSGnSAYIBQVVfeXFMTWROZXZCNlRUYWgwVnhMejhBMkJCWDBFQ0RJeFgzTFNUU3p0ekxqbDZCMG8zMkNWS2tqSWl2RXdKelppSHVlMDlZRTZOTURUVm5pUkl5dlMydHNOd3pXeGRCUk1lajdzX0hjODF3SG5BSjdfemdmMFBfNTdxMmNyMEFDQQ?oc=5) · 2025-12-28
+> Trump chooses to go back to the moon — and to do it this decade The Hill The Jewish billionaire who took over NASA, with a push from Musk Ynetnews New NASA boss Isaacman says U.S. will return to the moon within Trump's term CNBC What Does Jared Isaacman, NASA's New Administrator…
+
+[Read full article →](https://news.google.com/rss/articles/CBMifEFVX3lxTFBMcE9TeDRuVGZpQWc1aGUwWXlXSzhzSEU3NXRUZ2tIMG1ueGhWMENtY2VYLTlpLUczSXpkRnllcDRhU1JobVpRS0xvb19aRURvRDBqOUdOTjZub04zOFJQWmVraVRscnllazFuZmlqY0NObXpYWkI0UGZNSGnSAYIBQVVfeXFMTWROZXZCNlRUYWgwVnhMejhBMkJCWDBFQ0RJeFgzTFNUU3p0ekxqbDZCMG8zMkNWS2tqSWl2RXdKelppSHVlMDlZRTZOTURUVm5pUkl5dlMydHNOd3pXeGRCUk1lajdzX0hjODF3SG5BSjdfemdmMFBfNTdxMmNyMEFDQQ?oc=5)
+
+---
+
+### 74. This 4 TB DDR5 RDIMM kit is now more expensive than a sports car - VideoCardz.com
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRHFNNFR2RkRBR3NVblFGdGU5OTRtVnhEUXc4YzVaSTlWR0lZWGpsb3I5eGRvVVU4S3lqV0xxME02Zk5FbmlkNk93alhaeld2MEhQU3pselg5anZJVmtUSXZwQi1HS05jV0dMRUtPeDljRFo0R1A3cmF6TW15YVE3STh4SjdsN3RTdzQ5Rm9veG5nRGtTbFMw?oc=5) · 2025-12-28
+> This 4 TB DDR5 RDIMM kit is now more expensive than a sports car VideoCardz.com You can now buy 2 terabytes of DDR5 server RAM for the low price of just $39,000, and 4 TB for $77,000 — Nemix offers chart-topping capacities amidst an industry shortage Tom's Hardware 4 TB RDIMM DD…
+
+[Read full article →](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRHFNNFR2RkRBR3NVblFGdGU5OTRtVnhEUXc4YzVaSTlWR0lZWGpsb3I5eGRvVVU4S3lqV0xxME02Zk5FbmlkNk93alhaeld2MEhQU3pselg5anZJVmtUSXZwQi1HS05jV0dMRUtPeDljRFo0R1A3cmF6TW15YVE3STh4SjdsN3RTdzQ5Rm9veG5nRGtTbFMw?oc=5)
+
+---
+
+### 75. Restaurants' hottest menu item in 2025 was 'value.' That won't change next year
+
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/28/value-meals-restaurants-mcdonalds-chilis-taco-bell.html) · 2025-12-28
+> Restaurant chains bet on value in 2025, and they're not likely to ditch the strategy next year.
+
+[Read full article →](https://www.cnbc.com/2025/12/28/value-meals-restaurants-mcdonalds-chilis-taco-bell.html)
+
+---
+
+### 76. Restaurants' hottest menu item in 2025 was 'value.' That won't change next year - CNBC
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3duaHZlMmdrdFVIWmNhcFZsWUFYWkgtMUpOeVpzcFhod3dNbVBXRWNHTld0OWFKMWo4YUpROXkweWVidExINE1zNHc2emkwMEpGU0pDV0xHeEw5VHRtRXYxdnlMVXJ3S0xhcG1QQTBTUmdwUEh4YUp3cTBISFpMT1FuMlFONGpfZ0RRQ0dCZ1HSAZYBQVVfeXFMTlM1UlhoTXdnOVdLWXlEVGM1SUEtMlZMbFR6X3JUcUVFNmFNN1F6NktqLTItd0toTnZwdEdreUxkXzh4ZzI2UC1NaTMtbWRzN1UxU3dkcFFpeVo1aF9adXR4YzJsRlBWaGtUTmdVMnc2U1VTQ05ydUVyZmFKdktWVXdGbUNwN0FXVnktZ3FaR0VMZm1VWFRn?oc=5) · 2025-12-28
+> Restaurants' hottest menu item in 2025 was 'value.' That won't change next year CNBC The 6 biggest chain-restaurant food trends of 2025 — and 3 that won't survive 2026 Business Insider
+
+[Read full article →](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3duaHZlMmdrdFVIWmNhcFZsWUFYWkgtMUpOeVpzcFhod3dNbVBXRWNHTld0OWFKMWo4YUpROXkweWVidExINE1zNHc2emkwMEpGU0pDV0xHeEw5VHRtRXYxdnlMVXJ3S0xhcG1QQTBTUmdwUEh4YUp3cTBISFpMT1FuMlFONGpfZ0RRQ0dCZ1HSAZYBQVVfeXFMTlM1UlhoTXdnOVdLWXlEVGM1SUEtMlZMbFR6X3JUcUVFNmFNN1F6NktqLTItd0toTnZwdEdreUxkXzh4ZzI2UC1NaTMtbWRzN1UxU3dkcFFpeVo1aF9adXR4YzJsRlBWaGtUTmdVMnc2U1VTQ05ydUVyZmFKdktWVXdGbUNwN0FXVnktZ3FaR0VMZm1VWFRn?oc=5)
+
+---
+
+### 77. Tesla Could Be Planning to Support Apple Car Keys - MacRumors
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSXYzRHFzUnRBdEdhWFh2dE00em5CdlJYb2JWdmhKTkJTeUsxbVRpOENBaUo0b3ZEODZLYlZRTDBidlRNeFBYc1BtNmI1U0VDZmdqY0NUX2xDZ1EteHhnbUJPMlhncXhsTE5TdVJLZktYbW1BTjhYNGVkNEkwdkd1VkN5bGtXRWg3WXBQcnFGQXk?oc=5) · 2025-12-28
+> Tesla Could Be Planning to Support Apple Car Keys MacRumors Tesla might be working on support for iPhone car key in Apple Wallet 9to5Mac Tesla May Soon Add Apple Wallet Car Key Support Not a Tesla App Tesla eyes system-level digital keys on HarmonyOS phones Автомобильный портал…
+
+[Read full article →](https://news.google.com/rss/articles/CBMikAFBVV95cUxOSXYzRHFzUnRBdEdhWFh2dE00em5CdlJYb2JWdmhKTkJTeUsxbVRpOENBaUo0b3ZEODZLYlZRTDBidlRNeFBYc1BtNmI1U0VDZmdqY0NUX2xDZ1EteHhnbUJPMlhncXhsTE5TdVJLZktYbW1BTjhYNGVkNEkwdkd1VkN5bGtXRWg3WXBQcnFGQXk?oc=5)
+
+---
+
+### 78. Accounting groups expect fewer audit inspections as part of SEC overhaul
+
+**Source:** [Financial Times Markets](https://www.ft.com/content/ad80d3bd-4165-4a9a-bd16-ed907d51a539) · 2025-12-28
+> Firms argue US regulators have become too focused on finding minor infractions
+
+[Read full article →](https://www.ft.com/content/ad80d3bd-4165-4a9a-bd16-ed907d51a539)
+
+---
+
+### 79. The S&P 500 Is Poised to Do Something That Has Never Happened Before. Here's What History Suggests Stocks Will Do in 2026.
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/p-500-poised-something-never-110300850.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/p-500-poised-something-never-110300850.html)
+
+---
+
+### 80. HELOC rates today, December 28, 2025: The equity-tapping advantage of 2026
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-sunday-december-28-2025-110055839.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/personal-finance/mortgages/article/heloc-interest-rates-today-sunday-december-28-2025-110055839.html)
+
+---
+
+### 81. Mortgage and refinance interest rates today, December 28, 2025: Threatening to slip below 6%
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-december-28-2025-110052512.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-refinance-interest-rates-today-sunday-december-28-2025-110052512.html)
+
+---
+
+### 82. Here’s why everything changes once you’ve hit $2M for retirement (and not for the better). Can you protect your riches?
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/why-everything-changes-once-ve-110000669.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/why-everything-changes-once-ve-110000669.html)
+
+---
+
+### 83. 2026 SpaceX IPO: Investors Want to Buy a Space Stock, but They'll Get an ISP Instead
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/2026-spacex-ipo-investors-want-102500354.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/2026-spacex-ipo-investors-want-102500354.html)
+
+---
+
+### 84. First-time home buyers in the US are getting older as young Americans struggle to get into the market. 3 ways get it in
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/first-time-home-buyers-us-101700563.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/first-time-home-buyers-us-101700563.html)
+
+---
+
+### 85. It's Not Just a COLA: 4 Big Social Security Changes Happening in 2026 - The Motley Fool
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHFrMS03bGREUmticDdTb2ZvbG1vWFI1VDdNMno4X2otX09nbG95RjRGaWoyNXRzWUtwdnVvMlZCaktFNU93el9qYmJyTTI4OWs3YzJGXzlWR1I4UlVLR2Zad1NlYjROLUV5WmVmYXEyQ2w0NnR0TGhfM0l6OEdNbDNMT2lNR3FhTnVDSS1VREJHMndRemNiYg?oc=5) · 2025-12-28
+> It's Not Just a COLA: 4 Big Social Security Changes Happening in 2026 The Motley Fool January’s Social Security Payments Won't Arrive as Usual - Here's Why AOL.com What you need to know about changes to Social Security, Medicare and Medicaid in 2026 MarketWatch Social Security P…
+
+[Read full article →](https://news.google.com/rss/articles/CBMimAFBVV95cUxPSHFrMS03bGREUmticDdTb2ZvbG1vWFI1VDdNMno4X2otX09nbG95RjRGaWoyNXRzWUtwdnVvMlZCaktFNU93el9qYmJyTTI4OWs3YzJGXzlWR1I4UlVLR2Zad1NlYjROLUV5WmVmYXEyQ2w0NnR0TGhfM0l6OEdNbDNMT2lNR3FhTnVDSS1VREJHMndRemNiYg?oc=5)
+
+---
+
+### 86. Greater Bay Area assets poised to lead surge in China's expanding C-REIT market
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/greater-bay-area-assets-poised-093000327.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/greater-bay-area-assets-poised-093000327.html)
+
+---
+
+### 87. How Algeria could help China plug iron ore gaps and gain pricing power
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/algeria-could-help-china-plug-093000008.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/algeria-could-help-china-plug-093000008.html)
+
+---
+
+### 88. Samsung unveils Music Studio speakers that blend into your home - SamMobile
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2pGc2pXaFI1b1BBOFQxUWZkZ3RtdV9HOGowd2VBNHJCcGlVcnRWeU5HU1lYX1RNWWtBMGFpZGMyaDdwc3NZV0VpSjJfVlJOaGdMTmdUMTRVUkxkdWhBTHZsdHZNampYMV80QmRlREZxSy1yUVJzMlFoN3VRU1VGRDU5SHJQMENCMkEwWmM0d0dZbkE?oc=5) · 2025-12-28
+> Samsung unveils Music Studio speakers that blend into your home SamMobile I Can't Stop Gawking at Samsung's New Wi-Fi Speaker CNET Samsung Expands Its Audio Ecosystem for 2026 With Multi-Device Sound and Immersive New Designs samsung.com Samsung's two new speakers will deliver c…
+
+[Read full article →](https://news.google.com/rss/articles/CBMikwFBVV95cUxNN2pGc2pXaFI1b1BBOFQxUWZkZ3RtdV9HOGowd2VBNHJCcGlVcnRWeU5HU1lYX1RNWWtBMGFpZGMyaDdwc3NZV0VpSjJfVlJOaGdMTmdUMTRVUkxkdWhBTHZsdHZNampYMV80QmRlREZxSy1yUVJzMlFoN3VRU1VGRDU5SHJQMENCMkEwWmM0d0dZbkE?oc=5)
+
+---
+
+### 89. Forget Gen Z and Millennials — the over-50s ‘Silver Spenders’ are powering investment opportunities, including these stocks
+
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/28/wealthy-silver-spenders-are-now-driving-investment-opportunities.html) · 2025-12-28
+> The over-50s 'Silver Spenders' are an increasingly influential consumer demographic.
+
+[Read full article →](https://www.cnbc.com/2025/12/28/wealthy-silver-spenders-are-now-driving-investment-opportunities.html)
+
+---
+
+### 90. China issues draft rules to regulate AI with human-like interaction - Reuters
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3RsSUFkWDFUWFE2SnFseDE0bHhtR1ptOG5UT0hwNEExSmNjWWw2NnJ5bF9ubU5FODJWQW14VXJpZWJVN0lZelNXYVk4ZWxqaUNweklObDVhZ3dYMGUtUDgydGNIRFVWa045R19XakVJLW1XTS1YcVFZMzdIZnFZZXdmRWZqMGRad0tKRThhaFBHM2xHaWMwN0NuM2EtQ05GdkZINmxQT1V2RjZkMVpZNWFBNXNEZTFyTVU4RQ?oc=5) · 2025-12-27
+> China issues draft rules to regulate AI with human-like interaction Reuters China to crack down on AI chatbots around suicide, gambling CNBC China drafts world’s strictest rules to end AI-encouraged suicide, violence Ars Technica Draft Chinese AI Rules Outline ‘Core Socialist Va…
+
+[Read full article →](https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3RsSUFkWDFUWFE2SnFseDE0bHhtR1ptOG5UT0hwNEExSmNjWWw2NnJ5bF9ubU5FODJWQW14VXJpZWJVN0lZelNXYVk4ZWxqaUNweklObDVhZ3dYMGUtUDgydGNIRFVWa045R19XakVJLW1XTS1YcVFZMzdIZnFZZXdmRWZqMGRad0tKRThhaFBHM2xHaWMwN0NuM2EtQ05GdkZINmxQT1V2RjZkMVpZNWFBNXNEZTFyTVU4RQ?oc=5)
+
+---
+
+### 91. Nearly 71% of women would help pay for their engagement ring: They may see a ring as 'proof of worthiness and desirability,' says expert
+
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/27/nearly-seventy-one-percent-of-would-contribute-to-the-cost-of-their-engagement-ring.html) · 2025-12-27
+> Though historically men have bought engagement rings, most women are now willing to contribute to the cost of the coveted piece of jewelry.
+
+[Read full article →](https://www.cnbc.com/2025/12/27/nearly-seventy-one-percent-of-would-contribute-to-the-cost-of-their-engagement-ring.html)
+
+---
+
+### 92. Why mortgage rates are stuck at 6.2% — and might stay there
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/why-mortgage-rates-are-stuck-at-62--and-might-stay-there-130034088.html) · 2025-12-27
+
+[Read full article →](https://finance.yahoo.com/news/why-mortgage-rates-are-stuck-at-62--and-might-stay-there-130034088.html)
+
+---
+
+### 93. Europe is at a 'fork in the road' between AI competition and climate, fund managers say
+
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/27/europe-at-fork-in-the-road-between-ai-competition-and-climate.html) · 2025-12-27
+> As power-hungry infrastructure scales and demand for electricity surges, friction between competition and climate goals becomes harder to ignore.
+
+[Read full article →](https://www.cnbc.com/2025/12/27/europe-at-fork-in-the-road-between-ai-competition-and-climate.html)
+
+---
+
+### 94. One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?
+
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html) · 2025-12-27
+> Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.
+
+[Read full article →](https://www.cnbc.com/2025/12/27/has-the-uks-ai-infrastructure-buildout-been-a-success.html)
+
+---
+
+### 95. Italy and Spain shake off ‘periphery’ tag as borrowing premiums hit 16-year low
+
+**Source:** [Financial Times Markets](https://www.ft.com/content/5c4a64a9-c40c-4fe5-93a5-89a2c695affa) · 2025-12-27
+> Rome and Madrid rewarded by investors for cutting deficits, while France and Germany look to borrow more
+
+[Read full article →](https://www.ft.com/content/5c4a64a9-c40c-4fe5-93a5-89a2c695affa)
+
+---
+
+### 96. The 'Trump-class' battleship faces a large obstacle in its way: Reality
+
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/26/trump-class-battleship-uss-defiant-golden-fleet-rail-gun-laser-reality-defense-war-experts-skeptical.html) · 2025-12-26
+> Even if it were technically feasible, the cost of building the battleship would be prohibitive.
+
+[Read full article →](https://www.cnbc.com/2025/12/26/trump-class-battleship-uss-defiant-golden-fleet-rail-gun-laser-reality-defense-war-experts-skeptical.html)
+
+---
+
+### 97. Tariff turmoil, a gold rush and the sinking dollar — 2025 in charts
+
+**Source:** [Financial Times Markets](https://www.ft.com/content/6e32f728-51a7-4677-b5e4-fff33f05e730) · 2025-12-25
+> FT reporters round up 2025’s biggest market stories
+
+[Read full article →](https://www.ft.com/content/6e32f728-51a7-4677-b5e4-fff33f05e730)
+
+---
+
+### 98. Carvana, Robinhood, Coinbase: How 3 of the market's biggest 2022 losers ended up in the S&P 500 this year
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/carvana-robinhood-coinbase-how-3-of-the-markets-biggest-2022-losers-ended-up-in-the-sp-500-this-year-140654224.html) · 2025-12-24
+
+[Read full article →](https://finance.yahoo.com/news/carvana-robinhood-coinbase-how-3-of-the-markets-biggest-2022-losers-ended-up-in-the-sp-500-this-year-140654224.html)
+
+---
+
+### 99. Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning
+
+**Source:** [CNBC Top News](https://www.cnbc.com/2025/12/24/tubi-fox-streaming-free.html) · 2025-12-24
+> Fox's Tubi outpaced Peacock and HBO Max for share of streaming minutes in Nielsen's November Gauge report.
+
+[Read full article →](https://www.cnbc.com/2025/12/24/tubi-fox-streaming-free.html)
+
+---
+
+### 100. Big US banks add $600bn in value as deregulation spurs gains
+
+**Source:** [Financial Times Markets](https://www.ft.com/content/0784b2a8-11fc-45d2-81c6-78325886e974) · 2025-12-24
+> Moves to allow higher leverage and overhaul stress tests have driven increase in market capitalisation
+
+[Read full article →](https://www.ft.com/content/0784b2a8-11fc-45d2-81c6-78325886e974)
+
+---
+
+### 101. Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat
+
+**Source:** [The Wall Street Journal (Markets)](https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main) · 2025-01-27
+> Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.
+
+[Read full article →](https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main)
+
+---
+
+### 102. Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens
+
+**Source:** [The Wall Street Journal (Markets)](https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main) · 2025-01-27
+> The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.
+
+[Read full article →](https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main)
+
+---
+
+### 103. Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says
+
+**Source:** [The Wall Street Journal (Markets)](https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main) · 2025-01-27
+> Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.
+
+[Read full article →](https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main)
+
+---
+
+### 104. Now Wanted in Silicon Valley: Ho-Hum Businesses With Thin Profit Margins
+
+**Source:** [The Wall Street Journal (Markets)](https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main) · 2025-01-26
+> Venture-capital firms are bringing AI and dealmaking to accounting, property management and other unglamorous fields.
+
+[Read full article →](https://www.wsj.com/articles/now-wanted-in-silicon-valley-ho-hum-businesses-with-thin-profit-margins-ab07de5f?mod=rss_markets_main)
+
+---
+
+
+## About This Brief
+
+This daily Industrials sector intelligence brief is auto-generated from 9+ trusted financial news sources. Updated every morning at 8 AM UTC.
+
+**Related:** [View all sectors for 2025-12-27](/2025-12-27/) | [Subscribe via RSS](/feed.xml)

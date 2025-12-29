@@ -29,6 +29,12 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
+include:
+  - assets
+  - _pages
+  - _redirects
+  - output
+
 exclude:
   - sectors/
   - src/

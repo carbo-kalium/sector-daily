@@ -3,7 +3,7 @@ from __future__ import annotations
 import logging
 from collections import defaultdict
 from dataclasses import dataclass
-from datetime import date
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 from sector_intel.classification.keyword_rules import KeywordSectorClassifier
@@ -42,6 +42,32 @@ def run(*, run_date: date, cfg: PipelineConfig) -> dict[str, list[Article]]:
             logger.exception("Failed fetching source: %s", s.url)
 
     all_articles = deduplicate(all_articles)
+    
+    # Filter articles to only include those published within 24 hours of run_date
+    # Assume run time is 6 AM CST (12 PM UTC) on run_date
+    run_datetime = datetime.combine(run_date, datetime.min.time()).replace(hour=12, tzinfo=timezone.utc)
+    window_start = run_datetime - timedelta(hours=24)
+    window_end = run_datetime
+    
+    filtered_articles: list[Article] = []
+    for article in all_articles:
+        if article.published_at is None:
+            # Include articles without publish date
+            filtered_articles.append(article)
+            continue
+        
+        # Ensure published_at is timezone-aware
+        pub_time = article.published_at
+        if pub_time.tzinfo is None:
+            pub_time = pub_time.replace(tzinfo=timezone.utc)
+        
+        if window_start <= pub_time <= window_end:
+            filtered_articles.append(article)
+        else:
+            logger.debug("Filtered out article (outside 24h window): %s (published: %s)", article.title, pub_time)
+    
+    logger.info("Filtered %d articles to %d within 24-hour window", len(all_articles), len(filtered_articles))
+    all_articles = filtered_articles
 
     classified: list[Article] = [classifier.assign_sector(a) for a in all_articles]
 
