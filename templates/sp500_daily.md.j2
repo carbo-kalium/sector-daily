@@ -11,6 +11,8 @@ permalink: /{{ date }}/sp500/
 {% if articles %}
 ## {{ sector }}
 
+*Showing {{ articles|length }} of {{ total_counts[sector] }} articles (most recent within 24 hours)*
+
 {% for article in articles %}
 {{ loop.index }}. [{{ article.title }}]({{ article.link }}) - *{{ article.source }}*
 {% endfor %}
@@ -20,4 +22,4 @@ permalink: /{{ date }}/sp500/
 
 ---
 
-*Automated news aggregation for S&P 500 companies. Updated daily at 6 AM CST (12 PM UTC).*
+*Automated news aggregation for S&P 500 companies. Showing top 50 most recent articles per sector within 24-hour window. Updated daily at 6 AM CST (12 PM UTC).*

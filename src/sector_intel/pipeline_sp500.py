@@ -95,6 +95,7 @@ def run_sp500(
         articles_by_sector=filtered_by_sector,
         templates_dir=templates_dir,
         template_name="sp500_daily.md.j2",
+        max_articles_per_sector=50,  # Limit to top 50 most recent per sector
     )
     
     out_path = day_dir / "sp500.md"
