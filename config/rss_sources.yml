@@ -1,0 +1,23 @@
+sources:
+  - name: CNBC Top News
+    url: https://www.cnbc.com/id/100003114/device/rss/rss.html
+  - name: MarketWatch Top Stories
+    url: https://feeds.marketwatch.com/marketwatch/topstories/
+  - name: Yahoo Finance (All News)
+    url: https://finance.yahoo.com/news/rssindex
+  - name: Seeking Alpha (Market News)
+    url: https://seekingalpha.com/market_currents.xml
+  - name: Google News (Business)
+    url: https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en
+  - name: Google News (Technology)
+    url: https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en
+  - name: Bloomberg Markets
+    url: https://feeds.bloomberg.com/markets/news.rss
+  - name: Financial Times Markets
+    url: https://www.ft.com/markets?format=rss
+  - name: The Wall Street Journal (Markets)
+    url: https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+
+request:
+  user_agent: "sector-intel/0.1 (+https://github.com/your-org/sector-intel)"
+  timeout_seconds: 20

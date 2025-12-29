@@ -1,0 +1,47 @@
+---
+layout: post
+title: "{{ sector }} Sector Daily Brief: Top Market News & Analysis for {{ date }}"
+date: "{{ date }}"
+sector: "{{ sector }}"
+etf: "{{ etf }}"
+description: "Today's {{ sector }} sector headlines: {{ article_count }} stories covering {{ summary_keywords }}. Free daily market intelligence for investors."
+keywords: "{{ sector }}, {{ etf }}, stock market news, sector analysis, {{ date }}, market intelligence, investing news"
+og_title: "{{ sector }} Market News — {{ date }}"
+og_description: "{{ article_count }} breaking stories in {{ sector }}: {{ top_titles }}"
+permalink: /{{ date }}/{{ sector | lower | replace(' ', '-') }}/
+---
+
+# {{ sector }} Sector Daily Brief
+## {{ date }} — {{ article_count }} Stories
+
+{% if articles|length == 0 %}
+**No major news** in the {{ sector }} sector today. Check back tomorrow for updates.
+
+[← Browse all sectors](/{{ date }}/)
+{% else %}
+**Today's highlights:** {{ summary_keywords }}
+
+---
+
+{% for a in articles %}
+### {{ loop.index }}. {{ a.title }}
+
+**Source:** [{{ a.source_name }}]({{ a.link }}) {% if a.published_at_iso %}· {{ a.published_at_iso[:10] }}{% endif %}
+
+{% if a.excerpt %}
+> {{ a.excerpt }}
+{% endif %}
+
+[Read full article →]({{ a.link }})
+
+---
+
+{% endfor %}
+
+## About This Brief
+
+This daily {{ sector }} sector intelligence brief is auto-generated from {{ source_count }}+ trusted financial news sources. Updated every morning at 8 AM UTC.
+
+**Related:** [View all sectors for {{ date }}](/{{ date }}/) | [Subscribe via RSS](/feed.xml)
+
+{% endif %}

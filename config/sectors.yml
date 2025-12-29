@@ -1,0 +1,339 @@
+default_sector: Other
+
+sectors:
+  Energy:
+    etf: XLE
+    keywords:
+      - energy sector
+      - oil
+      - crude oil
+      - oil prices
+      - natural gas
+      - petroleum
+      - refinery
+      - upstream oil
+      - downstream oil
+      - shale
+      - drilling
+      - opec
+      - energy production
+      - fossil fuel
+    companies:
+      - Exxon
+      - ExxonMobil
+      - Chevron
+      - ConocoPhillips
+      - BP
+      - Shell
+      - Schlumberger
+      - Marathon Petroleum
+      - Valero
+      - Phillips 66
+      - EOG Resources
+      - Halliburton
+      - Occidental
+
+  Materials:
+    etf: XLB
+    keywords:
+      - materials sector
+      - mining
+      - metals
+      - chemicals
+      - steel
+      - aluminum
+      - copper
+      - commodities
+      - paper
+      - packaging
+      - construction materials
+      - industrial materials
+    companies:
+      - DuPont
+      - Dow
+      - Linde
+      - Freeport-McMoRan
+      - Newmont
+      - Air Products
+      - Sherwin-Williams
+      - Nucor
+      - LyondellBasell
+      - Ecolab
+
+  Industrials:
+    etf: XLI
+    keywords:
+      - industrials sector
+      - aerospace
+      - defense
+      - airline
+      - airlines
+      - aviation
+      - logistics
+      - shipping
+      - freight
+      - transportation
+      - construction
+      - machinery
+      - manufacturing
+      - industrial production
+    companies:
+      - Boeing
+      - Caterpillar
+      - Raytheon
+      - RTX
+      - Lockheed Martin
+      - General Electric
+      - GE
+      - Honeywell
+      - Union Pacific
+      - United Parcel Service
+      - UPS
+      - FedEx
+      - Deere
+      - 3M
+      - Waste Management
+
+  Consumer Discretionary:
+    etf: XLY
+    keywords:
+      - consumer discretionary
+      - retail
+      - ecommerce
+      - e-commerce
+      - online retail
+      - restaurant
+      - dining
+      - automotive
+      - auto sales
+      - leisure
+      - entertainment
+      - travel
+      - hotel
+      - luxury goods
+    companies:
+      - Amazon
+      - Tesla
+      - Home Depot
+      - McDonald's
+      - Nike
+      - Starbucks
+      - Lowe's
+      - TJX
+      - Target
+      - Booking
+      - General Motors
+      - GM
+      - Ford
+      - Marriott
+
+  Consumer Staples:
+    etf: XLP
+    keywords:
+      - consumer staples
+      - food
+      - beverage
+      - grocery
+      - household products
+      - personal care
+      - tobacco
+      - packaged goods
+      - consumer goods
+    companies:
+      - Procter & Gamble
+      - P&G
+      - Coca-Cola
+      - PepsiCo
+      - Walmart
+      - Costco
+      - Mondelez
+      - Philip Morris
+      - Altria
+      - Colgate-Palmolive
+      - Kimberly-Clark
+      - Kraft Heinz
+
+  Health Care:
+    etf: XLV
+    keywords:
+      - health care
+      - healthcare
+      - biotech
+      - biotechnology
+      - pharma
+      - pharmaceutical
+      - drug
+      - drugs
+      - medicine
+      - medical device
+      - hospital
+      - clinical trial
+      - vaccine
+      - fda approval
+      - health insurance
+    companies:
+      - UnitedHealth
+      - Johnson & Johnson
+      - J&J
+      - Pfizer
+      - Eli Lilly
+      - AbbVie
+      - Merck
+      - Abbott
+      - Thermo Fisher
+      - Danaher
+      - CVS Health
+      - Amgen
+      - Bristol-Myers Squibb
+      - Moderna
+
+  Financials:
+    etf: XLF
+    keywords:
+      - financials sector
+      - bank
+      - banking
+      - financial services
+      - insurance
+      - asset management
+      - investment bank
+      - lender
+      - mortgage
+      - credit card
+      - payment
+      - interest rate
+      - federal reserve
+      - fed
+      - treasury
+      - capital markets
+    companies:
+      - JPMorgan
+      - Bank of America
+      - Wells Fargo
+      - Citigroup
+      - Goldman Sachs
+      - Morgan Stanley
+      - Berkshire Hathaway
+      - American Express
+      - Visa
+      - Mastercard
+      - BlackRock
+      - Charles Schwab
+      - S&P Global
+
+  Information Technology:
+    etf: XLK
+    keywords:
+      - information technology
+      - technology
+      - tech sector
+      - software
+      - cloud computing
+      - cloud
+      - semiconductor
+      - chip
+      - chips
+      - ai
+      - artificial intelligence
+      - machine learning
+      - cybersecurity
+      - data center
+      - saas
+      - enterprise software
+    companies:
+      - Apple
+      - Microsoft
+      - Nvidia
+      - NVDA
+      - Broadcom
+      - Oracle
+      - Salesforce
+      - Adobe
+      - Cisco
+      - Accenture
+      - Intel
+      - IBM
+      - Qualcomm
+      - Texas Instruments
+      - AMD
+
+  Communication Services:
+    etf: XLC
+    keywords:
+      - communication services
+      - telecom
+      - telecommunications
+      - media
+      - social media
+      - streaming
+      - entertainment media
+      - advertising
+      - wireless
+      - broadband
+      - internet services
+    companies:
+      - Meta
+      - Alphabet
+      - Google
+      - Netflix
+      - Comcast
+      - Disney
+      - Verizon
+      - AT&T
+      - T-Mobile
+      - Charter Communications
+
+  Utilities:
+    etf: XLU
+    keywords:
+      - utilities sector
+      - utility
+      - power
+      - electricity
+      - electric utility
+      - power grid
+      - gas utility
+      - water utility
+      - renewable energy
+      - renewables
+      - solar power
+      - wind power
+      - nuclear power
+    companies:
+      - NextEra Energy
+      - Duke Energy
+      - Southern Company
+      - Dominion Energy
+      - American Electric Power
+      - Exelon
+      - Sempra Energy
+      - Public Service Enterprise
+      - Consolidated Edison
+
+  Real Estate:
+    etf: XLRE
+    keywords:
+      - real estate
+      - reit
+      - reits
+      - property
+      - commercial real estate
+      - residential real estate
+      - apartment
+      - office buildings
+      - shopping center
+      - mall
+      - warehouse
+      - data center reit
+      - housing market
+    companies:
+      - American Tower
+      - Prologis
+      - Crown Castle
+      - Equinix
+      - Public Storage
+      - Welltower
+      - Simon Property
+      - Realty Income
+      - Digital Realty
+      - AvalonBay

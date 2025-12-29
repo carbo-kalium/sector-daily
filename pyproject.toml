@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sector-intel"
+version = "0.1.0"
+description = "Python-based sector intelligence engine (RSS -> sector-specific Markdown posts)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "feedparser>=6.0.11",
+  "requests>=2.31.0",
+  "PyYAML>=6.0.1",
+  "Jinja2>=3.1.3",
+  "python-dateutil>=2.9.0.post0",
+]
+
+[project.scripts]
+sector-intel = "sector_intel.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.package-data]
+sector_intel = ["py.typed"]

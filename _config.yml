@@ -1,0 +1,41 @@
+title: "Sector Intelligence Daily"
+description: "Free daily market intelligence across 11 major sectors. Updated every morning with curated news from trusted financial sources."
+url: "https://carbo-kalium.github.io"
+baseurl: "/sector-daily"
+
+theme: minima
+
+author:
+  name: "Sector Intelligence"
+  email: "contact@sector-intel.com"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - sectors/
+  - src/
+  - config/
+  - templates/
+  - requirements.txt
+  - pyproject.toml
+  - README.md
+  - .gitignore
+  - .state/
