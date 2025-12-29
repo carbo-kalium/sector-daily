@@ -7,19 +7,23 @@ permalink: /{{ date }}/sp500/
 
 # S&P 500 Company News - {{ date }}
 
-{% for sector, articles in articles_by_sector.items() %}
-{% if articles %}
+{% for sector, companies in sectors.items() %}
+{% if companies %}
 ## {{ sector }}
 
-*Showing {{ articles|length }} of {{ total_counts[sector] }} articles (most recent within 24 hours)*
+*{{ companies|length }} companies with news in this sector*
 
-{% for article in articles %}
+{% for ticker, company_data in companies.items() %}
+### {{ ticker }} - {{ company_data.name }}
+
+{% for article in company_data.articles %}
 {{ loop.index }}. [{{ article.title }}]({{ article.link }}) - *{{ article.source }}*
 {% endfor %}
 
+{% endfor %}
 {% endif %}
 {% endfor %}
 
 ---
 
-*Automated news aggregation for S&P 500 companies. Showing top 50 most recent articles per sector within 24-hour window. Updated daily at 6 AM CST (12 PM UTC).*
+*Automated news aggregation for S&P 500 companies. Showing up to 10 unique articles per company (deduplicated by title similarity) within 24-hour window. Companies with no news are not shown. Updated daily at 6 AM CST (12 PM UTC).*

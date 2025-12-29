@@ -43,45 +43,50 @@ def run_sp500(
     
     logger.info(f"Starting S&P 500 company news pipeline for {run_date}")
     
-    # Fetch news for all companies
-    articles_by_sector = fetch_sp500_news(
+    # Fetch news for all companies (returns dict[sector, dict[ticker, articles]])
+    # Articles are already deduplicated per company and limited to 10 per company
+    articles_by_sector_and_company = fetch_sp500_news(
         companies_by_sector=companies_by_sector,
         user_agent=req.user_agent,
         timeout_seconds=req.timeout_seconds,
         max_duration_seconds=3600,  # 1 hour max
+        max_articles_per_company=10,  # Max 10 unique articles per company
     )
     
-    # Deduplicate articles within each sector
-    for sector in articles_by_sector:
-        articles_by_sector[sector] = deduplicate(articles_by_sector[sector])
-    
-    # Apply 24-hour window filter
+    # Apply 24-hour window filter to all articles
     run_datetime = datetime.combine(run_date, datetime.min.time()).replace(hour=12, tzinfo=timezone.utc)
     window_start = run_datetime - timedelta(hours=24)
     window_end = run_datetime
     
-    filtered_by_sector: dict[str, list[Article]] = {}
+    filtered_by_sector_and_company: dict[str, dict[str, list[Article]]] = {}
     total_before = 0
     total_after = 0
     
-    for sector, articles in articles_by_sector.items():
-        total_before += len(articles)
-        filtered_articles: list[Article] = []
+    for sector, company_articles_map in articles_by_sector_and_company.items():
+        filtered_company_map: dict[str, list[Article]] = {}
         
-        for article in articles:
-            if article.published_at is None:
-                filtered_articles.append(article)
-                continue
+        for ticker, articles in company_articles_map.items():
+            total_before += len(articles)
+            filtered_articles: list[Article] = []
             
-            pub_time = article.published_at
-            if pub_time.tzinfo is None:
-                pub_time = pub_time.replace(tzinfo=timezone.utc)
+            for article in articles:
+                if article.published_at is None:
+                    filtered_articles.append(article)
+                    continue
+                
+                pub_time = article.published_at
+                if pub_time.tzinfo is None:
+                    pub_time = pub_time.replace(tzinfo=timezone.utc)
+                
+                if window_start <= pub_time <= window_end:
+                    filtered_articles.append(article)
             
-            if window_start <= pub_time <= window_end:
-                filtered_articles.append(article)
+            # Only include company if it has articles after 24h filtering
+            if filtered_articles:
+                filtered_company_map[ticker] = filtered_articles
+                total_after += len(filtered_articles)
         
-        filtered_by_sector[sector] = filtered_articles
-        total_after += len(filtered_articles)
+        filtered_by_sector_and_company[sector] = filtered_company_map
     
     logger.info(f"Filtered {total_before} articles to {total_after} within 24-hour window")
     
@@ -92,14 +97,14 @@ def run_sp500(
     
     content = render_sp500_post(
         date_str=date_str,
-        articles_by_sector=filtered_by_sector,
+        articles_by_sector_and_company=filtered_by_sector_and_company,
+        companies_by_sector=companies_by_sector,
         templates_dir=templates_dir,
         template_name="sp500_daily.md.j2",
-        max_articles_per_sector=50,  # Limit to top 50 most recent per sector
     )
     
     out_path = day_dir / "sp500.md"
     out_path.write_text(content, encoding="utf-8")
     logger.info(f"Wrote S&P 500 post: {out_path} ({total_after} articles)")
     
-    return filtered_by_sector
+    return filtered_by_sector_and_company
