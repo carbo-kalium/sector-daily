@@ -5,6 +5,7 @@ from __future__ import annotations
 import logging
 import random
 import time
+from dataclasses import replace
 from typing import List
 from urllib.parse import quote_plus
 
@@ -57,10 +58,6 @@ def fetch_company_news(
         
         articles = fetch_and_normalize(feed_source, user_agent=user_agent, timeout_seconds=timeout_seconds)
         
-        # Tag articles with company info
-        for article in articles:
-            article.sector = None  # Will be set later based on company's sector
-            
         logger.debug(f"Fetched {len(articles)} articles for {ticker} ({company_name})")
         return articles
         
@@ -117,11 +114,10 @@ def fetch_sp500_news(
                 timeout_seconds=timeout_seconds,
             )
             
-            # Set sector for all articles
-            for article in company_articles:
-                article.sector = sector
+            # Set sector for all articles using replace() since Article is frozen
+            articles_with_sector = [replace(article, sector=sector) for article in company_articles]
             
-            sector_articles.extend(company_articles)
+            sector_articles.extend(articles_with_sector)
             processed += 1
             
             if processed % 50 == 0:
