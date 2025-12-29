@@ -124,3 +124,4 @@ Ideas for enhancements:
 
 **Built by:** [carbo-kalium](https://github.com/carbo-kalium)  
 **Live at:** https://carbo-kalium.github.io/sector-daily/
+# Trigger deployment
