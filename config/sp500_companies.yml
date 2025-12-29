@@ -1,0 +1,2635 @@
+sp500_companies:
+  Communication Services:
+  - ticker: GOOGL
+    name: Alphabet Inc. (Class A)
+    search_terms:
+    - Alphabet Inc. (Class A)
+    - GOOGL
+    - Alphabet  (Class A)
+  - ticker: GOOG
+    name: Alphabet Inc. (Class C)
+    search_terms:
+    - Alphabet  (Class C)
+    - Alphabet Inc. (Class C)
+    - GOOG
+  - ticker: T
+    name: AT&T
+    search_terms:
+    - T
+    - AT&T
+  - ticker: CHTR
+    name: Charter Communications
+    search_terms:
+    - CHTR
+    - Charter Communications
+  - ticker: CMCSA
+    name: Comcast
+    search_terms:
+    - Comcast
+    - CMCSA
+  - ticker: EA
+    name: Electronic Arts
+    search_terms:
+    - Electronic Arts
+    - EA
+  - ticker: FOXA
+    name: Fox Corporation (Class A)
+    search_terms:
+    - Fox Corporation (Class A)
+    - Fox Corp (Class A)
+    - FOXA
+    - Fox  (Class A)
+  - ticker: FOX
+    name: Fox Corporation (Class B)
+    search_terms:
+    - Fox  (Class B)
+    - Fox Corporation (Class B)
+    - FOX
+    - Fox Corp (Class B)
+  - ticker: LYV
+    name: Live Nation Entertainment
+    search_terms:
+    - Live Nation Entertainment
+    - LYV
+  - ticker: MTCH
+    name: Match Group
+    search_terms:
+    - Match Group
+    - MTCH
+  - ticker: META
+    name: Meta Platforms
+    search_terms:
+    - META
+    - Meta Platforms
+  - ticker: NFLX
+    name: Netflix
+    search_terms:
+    - Netflix
+    - NFLX
+  - ticker: NWSA
+    name: News Corp (Class A)
+    search_terms:
+    - NWSA
+    - News Corp (Class A)
+  - ticker: NWS
+    name: News Corp (Class B)
+    search_terms:
+    - NWS
+    - News Corp (Class B)
+  - ticker: OMC
+    name: Omnicom Group
+    search_terms:
+    - OMC
+    - Omnicom Group
+  - ticker: PSKY
+    name: Paramount Skydance Corporation
+    search_terms:
+    - Paramount Skydance Corporation
+    - PSKY
+    - Paramount Skydance
+    - Paramount Skydance Corp
+  - ticker: TMUS
+    name: T-Mobile US
+    search_terms:
+    - T-Mobile US
+    - TMUS
+  - ticker: TTWO
+    name: Take-Two Interactive
+    search_terms:
+    - Take-Two Interactive
+    - TTWO
+  - ticker: TKO
+    name: TKO Group Holdings
+    search_terms:
+    - TKO Group Holdings
+    - TKO
+  - ticker: TTD
+    name: Trade Desk (The)
+    search_terms:
+    - Trade Desk (The)
+    - TTD
+  - ticker: VZ
+    name: Verizon
+    search_terms:
+    - VZ
+    - Verizon
+  - ticker: DIS
+    name: Walt Disney Company (The)
+    search_terms:
+    - Walt Disney Co (The)
+    - DIS
+    - Walt Disney Company (The)
+  - ticker: WBD
+    name: Warner Bros. Discovery
+    search_terms:
+    - WBD
+    - Warner Bros. Discovery
+  Consumer Discretionary:
+  - ticker: ABNB
+    name: Airbnb
+    search_terms:
+    - ABNB
+    - Airbnb
+  - ticker: AMZN
+    name: Amazon
+    search_terms:
+    - AMZN
+    - Amazon
+  - ticker: APTV
+    name: Aptiv
+    search_terms:
+    - Aptiv
+    - APTV
+  - ticker: AZO
+    name: AutoZone
+    search_terms:
+    - AutoZone
+    - AZO
+  - ticker: BBY
+    name: Best Buy
+    search_terms:
+    - Best Buy
+    - BBY
+  - ticker: BKNG
+    name: Booking Holdings
+    search_terms:
+    - Booking Holdings
+    - BKNG
+  - ticker: CCL
+    name: Carnival
+    search_terms:
+    - Carnival
+    - CCL
+  - ticker: CMG
+    name: Chipotle Mexican Grill
+    search_terms:
+    - Chipotle Mexican Grill
+    - CMG
+  - ticker: DRI
+    name: Darden Restaurants
+    search_terms:
+    - Darden Restaurants
+    - DRI
+  - ticker: DECK
+    name: Deckers Brands
+    search_terms:
+    - Deckers Brands
+    - DECK
+  - ticker: DPZ
+    name: Domino's
+    search_terms:
+    - DPZ
+    - Domino's
+  - ticker: DASH
+    name: DoorDash
+    search_terms:
+    - DoorDash
+    - DASH
+  - ticker: DHI
+    name: D. R. Horton
+    search_terms:
+    - D. R. Horton
+    - DHI
+  - ticker: EBAY
+    name: eBay Inc.
+    search_terms:
+    - eBay Inc.
+    - eBay
+    - EBAY
+  - ticker: EXPE
+    name: Expedia Group
+    search_terms:
+    - Expedia Group
+    - EXPE
+  - ticker: F
+    name: Ford Motor Company
+    search_terms:
+    - Ford Motor Co
+    - F
+    - Ford Motor Company
+  - ticker: GRMN
+    name: Garmin
+    search_terms:
+    - GRMN
+    - Garmin
+  - ticker: GM
+    name: General Motors
+    search_terms:
+    - General Motors
+    - GM
+  - ticker: GPC
+    name: Genuine Parts Company
+    search_terms:
+    - Genuine Parts Co
+    - Genuine Parts Company
+    - GPC
+  - ticker: HAS
+    name: Hasbro
+    search_terms:
+    - Hasbro
+    - HAS
+  - ticker: HLT
+    name: Hilton Worldwide
+    search_terms:
+    - HLT
+    - Hilton Worldwide
+  - ticker: HD
+    name: Home Depot (The)
+    search_terms:
+    - HD
+    - Home Depot (The)
+  - ticker: LVS
+    name: Las Vegas Sands
+    search_terms:
+    - LVS
+    - Las Vegas Sands
+  - ticker: LEN
+    name: Lennar
+    search_terms:
+    - Lennar
+    - LEN
+  - ticker: LOW
+    name: Lowe's
+    search_terms:
+    - Lowe's
+    - LOW
+  - ticker: LULU
+    name: Lululemon Athletica
+    search_terms:
+    - Lululemon Athletica
+    - LULU
+  - ticker: MAR
+    name: Marriott International
+    search_terms:
+    - Marriott International
+    - MAR
+  - ticker: MCD
+    name: McDonald's
+    search_terms:
+    - MCD
+    - McDonald's
+  - ticker: MGM
+    name: MGM Resorts
+    search_terms:
+    - MGM Resorts
+    - MGM
+  - ticker: NKE
+    name: Nike, Inc.
+    search_terms:
+    - NKE
+    - Nike,
+    - Nike, Inc.
+  - ticker: NCLH
+    name: Norwegian Cruise Line Holdings
+    search_terms:
+    - NCLH
+    - Norwegian Cruise Line Holdings
+  - ticker: NVR
+    name: NVR, Inc.
+    search_terms:
+    - NVR, Inc.
+    - NVR
+    - NVR,
+  - ticker: ORLY
+    name: O’Reilly Automotive
+    search_terms:
+    - O’Reilly Automotive
+    - ORLY
+  - ticker: POOL
+    name: Pool Corporation
+    search_terms:
+    - Pool Corp
+    - Pool Corporation
+    - POOL
+    - Pool
+  - ticker: PHM
+    name: PulteGroup
+    search_terms:
+    - PHM
+    - PulteGroup
+  - ticker: RL
+    name: Ralph Lauren Corporation
+    search_terms:
+    - Ralph Lauren Corporation
+    - Ralph Lauren
+    - RL
+    - Ralph Lauren Corp
+  - ticker: ROST
+    name: Ross Stores
+    search_terms:
+    - ROST
+    - Ross Stores
+  - ticker: RCL
+    name: Royal Caribbean Group
+    search_terms:
+    - Royal Caribbean Group
+    - RCL
+  - ticker: SBUX
+    name: Starbucks
+    search_terms:
+    - SBUX
+    - Starbucks
+  - ticker: TPR
+    name: Tapestry, Inc.
+    search_terms:
+    - Tapestry, Inc.
+    - TPR
+    - Tapestry,
+  - ticker: TSLA
+    name: Tesla, Inc.
+    search_terms:
+    - TSLA
+    - Tesla, Inc.
+    - Tesla,
+  - ticker: TJX
+    name: TJX Companies
+    search_terms:
+    - TJX
+    - TJX Companies
+  - ticker: TSCO
+    name: Tractor Supply
+    search_terms:
+    - TSCO
+    - Tractor Supply
+  - ticker: ULTA
+    name: Ulta Beauty
+    search_terms:
+    - ULTA
+    - Ulta Beauty
+  - ticker: WSM
+    name: Williams-Sonoma, Inc.
+    search_terms:
+    - WSM
+    - Williams-Sonoma,
+    - Williams-Sonoma, Inc.
+  - ticker: WYNN
+    name: Wynn Resorts
+    search_terms:
+    - WYNN
+    - Wynn Resorts
+  - ticker: YUM
+    name: Yum! Brands
+    search_terms:
+    - YUM
+    - Yum! Brands
+  Consumer Staples:
+  - ticker: MO
+    name: Altria
+    search_terms:
+    - MO
+    - Altria
+  - ticker: ADM
+    name: Archer Daniels Midland
+    search_terms:
+    - ADM
+    - Archer Daniels Midland
+  - ticker: BF.B
+    name: Brown–Forman
+    search_terms:
+    - Brown–Forman
+    - BF.B
+  - ticker: BG
+    name: Bunge Global
+    search_terms:
+    - Bunge Global
+    - BG
+  - ticker: CPB
+    name: Campbell's Company (The)
+    search_terms:
+    - CPB
+    - Campbell's Co (The)
+    - Campbell's Company (The)
+  - ticker: CHD
+    name: Church & Dwight
+    search_terms:
+    - CHD
+    - Church & Dwight
+  - ticker: CLX
+    name: Clorox
+    search_terms:
+    - Clorox
+    - CLX
+  - ticker: KO
+    name: Coca-Cola Company (The)
+    search_terms:
+    - Coca-Cola Co (The)
+    - Coca-Cola Company (The)
+    - KO
+  - ticker: CL
+    name: Colgate-Palmolive
+    search_terms:
+    - CL
+    - Colgate-Palmolive
+  - ticker: CAG
+    name: Conagra Brands
+    search_terms:
+    - Conagra Brands
+    - CAG
+  - ticker: STZ
+    name: Constellation Brands
+    search_terms:
+    - STZ
+    - Constellation Brands
+  - ticker: COST
+    name: Costco
+    search_terms:
+    - Costco
+    - COST
+  - ticker: DG
+    name: Dollar General
+    search_terms:
+    - Dollar General
+    - DG
+  - ticker: DLTR
+    name: Dollar Tree
+    search_terms:
+    - DLTR
+    - Dollar Tree
+  - ticker: EL
+    name: Estée Lauder Companies (The)
+    search_terms:
+    - Estée Lauder Companies (The)
+    - EL
+  - ticker: GIS
+    name: General Mills
+    search_terms:
+    - GIS
+    - General Mills
+  - ticker: HSY
+    name: Hershey Company (The)
+    search_terms:
+    - Hershey Co (The)
+    - Hershey Company (The)
+    - HSY
+  - ticker: HRL
+    name: Hormel Foods
+    search_terms:
+    - Hormel Foods
+    - HRL
+  - ticker: KVUE
+    name: Kenvue
+    search_terms:
+    - KVUE
+    - Kenvue
+  - ticker: KDP
+    name: Keurig Dr Pepper
+    search_terms:
+    - KDP
+    - Keurig Dr Pepper
+  - ticker: KMB
+    name: Kimberly-Clark
+    search_terms:
+    - KMB
+    - Kimberly-Clark
+  - ticker: KHC
+    name: Kraft Heinz
+    search_terms:
+    - Kraft Heinz
+    - KHC
+  - ticker: KR
+    name: Kroger
+    search_terms:
+    - Kroger
+    - KR
+  - ticker: LW
+    name: Lamb Weston
+    search_terms:
+    - Lamb Weston
+    - LW
+  - ticker: MKC
+    name: McCormick & Company
+    search_terms:
+    - McCormick & Company
+    - McCormick & Co
+    - MKC
+  - ticker: TAP
+    name: Molson Coors Beverage Company
+    search_terms:
+    - Molson Coors Beverage Company
+    - TAP
+    - Molson Coors Beverage Co
+  - ticker: MDLZ
+    name: Mondelez International
+    search_terms:
+    - MDLZ
+    - Mondelez International
+  - ticker: MNST
+    name: Monster Beverage
+    search_terms:
+    - MNST
+    - Monster Beverage
+  - ticker: PEP
+    name: PepsiCo
+    search_terms:
+    - PepsiCo
+    - PEP
+  - ticker: PM
+    name: Philip Morris International
+    search_terms:
+    - PM
+    - Philip Morris International
+  - ticker: PG
+    name: Procter & Gamble
+    search_terms:
+    - PG
+    - Procter & Gamble
+  - ticker: SJM
+    name: J.M. Smucker Company (The)
+    search_terms:
+    - SJM
+    - J.M. Smucker Co (The)
+    - J.M. Smucker Company (The)
+  - ticker: SYY
+    name: Sysco
+    search_terms:
+    - SYY
+    - Sysco
+  - ticker: TGT
+    name: Target Corporation
+    search_terms:
+    - TGT
+    - Target Corporation
+    - Target
+    - Target Corp
+  - ticker: TSN
+    name: Tyson Foods
+    search_terms:
+    - TSN
+    - Tyson Foods
+  - ticker: WMT
+    name: Walmart
+    search_terms:
+    - Walmart
+    - WMT
+  Energy:
+  - ticker: APA
+    name: APA Corporation
+    search_terms:
+    - APA Corporation
+    - APA
+    - APA Corp
+  - ticker: BKR
+    name: Baker Hughes
+    search_terms:
+    - BKR
+    - Baker Hughes
+  - ticker: CVX
+    name: Chevron Corporation
+    search_terms:
+    - Chevron Corp
+    - Chevron Corporation
+    - CVX
+    - Chevron
+  - ticker: COP
+    name: ConocoPhillips
+    search_terms:
+    - ConocoPhillips
+    - COP
+  - ticker: CTRA
+    name: Coterra
+    search_terms:
+    - CTRA
+    - Coterra
+  - ticker: DVN
+    name: Devon Energy
+    search_terms:
+    - Devon Energy
+    - DVN
+  - ticker: FANG
+    name: Diamondback Energy
+    search_terms:
+    - Diamondback Energy
+    - FANG
+  - ticker: EOG
+    name: EOG Resources
+    search_terms:
+    - EOG
+    - EOG Resources
+  - ticker: EQT
+    name: EQT Corporation
+    search_terms:
+    - EQT
+    - EQT Corp
+    - EQT Corporation
+  - ticker: EXE
+    name: Expand Energy
+    search_terms:
+    - Expand Energy
+    - EXE
+  - ticker: XOM
+    name: ExxonMobil
+    search_terms:
+    - XOM
+    - ExxonMobil
+  - ticker: HAL
+    name: Halliburton
+    search_terms:
+    - HAL
+    - Halliburton
+  - ticker: KMI
+    name: Kinder Morgan
+    search_terms:
+    - KMI
+    - Kinder Morgan
+  - ticker: MPC
+    name: Marathon Petroleum
+    search_terms:
+    - Marathon Petroleum
+    - MPC
+  - ticker: OXY
+    name: Occidental Petroleum
+    search_terms:
+    - Occidental Petroleum
+    - OXY
+  - ticker: OKE
+    name: Oneok
+    search_terms:
+    - OKE
+    - Oneok
+  - ticker: PSX
+    name: Phillips 66
+    search_terms:
+    - PSX
+    - Phillips 66
+  - ticker: SLB
+    name: Schlumberger
+    search_terms:
+    - SLB
+    - Schlumberger
+  - ticker: TRGP
+    name: Targa Resources
+    search_terms:
+    - Targa Resources
+    - TRGP
+  - ticker: TPL
+    name: Texas Pacific Land Corporation
+    search_terms:
+    - Texas Pacific Land Corp
+    - TPL
+    - Texas Pacific Land Corporation
+    - Texas Pacific Land
+  - ticker: VLO
+    name: Valero Energy
+    search_terms:
+    - VLO
+    - Valero Energy
+  - ticker: WMB
+    name: Williams Companies
+    search_terms:
+    - Williams Companies
+    - WMB
+  Financials:
+  - ticker: AFL
+    name: Aflac
+    search_terms:
+    - Aflac
+    - AFL
+  - ticker: ALL
+    name: Allstate
+    search_terms:
+    - ALL
+    - Allstate
+  - ticker: AXP
+    name: American Express
+    search_terms:
+    - AXP
+    - American Express
+  - ticker: AIG
+    name: American International Group
+    search_terms:
+    - AIG
+    - American International Group
+  - ticker: AMP
+    name: Ameriprise Financial
+    search_terms:
+    - Ameriprise Financial
+    - AMP
+  - ticker: AON
+    name: Aon plc
+    search_terms:
+    - Aon plc
+    - AON
+  - ticker: APO
+    name: Apollo Global Management
+    search_terms:
+    - Apollo Global Management
+    - APO
+  - ticker: ACGL
+    name: Arch Capital Group
+    search_terms:
+    - Arch Capital Group
+    - ACGL
+  - ticker: ARES
+    name: Ares Management
+    search_terms:
+    - ARES
+    - Ares Management
+  - ticker: AJG
+    name: Arthur J. Gallagher & Co.
+    search_terms:
+    - Arthur J. Gallagher & Co.
+    - AJG
+  - ticker: AIZ
+    name: Assurant
+    search_terms:
+    - AIZ
+    - Assurant
+  - ticker: BAC
+    name: Bank of America
+    search_terms:
+    - Bank of America
+    - BAC
+  - ticker: BRK.B
+    name: Berkshire Hathaway
+    search_terms:
+    - BRK.B
+    - Berkshire Hathaway
+  - ticker: BLK
+    name: BlackRock
+    search_terms:
+    - BlackRock
+    - BLK
+  - ticker: BX
+    name: Blackstone Inc.
+    search_terms:
+    - Blackstone
+    - BX
+    - Blackstone Inc.
+  - ticker: XYZ
+    name: Block, Inc.
+    search_terms:
+    - XYZ
+    - Block, Inc.
+    - Block,
+  - ticker: BK
+    name: BNY Mellon
+    search_terms:
+    - BK
+    - BNY Mellon
+  - ticker: BRO
+    name: Brown & Brown
+    search_terms:
+    - Brown & Brown
+    - BRO
+  - ticker: COF
+    name: Capital One
+    search_terms:
+    - COF
+    - Capital One
+  - ticker: CBOE
+    name: Cboe Global Markets
+    search_terms:
+    - Cboe Global Markets
+    - CBOE
+  - ticker: SCHW
+    name: Charles Schwab Corporation
+    search_terms:
+    - Charles Schwab Corp
+    - SCHW
+    - Charles Schwab
+    - Charles Schwab Corporation
+  - ticker: CB
+    name: Chubb Limited
+    search_terms:
+    - CB
+    - Chubb Limited
+  - ticker: CINF
+    name: Cincinnati Financial
+    search_terms:
+    - Cincinnati Financial
+    - CINF
+  - ticker: C
+    name: Citigroup
+    search_terms:
+    - Citigroup
+    - C
+  - ticker: CFG
+    name: Citizens Financial Group
+    search_terms:
+    - Citizens Financial Group
+    - CFG
+  - ticker: CME
+    name: CME Group
+    search_terms:
+    - CME
+    - CME Group
+  - ticker: COIN
+    name: Coinbase
+    search_terms:
+    - Coinbase
+    - COIN
+  - ticker: CPAY
+    name: Corpay
+    search_terms:
+    - CPAY
+    - Corpay
+  - ticker: ERIE
+    name: Erie Indemnity
+    search_terms:
+    - ERIE
+    - Erie Indemnity
+  - ticker: EG
+    name: Everest Group
+    search_terms:
+    - Everest Group
+    - EG
+  - ticker: FDS
+    name: FactSet
+    search_terms:
+    - FactSet
+    - FDS
+  - ticker: FIS
+    name: Fidelity National Information Services
+    search_terms:
+    - FIS
+    - Fidelity National Information Services
+  - ticker: FITB
+    name: Fifth Third Bancorp
+    search_terms:
+    - Fifth Third Bancorp
+    - FITB
+  - ticker: FISV
+    name: Fiserv
+    search_terms:
+    - FISV
+    - Fiserv
+  - ticker: BEN
+    name: Franklin Resources
+    search_terms:
+    - BEN
+    - Franklin Resources
+  - ticker: GPN
+    name: Global Payments
+    search_terms:
+    - GPN
+    - Global Payments
+  - ticker: GL
+    name: Globe Life
+    search_terms:
+    - GL
+    - Globe Life
+  - ticker: GS
+    name: Goldman Sachs
+    search_terms:
+    - GS
+    - Goldman Sachs
+  - ticker: HIG
+    name: Hartford (The)
+    search_terms:
+    - Hartford (The)
+    - HIG
+  - ticker: HBAN
+    name: Huntington Bancshares
+    search_terms:
+    - Huntington Bancshares
+    - HBAN
+  - ticker: IBKR
+    name: Interactive Brokers
+    search_terms:
+    - IBKR
+    - Interactive Brokers
+  - ticker: ICE
+    name: Intercontinental Exchange
+    search_terms:
+    - Intercontinental Exchange
+    - ICE
+  - ticker: IVZ
+    name: Invesco
+    search_terms:
+    - IVZ
+    - Invesco
+  - ticker: JKHY
+    name: Jack Henry & Associates
+    search_terms:
+    - JKHY
+    - Jack Henry & Associates
+  - ticker: JPM
+    name: JPMorgan Chase
+    search_terms:
+    - JPM
+    - JPMorgan Chase
+  - ticker: KEY
+    name: KeyCorp
+    search_terms:
+    - KeyCorp
+    - KEY
+  - ticker: KKR
+    name: KKR & Co.
+    search_terms:
+    - KKR & Co.
+    - KKR
+  - ticker: L
+    name: Loews Corporation
+    search_terms:
+    - L
+    - Loews Corp
+    - Loews
+    - Loews Corporation
+  - ticker: MTB
+    name: M&T Bank
+    search_terms:
+    - M&T Bank
+    - MTB
+  - ticker: MMC
+    name: Marsh McLennan
+    search_terms:
+    - MMC
+    - Marsh McLennan
+  - ticker: MA
+    name: Mastercard
+    search_terms:
+    - MA
+    - Mastercard
+  - ticker: MET
+    name: MetLife
+    search_terms:
+    - MET
+    - MetLife
+  - ticker: MCO
+    name: Moody's Corporation
+    search_terms:
+    - Moody's Corp
+    - MCO
+    - Moody's
+    - Moody's Corporation
+  - ticker: MS
+    name: Morgan Stanley
+    search_terms:
+    - MS
+    - Morgan Stanley
+  - ticker: MSCI
+    name: MSCI Inc.
+    search_terms:
+    - MSCI Inc.
+    - MSCI
+  - ticker: NDAQ
+    name: Nasdaq, Inc.
+    search_terms:
+    - NDAQ
+    - Nasdaq,
+    - Nasdaq, Inc.
+  - ticker: NTRS
+    name: Northern Trust
+    search_terms:
+    - NTRS
+    - Northern Trust
+  - ticker: PYPL
+    name: PayPal
+    search_terms:
+    - PayPal
+    - PYPL
+  - ticker: PNC
+    name: PNC Financial Services
+    search_terms:
+    - PNC
+    - PNC Financial Services
+  - ticker: PFG
+    name: Principal Financial Group
+    search_terms:
+    - Principal Financial Group
+    - PFG
+  - ticker: PGR
+    name: Progressive Corporation
+    search_terms:
+    - Progressive Corp
+    - Progressive Corporation
+    - PGR
+    - Progressive
+  - ticker: PRU
+    name: Prudential Financial
+    search_terms:
+    - Prudential Financial
+    - PRU
+  - ticker: RJF
+    name: Raymond James Financial
+    search_terms:
+    - Raymond James Financial
+    - RJF
+  - ticker: RF
+    name: Regions Financial Corporation
+    search_terms:
+    - Regions Financial Corporation
+    - Regions Financial Corp
+    - Regions Financial
+    - RF
+  - ticker: HOOD
+    name: Robinhood Markets
+    search_terms:
+    - HOOD
+    - Robinhood Markets
+  - ticker: SPGI
+    name: S&P Global
+    search_terms:
+    - S&P Global
+    - SPGI
+  - ticker: STT
+    name: State Street Corporation
+    search_terms:
+    - State Street Corp
+    - State Street
+    - State Street Corporation
+    - STT
+  - ticker: SYF
+    name: Synchrony Financial
+    search_terms:
+    - Synchrony Financial
+    - SYF
+  - ticker: TROW
+    name: T. Rowe Price
+    search_terms:
+    - T. Rowe Price
+    - TROW
+  - ticker: TRV
+    name: Travelers Companies (The)
+    search_terms:
+    - TRV
+    - Travelers Companies (The)
+  - ticker: TFC
+    name: Truist Financial
+    search_terms:
+    - Truist Financial
+    - TFC
+  - ticker: USB
+    name: U.S. Bancorp
+    search_terms:
+    - USB
+    - U.S. Bancorp
+  - ticker: V
+    name: Visa Inc.
+    search_terms:
+    - Visa Inc.
+    - Visa
+    - V
+  - ticker: WRB
+    name: W. R. Berkley Corporation
+    search_terms:
+    - W. R. Berkley Corp
+    - W. R. Berkley
+    - W. R. Berkley Corporation
+    - WRB
+  - ticker: WFC
+    name: Wells Fargo
+    search_terms:
+    - WFC
+    - Wells Fargo
+  - ticker: WTW
+    name: Willis Towers Watson
+    search_terms:
+    - Willis Towers Watson
+    - WTW
+  Health Care:
+  - ticker: ABT
+    name: Abbott Laboratories
+    search_terms:
+    - Abbott Laboratories
+    - ABT
+  - ticker: ABBV
+    name: AbbVie
+    search_terms:
+    - AbbVie
+    - ABBV
+  - ticker: A
+    name: Agilent Technologies
+    search_terms:
+    - Agilent Technologies
+    - A
+    - Agilent Tech
+  - ticker: ALGN
+    name: Align Technology
+    search_terms:
+    - Align Technology
+    - ALGN
+  - ticker: AMGN
+    name: Amgen
+    search_terms:
+    - AMGN
+    - Amgen
+  - ticker: BAX
+    name: Baxter International
+    search_terms:
+    - Baxter International
+    - BAX
+  - ticker: BDX
+    name: Becton Dickinson
+    search_terms:
+    - Becton Dickinson
+    - BDX
+  - ticker: TECH
+    name: Bio-Techne
+    search_terms:
+    - TECH
+    - Bio-Techne
+  - ticker: BIIB
+    name: Biogen
+    search_terms:
+    - BIIB
+    - Biogen
+  - ticker: BSX
+    name: Boston Scientific
+    search_terms:
+    - Boston Scientific
+    - BSX
+  - ticker: BMY
+    name: Bristol Myers Squibb
+    search_terms:
+    - BMY
+    - Bristol Myers Squibb
+  - ticker: CAH
+    name: Cardinal Health
+    search_terms:
+    - CAH
+    - Cardinal Health
+  - ticker: COR
+    name: Cencora
+    search_terms:
+    - Cencora
+    - COR
+  - ticker: CNC
+    name: Centene Corporation
+    search_terms:
+    - Centene Corp
+    - CNC
+    - Centene
+    - Centene Corporation
+  - ticker: CRL
+    name: Charles River Laboratories
+    search_terms:
+    - Charles River Laboratories
+    - CRL
+  - ticker: CI
+    name: Cigna
+    search_terms:
+    - CI
+    - Cigna
+  - ticker: COO
+    name: Cooper Companies (The)
+    search_terms:
+    - COO
+    - Cooper Companies (The)
+  - ticker: CVS
+    name: CVS Health
+    search_terms:
+    - CVS Health
+    - CVS
+  - ticker: DHR
+    name: Danaher Corporation
+    search_terms:
+    - Danaher
+    - DHR
+    - Danaher Corporation
+    - Danaher Corp
+  - ticker: DVA
+    name: DaVita
+    search_terms:
+    - DVA
+    - DaVita
+  - ticker: DXCM
+    name: Dexcom
+    search_terms:
+    - DXCM
+    - Dexcom
+  - ticker: EW
+    name: Edwards Lifesciences
+    search_terms:
+    - Edwards Lifesciences
+    - EW
+  - ticker: ELV
+    name: Elevance Health
+    search_terms:
+    - Elevance Health
+    - ELV
+  - ticker: GEHC
+    name: GE HealthCare
+    search_terms:
+    - GEHC
+    - GE HealthCare
+  - ticker: GILD
+    name: Gilead Sciences
+    search_terms:
+    - Gilead Sciences
+    - GILD
+  - ticker: HCA
+    name: HCA Healthcare
+    search_terms:
+    - HCA
+    - HCA Healthcare
+  - ticker: HSIC
+    name: Henry Schein
+    search_terms:
+    - Henry Schein
+    - HSIC
+  - ticker: HOLX
+    name: Hologic
+    search_terms:
+    - HOLX
+    - Hologic
+  - ticker: HUM
+    name: Humana
+    search_terms:
+    - HUM
+    - Humana
+  - ticker: IDXX
+    name: Idexx Laboratories
+    search_terms:
+    - Idexx Laboratories
+    - IDXX
+  - ticker: INCY
+    name: Incyte
+    search_terms:
+    - Incyte
+    - INCY
+  - ticker: PODD
+    name: Insulet Corporation
+    search_terms:
+    - PODD
+    - Insulet Corp
+    - Insulet Corporation
+    - Insulet
+  - ticker: ISRG
+    name: Intuitive Surgical
+    search_terms:
+    - ISRG
+    - Intuitive Surgical
+  - ticker: IQV
+    name: IQVIA
+    search_terms:
+    - IQVIA
+    - IQV
+  - ticker: JNJ
+    name: Johnson & Johnson
+    search_terms:
+    - Johnson & Johnson
+    - JNJ
+  - ticker: LH
+    name: Labcorp
+    search_terms:
+    - Labcorp
+    - LH
+  - ticker: LLY
+    name: Lilly (Eli)
+    search_terms:
+    - LLY
+    - Lilly (Eli)
+  - ticker: MCK
+    name: McKesson Corporation
+    search_terms:
+    - McKesson
+    - McKesson Corporation
+    - McKesson Corp
+    - MCK
+  - ticker: MDT
+    name: Medtronic
+    search_terms:
+    - MDT
+    - Medtronic
+  - ticker: MRK
+    name: Merck & Co.
+    search_terms:
+    - Merck & Co.
+    - MRK
+  - ticker: MTD
+    name: Mettler Toledo
+    search_terms:
+    - Mettler Toledo
+    - MTD
+  - ticker: MRNA
+    name: Moderna
+    search_terms:
+    - MRNA
+    - Moderna
+  - ticker: MOH
+    name: Molina Healthcare
+    search_terms:
+    - MOH
+    - Molina Healthcare
+  - ticker: PFE
+    name: Pfizer
+    search_terms:
+    - PFE
+    - Pfizer
+  - ticker: DGX
+    name: Quest Diagnostics
+    search_terms:
+    - Quest Diagnostics
+    - DGX
+  - ticker: REGN
+    name: Regeneron Pharmaceuticals
+    search_terms:
+    - Regeneron Pharmaceuticals
+    - REGN
+  - ticker: RMD
+    name: ResMed
+    search_terms:
+    - RMD
+    - ResMed
+  - ticker: RVTY
+    name: Revvity
+    search_terms:
+    - RVTY
+    - Revvity
+  - ticker: SOLV
+    name: Solventum
+    search_terms:
+    - Solventum
+    - SOLV
+  - ticker: STE
+    name: Steris
+    search_terms:
+    - STE
+    - Steris
+  - ticker: SYK
+    name: Stryker Corporation
+    search_terms:
+    - Stryker
+    - Stryker Corp
+    - SYK
+    - Stryker Corporation
+  - ticker: TMO
+    name: Thermo Fisher Scientific
+    search_terms:
+    - Thermo Fisher Scientific
+    - TMO
+  - ticker: UNH
+    name: UnitedHealth Group
+    search_terms:
+    - UNH
+    - UnitedHealth Group
+  - ticker: UHS
+    name: Universal Health Services
+    search_terms:
+    - UHS
+    - Universal Health Services
+  - ticker: VRTX
+    name: Vertex Pharmaceuticals
+    search_terms:
+    - VRTX
+    - Vertex Pharmaceuticals
+  - ticker: VTRS
+    name: Viatris
+    search_terms:
+    - Viatris
+    - VTRS
+  - ticker: WAT
+    name: Waters Corporation
+    search_terms:
+    - Waters Corporation
+    - WAT
+    - Waters Corp
+    - Waters
+  - ticker: WST
+    name: West Pharmaceutical Services
+    search_terms:
+    - WST
+    - West Pharmaceutical Services
+  - ticker: ZBH
+    name: Zimmer Biomet
+    search_terms:
+    - ZBH
+    - Zimmer Biomet
+  - ticker: ZTS
+    name: Zoetis
+    search_terms:
+    - ZTS
+    - Zoetis
+  Industrials:
+  - ticker: MMM
+    name: 3M
+    search_terms:
+    - MMM
+    - 3M
+  - ticker: AOS
+    name: A. O. Smith
+    search_terms:
+    - A. O. Smith
+    - AOS
+  - ticker: ALLE
+    name: Allegion
+    search_terms:
+    - ALLE
+    - Allegion
+  - ticker: AME
+    name: Ametek
+    search_terms:
+    - Ametek
+    - AME
+  - ticker: ADP
+    name: Automatic Data Processing
+    search_terms:
+    - ADP
+    - Automatic Data Processing
+  - ticker: AXON
+    name: Axon Enterprise
+    search_terms:
+    - Axon Enterprise
+    - AXON
+  - ticker: BA
+    name: Boeing
+    search_terms:
+    - Boeing
+    - BA
+  - ticker: BR
+    name: Broadridge Financial Solutions
+    search_terms:
+    - Broadridge Financial Solutions
+    - BR
+  - ticker: BLDR
+    name: Builders FirstSource
+    search_terms:
+    - Builders FirstSource
+    - BLDR
+  - ticker: CHRW
+    name: C.H. Robinson
+    search_terms:
+    - CHRW
+    - C.H. Robinson
+  - ticker: CARR
+    name: Carrier Global
+    search_terms:
+    - Carrier Global
+    - CARR
+  - ticker: CAT
+    name: Caterpillar Inc.
+    search_terms:
+    - CAT
+    - Caterpillar Inc.
+    - Caterpillar
+  - ticker: CTAS
+    name: Cintas
+    search_terms:
+    - CTAS
+    - Cintas
+  - ticker: CPRT
+    name: Copart
+    search_terms:
+    - CPRT
+    - Copart
+  - ticker: CSX
+    name: CSX Corporation
+    search_terms:
+    - CSX Corporation
+    - CSX
+    - CSX Corp
+  - ticker: CMI
+    name: Cummins
+    search_terms:
+    - Cummins
+    - CMI
+  - ticker: DAY
+    name: Dayforce
+    search_terms:
+    - DAY
+    - Dayforce
+  - ticker: DE
+    name: Deere & Company
+    search_terms:
+    - DE
+    - Deere & Company
+    - Deere & Co
+  - ticker: DAL
+    name: Delta Air Lines
+    search_terms:
+    - Delta Air Lines
+    - DAL
+  - ticker: DOV
+    name: Dover Corporation
+    search_terms:
+    - Dover Corporation
+    - Dover Corp
+    - Dover
+    - DOV
+  - ticker: ETN
+    name: Eaton Corporation
+    search_terms:
+    - ETN
+    - Eaton Corporation
+    - Eaton Corp
+    - Eaton
+  - ticker: EME
+    name: Emcor
+    search_terms:
+    - EME
+    - Emcor
+  - ticker: EMR
+    name: Emerson Electric
+    search_terms:
+    - EMR
+    - Emerson Electric
+  - ticker: EFX
+    name: Equifax
+    search_terms:
+    - Equifax
+    - EFX
+  - ticker: EXPD
+    name: Expeditors International
+    search_terms:
+    - Expeditors International
+    - EXPD
+  - ticker: FAST
+    name: Fastenal
+    search_terms:
+    - FAST
+    - Fastenal
+  - ticker: FDX
+    name: FedEx
+    search_terms:
+    - FedEx
+    - FDX
+  - ticker: FTV
+    name: Fortive
+    search_terms:
+    - Fortive
+    - FTV
+  - ticker: GE
+    name: GE Aerospace
+    search_terms:
+    - GE Aerospace
+    - GE
+  - ticker: GEV
+    name: GE Vernova
+    search_terms:
+    - GE Vernova
+    - GEV
+  - ticker: GNRC
+    name: Generac
+    search_terms:
+    - Generac
+    - GNRC
+  - ticker: GD
+    name: General Dynamics
+    search_terms:
+    - General Dynamics
+    - GD
+  - ticker: HON
+    name: Honeywell
+    search_terms:
+    - Honeywell
+    - HON
+  - ticker: HWM
+    name: Howmet Aerospace
+    search_terms:
+    - Howmet Aerospace
+    - HWM
+  - ticker: HUBB
+    name: Hubbell Incorporated
+    search_terms:
+    - HUBB
+    - Hubbell Incorporated
+  - ticker: HII
+    name: Huntington Ingalls Industries
+    search_terms:
+    - HII
+    - Huntington Ingalls Industries
+  - ticker: IEX
+    name: IDEX Corporation
+    search_terms:
+    - IDEX Corp
+    - IDEX Corporation
+    - IEX
+    - IDEX
+  - ticker: ITW
+    name: Illinois Tool Works
+    search_terms:
+    - Illinois Tool Works
+    - ITW
+  - ticker: IR
+    name: Ingersoll Rand
+    search_terms:
+    - Ingersoll Rand
+    - IR
+  - ticker: JBHT
+    name: J.B. Hunt
+    search_terms:
+    - JBHT
+    - J.B. Hunt
+  - ticker: J
+    name: Jacobs Solutions
+    search_terms:
+    - J
+    - Jacobs Solutions
+  - ticker: JCI
+    name: Johnson Controls
+    search_terms:
+    - Johnson Controls
+    - JCI
+  - ticker: LHX
+    name: L3Harris
+    search_terms:
+    - L3Harris
+    - LHX
+  - ticker: LDOS
+    name: Leidos
+    search_terms:
+    - LDOS
+    - Leidos
+  - ticker: LII
+    name: Lennox International
+    search_terms:
+    - LII
+    - Lennox International
+  - ticker: LMT
+    name: Lockheed Martin
+    search_terms:
+    - LMT
+    - Lockheed Martin
+  - ticker: MAS
+    name: Masco
+    search_terms:
+    - Masco
+    - MAS
+  - ticker: NDSN
+    name: Nordson Corporation
+    search_terms:
+    - NDSN
+    - Nordson Corp
+    - Nordson
+    - Nordson Corporation
+  - ticker: NSC
+    name: Norfolk Southern
+    search_terms:
+    - NSC
+    - Norfolk Southern
+  - ticker: NOC
+    name: Northrop Grumman
+    search_terms:
+    - NOC
+    - Northrop Grumman
+  - ticker: ODFL
+    name: Old Dominion
+    search_terms:
+    - ODFL
+    - Old Dominion
+  - ticker: OTIS
+    name: Otis Worldwide
+    search_terms:
+    - Otis Worldwide
+    - OTIS
+  - ticker: PCAR
+    name: Paccar
+    search_terms:
+    - Paccar
+    - PCAR
+  - ticker: PH
+    name: Parker Hannifin
+    search_terms:
+    - Parker Hannifin
+    - PH
+  - ticker: PAYX
+    name: Paychex
+    search_terms:
+    - Paychex
+    - PAYX
+  - ticker: PAYC
+    name: Paycom
+    search_terms:
+    - Paycom
+    - PAYC
+  - ticker: PNR
+    name: Pentair
+    search_terms:
+    - PNR
+    - Pentair
+  - ticker: PWR
+    name: Quanta Services
+    search_terms:
+    - PWR
+    - Quanta Services
+  - ticker: RTX
+    name: RTX Corporation
+    search_terms:
+    - RTX Corporation
+    - RTX Corp
+    - RTX
+  - ticker: RSG
+    name: Republic Services
+    search_terms:
+    - Republic Services
+    - RSG
+  - ticker: ROK
+    name: Rockwell Automation
+    search_terms:
+    - Rockwell Automation
+    - ROK
+  - ticker: ROL
+    name: Rollins, Inc.
+    search_terms:
+    - Rollins, Inc.
+    - ROL
+    - Rollins,
+  - ticker: SNA
+    name: Snap-on
+    search_terms:
+    - SNA
+    - Snap-on
+  - ticker: LUV
+    name: Southwest Airlines
+    search_terms:
+    - Southwest Airlines
+    - LUV
+  - ticker: SWK
+    name: Stanley Black & Decker
+    search_terms:
+    - SWK
+    - Stanley Black & Decker
+  - ticker: TXT
+    name: Textron
+    search_terms:
+    - TXT
+    - Textron
+  - ticker: TT
+    name: Trane Technologies
+    search_terms:
+    - Trane Tech
+    - TT
+    - Trane Technologies
+  - ticker: TDG
+    name: TransDigm Group
+    search_terms:
+    - TDG
+    - TransDigm Group
+  - ticker: UBER
+    name: Uber
+    search_terms:
+    - UBER
+    - Uber
+  - ticker: UNP
+    name: Union Pacific Corporation
+    search_terms:
+    - UNP
+    - Union Pacific Corporation
+    - Union Pacific Corp
+    - Union Pacific
+  - ticker: UAL
+    name: United Airlines Holdings
+    search_terms:
+    - UAL
+    - United Airlines Holdings
+  - ticker: UPS
+    name: United Parcel Service
+    search_terms:
+    - United Parcel Service
+    - UPS
+  - ticker: URI
+    name: United Rentals
+    search_terms:
+    - United Rentals
+    - URI
+  - ticker: VLTO
+    name: Veralto
+    search_terms:
+    - Veralto
+    - VLTO
+  - ticker: VRSK
+    name: Verisk Analytics
+    search_terms:
+    - Verisk Analytics
+    - VRSK
+  - ticker: GWW
+    name: W. W. Grainger
+    search_terms:
+    - W. W. Grainger
+    - GWW
+  - ticker: WAB
+    name: Wabtec
+    search_terms:
+    - WAB
+    - Wabtec
+  - ticker: WM
+    name: Waste Management
+    search_terms:
+    - WM
+    - Waste Management
+  - ticker: XYL
+    name: Xylem Inc.
+    search_terms:
+    - Xylem
+    - Xylem Inc.
+    - XYL
+  Information Technology:
+  - ticker: ACN
+    name: Accenture
+    search_terms:
+    - Accenture
+    - ACN
+  - ticker: ADBE
+    name: Adobe Inc.
+    search_terms:
+    - ADBE
+    - Adobe Inc.
+    - Adobe
+  - ticker: AMD
+    name: Advanced Micro Devices
+    search_terms:
+    - AMD
+    - Advanced Micro Devices
+  - ticker: AKAM
+    name: Akamai Technologies
+    search_terms:
+    - AKAM
+    - Akamai Tech
+    - Akamai Technologies
+  - ticker: APH
+    name: Amphenol
+    search_terms:
+    - Amphenol
+    - APH
+  - ticker: ADI
+    name: Analog Devices
+    search_terms:
+    - ADI
+    - Analog Devices
+  - ticker: AAPL
+    name: Apple Inc.
+    search_terms:
+    - Apple
+    - AAPL
+    - Apple Inc.
+  - ticker: AMAT
+    name: Applied Materials
+    search_terms:
+    - AMAT
+    - Applied Materials
+  - ticker: APP
+    name: AppLovin
+    search_terms:
+    - APP
+    - AppLovin
+  - ticker: ANET
+    name: Arista Networks
+    search_terms:
+    - ANET
+    - Arista Networks
+  - ticker: ADSK
+    name: Autodesk
+    search_terms:
+    - ADSK
+    - Autodesk
+  - ticker: AVGO
+    name: Broadcom
+    search_terms:
+    - Broadcom
+    - AVGO
+  - ticker: CDNS
+    name: Cadence Design Systems
+    search_terms:
+    - CDNS
+    - Cadence Design Systems
+  - ticker: CDW
+    name: CDW Corporation
+    search_terms:
+    - CDW
+    - CDW Corp
+    - CDW Corporation
+  - ticker: CSCO
+    name: Cisco
+    search_terms:
+    - CSCO
+    - Cisco
+  - ticker: CTSH
+    name: Cognizant
+    search_terms:
+    - Cognizant
+    - CTSH
+  - ticker: GLW
+    name: Corning Inc.
+    search_terms:
+    - Corning Inc.
+    - GLW
+    - Corning
+  - ticker: CRWD
+    name: CrowdStrike
+    search_terms:
+    - CRWD
+    - CrowdStrike
+  - ticker: DDOG
+    name: Datadog
+    search_terms:
+    - Datadog
+    - DDOG
+  - ticker: DELL
+    name: Dell Technologies
+    search_terms:
+    - DELL
+    - Dell Tech
+    - Dell Technologies
+  - ticker: EPAM
+    name: EPAM Systems
+    search_terms:
+    - EPAM Systems
+    - EPAM
+  - ticker: FFIV
+    name: F5, Inc.
+    search_terms:
+    - FFIV
+    - F5,
+    - F5, Inc.
+  - ticker: FICO
+    name: Fair Isaac
+    search_terms:
+    - Fair Isaac
+    - FICO
+  - ticker: FSLR
+    name: First Solar
+    search_terms:
+    - First Solar
+    - FSLR
+  - ticker: FTNT
+    name: Fortinet
+    search_terms:
+    - Fortinet
+    - FTNT
+  - ticker: IT
+    name: Gartner
+    search_terms:
+    - IT
+    - Gartner
+  - ticker: GEN
+    name: Gen Digital
+    search_terms:
+    - GEN
+    - Gen Digital
+  - ticker: GDDY
+    name: GoDaddy
+    search_terms:
+    - GoDaddy
+    - GDDY
+  - ticker: HPE
+    name: Hewlett Packard Enterprise
+    search_terms:
+    - HPE
+    - Hewlett Packard Enterprise
+  - ticker: HPQ
+    name: HP Inc.
+    search_terms:
+    - HP
+    - HP Inc.
+    - HPQ
+  - ticker: IBM
+    name: IBM
+    search_terms:
+    - IBM
+  - ticker: INTC
+    name: Intel
+    search_terms:
+    - Intel
+    - INTC
+  - ticker: INTU
+    name: Intuit
+    search_terms:
+    - Intuit
+    - INTU
+  - ticker: JBL
+    name: Jabil
+    search_terms:
+    - Jabil
+    - JBL
+  - ticker: KEYS
+    name: Keysight Technologies
+    search_terms:
+    - KEYS
+    - Keysight Tech
+    - Keysight Technologies
+  - ticker: KLAC
+    name: KLA Corporation
+    search_terms:
+    - KLAC
+    - KLA
+    - KLA Corp
+    - KLA Corporation
+  - ticker: LRCX
+    name: Lam Research
+    search_terms:
+    - LRCX
+    - Lam Research
+  - ticker: MCHP
+    name: Microchip Technology
+    search_terms:
+    - Microchip Technology
+    - MCHP
+  - ticker: MU
+    name: Micron Technology
+    search_terms:
+    - Micron Technology
+    - MU
+  - ticker: MSFT
+    name: Microsoft
+    search_terms:
+    - MSFT
+    - Microsoft
+  - ticker: MPWR
+    name: Monolithic Power Systems
+    search_terms:
+    - MPWR
+    - Monolithic Power Systems
+  - ticker: MSI
+    name: Motorola Solutions
+    search_terms:
+    - MSI
+    - Motorola Solutions
+  - ticker: NTAP
+    name: NetApp
+    search_terms:
+    - NetApp
+    - NTAP
+  - ticker: NVDA
+    name: Nvidia
+    search_terms:
+    - Nvidia
+    - NVDA
+  - ticker: NXPI
+    name: NXP Semiconductors
+    search_terms:
+    - NXPI
+    - NXP Semiconductors
+  - ticker: 'ON'
+    name: ON Semiconductor
+    search_terms:
+    - ON Semiconductor
+    - 'ON'
+  - ticker: ORCL
+    name: Oracle Corporation
+    search_terms:
+    - ORCL
+    - Oracle Corp
+    - Oracle
+    - Oracle Corporation
+  - ticker: PLTR
+    name: Palantir Technologies
+    search_terms:
+    - PLTR
+    - Palantir Technologies
+    - Palantir Tech
+  - ticker: PANW
+    name: Palo Alto Networks
+    search_terms:
+    - Palo Alto Networks
+    - PANW
+  - ticker: PTC
+    name: PTC Inc.
+    search_terms:
+    - PTC Inc.
+    - PTC
+  - ticker: QCOM
+    name: Qualcomm
+    search_terms:
+    - Qualcomm
+    - QCOM
+  - ticker: Q
+    name: Qnity Electronics
+    search_terms:
+    - Q
+    - Qnity Electronics
+  - ticker: ROP
+    name: Roper Technologies
+    search_terms:
+    - Roper Tech
+    - ROP
+    - Roper Technologies
+  - ticker: CRM
+    name: Salesforce
+    search_terms:
+    - Salesforce
+    - CRM
+  - ticker: SNDK
+    name: Sandisk
+    search_terms:
+    - SNDK
+    - Sandisk
+  - ticker: STX
+    name: Seagate Technology
+    search_terms:
+    - Seagate Technology
+    - STX
+  - ticker: NOW
+    name: ServiceNow
+    search_terms:
+    - ServiceNow
+    - NOW
+  - ticker: SWKS
+    name: Skyworks Solutions
+    search_terms:
+    - SWKS
+    - Skyworks Solutions
+  - ticker: SMCI
+    name: Supermicro
+    search_terms:
+    - Supermicro
+    - SMCI
+  - ticker: SNPS
+    name: Synopsys
+    search_terms:
+    - Synopsys
+    - SNPS
+  - ticker: TEL
+    name: TE Connectivity
+    search_terms:
+    - TE Connectivity
+    - TEL
+  - ticker: TDY
+    name: Teledyne Technologies
+    search_terms:
+    - TDY
+    - Teledyne Technologies
+    - Teledyne Tech
+  - ticker: TER
+    name: Teradyne
+    search_terms:
+    - TER
+    - Teradyne
+  - ticker: TXN
+    name: Texas Instruments
+    search_terms:
+    - Texas Instruments
+    - TXN
+  - ticker: TRMB
+    name: Trimble Inc.
+    search_terms:
+    - Trimble Inc.
+    - TRMB
+    - Trimble
+  - ticker: TYL
+    name: Tyler Technologies
+    search_terms:
+    - TYL
+    - Tyler Technologies
+    - Tyler Tech
+  - ticker: VRSN
+    name: Verisign
+    search_terms:
+    - Verisign
+    - VRSN
+  - ticker: WDC
+    name: Western Digital
+    search_terms:
+    - WDC
+    - Western Digital
+  - ticker: WDAY
+    name: Workday, Inc.
+    search_terms:
+    - Workday, Inc.
+    - Workday,
+    - WDAY
+  - ticker: ZBRA
+    name: Zebra Technologies
+    search_terms:
+    - Zebra Technologies
+    - ZBRA
+    - Zebra Tech
+  Materials:
+  - ticker: APD
+    name: Air Products
+    search_terms:
+    - Air Products
+    - APD
+  - ticker: ALB
+    name: Albemarle Corporation
+    search_terms:
+    - Albemarle Corp
+    - Albemarle
+    - Albemarle Corporation
+    - ALB
+  - ticker: AMCR
+    name: Amcor
+    search_terms:
+    - Amcor
+    - AMCR
+  - ticker: AVY
+    name: Avery Dennison
+    search_terms:
+    - Avery Dennison
+    - AVY
+  - ticker: BALL
+    name: Ball Corporation
+    search_terms:
+    - BALL
+    - Ball Corp
+    - Ball
+    - Ball Corporation
+  - ticker: CF
+    name: CF Industries
+    search_terms:
+    - CF Industries
+    - CF
+  - ticker: CTVA
+    name: Corteva
+    search_terms:
+    - Corteva
+    - CTVA
+  - ticker: DOW
+    name: Dow Inc.
+    search_terms:
+    - DOW
+    - Dow Inc.
+    - Dow
+  - ticker: DD
+    name: DuPont
+    search_terms:
+    - DuPont
+    - DD
+  - ticker: ECL
+    name: Ecolab
+    search_terms:
+    - Ecolab
+    - ECL
+  - ticker: FCX
+    name: Freeport-McMoRan
+    search_terms:
+    - FCX
+    - Freeport-McMoRan
+  - ticker: IFF
+    name: International Flavors & Fragrances
+    search_terms:
+    - International Flavors & Fragrances
+    - IFF
+  - ticker: IP
+    name: International Paper
+    search_terms:
+    - International Paper
+    - IP
+  - ticker: LIN
+    name: Linde plc
+    search_terms:
+    - LIN
+    - Linde plc
+  - ticker: LYB
+    name: LyondellBasell
+    search_terms:
+    - LyondellBasell
+    - LYB
+  - ticker: MLM
+    name: Martin Marietta Materials
+    search_terms:
+    - MLM
+    - Martin Marietta Materials
+  - ticker: MOS
+    name: Mosaic Company (The)
+    search_terms:
+    - MOS
+    - Mosaic Company (The)
+    - Mosaic Co (The)
+  - ticker: NEM
+    name: Newmont
+    search_terms:
+    - NEM
+    - Newmont
+  - ticker: NUE
+    name: Nucor
+    search_terms:
+    - Nucor
+    - NUE
+  - ticker: PKG
+    name: Packaging Corporation of America
+    search_terms:
+    - Packaging  of America
+    - Packaging Corporation of America
+    - PKG
+    - Packaging Corp of America
+  - ticker: PPG
+    name: PPG Industries
+    search_terms:
+    - PPG Industries
+    - PPG
+  - ticker: SHW
+    name: Sherwin-Williams
+    search_terms:
+    - Sherwin-Williams
+    - SHW
+  - ticker: SW
+    name: Smurfit Westrock
+    search_terms:
+    - Smurfit Westrock
+    - SW
+  - ticker: SOLS
+    name: Solstice Advanced Materials
+    search_terms:
+    - SOLS
+    - Solstice Advanced Materials
+  - ticker: STLD
+    name: Steel Dynamics
+    search_terms:
+    - Steel Dynamics
+    - STLD
+  - ticker: VMC
+    name: Vulcan Materials Company
+    search_terms:
+    - Vulcan Materials Co
+    - VMC
+    - Vulcan Materials Company
+  Real Estate:
+  - ticker: ARE
+    name: Alexandria Real Estate Equities
+    search_terms:
+    - Alexandria Real Estate Equities
+    - ARE
+  - ticker: AMT
+    name: American Tower
+    search_terms:
+    - AMT
+    - American Tower
+  - ticker: AVB
+    name: AvalonBay Communities
+    search_terms:
+    - AVB
+    - AvalonBay Communities
+  - ticker: BXP
+    name: BXP, Inc.
+    search_terms:
+    - BXP
+    - BXP, Inc.
+    - BXP,
+  - ticker: CPT
+    name: Camden Property Trust
+    search_terms:
+    - Camden Property Trust
+    - CPT
+  - ticker: CBRE
+    name: CBRE Group
+    search_terms:
+    - CBRE
+    - CBRE Group
+  - ticker: CSGP
+    name: CoStar Group
+    search_terms:
+    - CSGP
+    - CoStar Group
+  - ticker: CCI
+    name: Crown Castle
+    search_terms:
+    - CCI
+    - Crown Castle
+  - ticker: DLR
+    name: Digital Realty
+    search_terms:
+    - DLR
+    - Digital Realty
+  - ticker: EQIX
+    name: Equinix
+    search_terms:
+    - Equinix
+    - EQIX
+  - ticker: EQR
+    name: Equity Residential
+    search_terms:
+    - Equity Residential
+    - EQR
+  - ticker: ESS
+    name: Essex Property Trust
+    search_terms:
+    - ESS
+    - Essex Property Trust
+  - ticker: EXR
+    name: Extra Space Storage
+    search_terms:
+    - EXR
+    - Extra Space Storage
+  - ticker: FRT
+    name: Federal Realty Investment Trust
+    search_terms:
+    - Federal Realty Investment Trust
+    - FRT
+  - ticker: DOC
+    name: Healthpeak Properties
+    search_terms:
+    - DOC
+    - Healthpeak Properties
+  - ticker: HST
+    name: Host Hotels & Resorts
+    search_terms:
+    - Host Hotels & Resorts
+    - HST
+  - ticker: INVH
+    name: Invitation Homes
+    search_terms:
+    - INVH
+    - Invitation Homes
+  - ticker: IRM
+    name: Iron Mountain
+    search_terms:
+    - IRM
+    - Iron Mountain
+  - ticker: KIM
+    name: Kimco Realty
+    search_terms:
+    - Kimco Realty
+    - KIM
+  - ticker: MAA
+    name: Mid-America Apartment Communities
+    search_terms:
+    - MAA
+    - Mid-America Apartment Communities
+  - ticker: PLD
+    name: Prologis
+    search_terms:
+    - PLD
+    - Prologis
+  - ticker: PSA
+    name: Public Storage
+    search_terms:
+    - Public Storage
+    - PSA
+  - ticker: O
+    name: Realty Income
+    search_terms:
+    - Realty Income
+    - O
+  - ticker: REG
+    name: Regency Centers
+    search_terms:
+    - Regency Centers
+    - REG
+  - ticker: SBAC
+    name: SBA Communications
+    search_terms:
+    - SBAC
+    - SBA Communications
+  - ticker: SPG
+    name: Simon Property Group
+    search_terms:
+    - SPG
+    - Simon Property Group
+  - ticker: UDR
+    name: UDR, Inc.
+    search_terms:
+    - UDR,
+    - UDR
+    - UDR, Inc.
+  - ticker: VTR
+    name: Ventas
+    search_terms:
+    - Ventas
+    - VTR
+  - ticker: VICI
+    name: Vici Properties
+    search_terms:
+    - Vici Properties
+    - VICI
+  - ticker: WELL
+    name: Welltower
+    search_terms:
+    - WELL
+    - Welltower
+  - ticker: WY
+    name: Weyerhaeuser
+    search_terms:
+    - WY
+    - Weyerhaeuser
+  Utilities:
+  - ticker: AES
+    name: AES Corporation
+    search_terms:
+    - AES
+    - AES Corporation
+    - AES Corp
+  - ticker: LNT
+    name: Alliant Energy
+    search_terms:
+    - Alliant Energy
+    - LNT
+  - ticker: AEE
+    name: Ameren
+    search_terms:
+    - AEE
+    - Ameren
+  - ticker: AEP
+    name: American Electric Power
+    search_terms:
+    - American Electric Power
+    - AEP
+  - ticker: AWK
+    name: American Water Works
+    search_terms:
+    - AWK
+    - American Water Works
+  - ticker: ATO
+    name: Atmos Energy
+    search_terms:
+    - ATO
+    - Atmos Energy
+  - ticker: CNP
+    name: CenterPoint Energy
+    search_terms:
+    - CenterPoint Energy
+    - CNP
+  - ticker: CMS
+    name: CMS Energy
+    search_terms:
+    - CMS Energy
+    - CMS
+  - ticker: ED
+    name: Consolidated Edison
+    search_terms:
+    - ED
+    - Consolidated Edison
+  - ticker: CEG
+    name: Constellation Energy
+    search_terms:
+    - CEG
+    - Constellation Energy
+  - ticker: D
+    name: Dominion Energy
+    search_terms:
+    - D
+    - Dominion Energy
+  - ticker: DTE
+    name: DTE Energy
+    search_terms:
+    - DTE Energy
+    - DTE
+  - ticker: DUK
+    name: Duke Energy
+    search_terms:
+    - DUK
+    - Duke Energy
+  - ticker: EIX
+    name: Edison International
+    search_terms:
+    - Edison International
+    - EIX
+  - ticker: ETR
+    name: Entergy
+    search_terms:
+    - Entergy
+    - ETR
+  - ticker: EVRG
+    name: Evergy
+    search_terms:
+    - Evergy
+    - EVRG
+  - ticker: ES
+    name: Eversource Energy
+    search_terms:
+    - Eversource Energy
+    - ES
+  - ticker: EXC
+    name: Exelon
+    search_terms:
+    - Exelon
+    - EXC
+  - ticker: FE
+    name: FirstEnergy
+    search_terms:
+    - FE
+    - FirstEnergy
+  - ticker: NEE
+    name: NextEra Energy
+    search_terms:
+    - NEE
+    - NextEra Energy
+  - ticker: NI
+    name: NiSource
+    search_terms:
+    - NiSource
+    - NI
+  - ticker: NRG
+    name: NRG Energy
+    search_terms:
+    - NRG Energy
+    - NRG
+  - ticker: PCG
+    name: PG&E Corporation
+    search_terms:
+    - PG&E Corporation
+    - PCG
+    - PG&E
+    - PG&E Corp
+  - ticker: PNW
+    name: Pinnacle West Capital
+    search_terms:
+    - Pinnacle West Capital
+    - PNW
+  - ticker: PPL
+    name: PPL Corporation
+    search_terms:
+    - PPL Corporation
+    - PPL Corp
+    - PPL
+  - ticker: PEG
+    name: Public Service Enterprise Group
+    search_terms:
+    - PEG
+    - Public Service Enterprise Group
+  - ticker: SRE
+    name: Sempra
+    search_terms:
+    - SRE
+    - Sempra
+  - ticker: SO
+    name: Southern Company
+    search_terms:
+    - Southern Co
+    - Southern Company
+    - SO
+  - ticker: VST
+    name: Vistra Corp.
+    search_terms:
+    - Vistra Corp.
+    - VST
+  - ticker: WEC
+    name: WEC Energy Group
+    search_terms:
+    - WEC Energy Group
+    - WEC
+  - ticker: XEL
+    name: Xcel Energy
+    search_terms:
+    - XEL
+    - Xcel Energy

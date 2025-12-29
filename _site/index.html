@@ -336,6 +336,7 @@
     <button class="tab-button" onclick="switchTab(event, 'communication-services')">📱 Comms</button>
     <button class="tab-button" onclick="switchTab(event, 'utilities')">⚡ Utilities</button>
     <button class="tab-button" onclick="switchTab(event, 'real-estate')">🏢 Real Estate</button>
+    <button class="tab-button" onclick="switchTab(event, 'sp500')">📊 S&P 500</button>
   </div>
 
   
@@ -540,6 +541,24 @@
       </div>
     </div>
   
+    <div id="sp500" class="tab-content ">
+      <div class="news-container">
+        <div class="news-header">
+          <div>
+            <h2>S&P 500 Company News</h2>
+            <div class="news-date">2025-12-29</div>
+          </div>
+          <div class="nav-buttons">
+            <button class="nav-btn" onclick="previousDay()" id="prev-btn">← Previous Day</button>
+            <button class="nav-btn" onclick="nextDay()" id="next-btn" disabled>Next Day →</button>
+          </div>
+        </div>
+        <div class="news-content" id="news-sp500">
+          <p class="empty-state">Loading news...</p>
+        </div>
+      </div>
+    </div>
+  
 </div>
 
 <div class="search-section">
@@ -561,6 +580,7 @@
         <option value="communication-services">📱 Communication Services</option>
         <option value="utilities">⚡ Utilities</option>
         <option value="real-estate">🏢 Real Estate</option>
+        <option value="sp500">📊 S&P 500 Companies</option>
       </select>
     </div>
     <div class="form-group">
@@ -574,13 +594,13 @@
 
 <div class="about-section">
   <h2>About Sector Intelligence Daily</h2>
-  <p>An automated financial news aggregator that scans 10+ trusted sources (CNBC, Bloomberg, Yahoo Finance, WSJ, FT, and more) and organizes stories into 11 major market sectors aligned with SPDR ETFs.</p>
-  <p><strong>Updated:</strong> Daily at 6:00 AM CST (12:00 PM UTC) | <strong>Sources:</strong> Public RSS feeds | <strong>No AI:</strong> Extractive summaries only</p>
+  <p>An automated financial news aggregator that scans 10+ trusted sources (CNBC, Bloomberg, Yahoo Finance, WSJ, FT, and more) and organizes stories into 11 major market sectors aligned with SPDR ETFs. Now featuring S&P 500 company-specific news tracking all 500+ companies.</p>
+  <p><strong>Updated:</strong> Daily at 6:00 AM CST (12:00 PM UTC) | <strong>Sources:</strong> Public RSS feeds + Google News company searches | <strong>No AI:</strong> Extractive summaries only</p>
 </div>
 
 <script>
 let currentDate = new Date();
-let sectors = ["energy", "materials", "industrials", "consumer-discretionary", "consumer-staples", "health-care", "financials", "information-technology", "communication-services", "utilities", "real-estate"];
+let sectors = ["energy", "materials", "industrials", "consumer-discretionary", "consumer-staples", "health-care", "financials", "information-technology", "communication-services", "utilities", "real-estate", "sp500"];
 
 function formatDate(date) {
   return date.toISOString().split('T')[0];

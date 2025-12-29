@@ -1,0 +1,23 @@
+---
+layout: post
+title: "S&P 500 Company News Brief for {{ date }}"
+date: {{ date }}
+permalink: /{{ date }}/sp500/
+---
+
+# S&P 500 Company News - {{ date }}
+
+{% for sector, articles in articles_by_sector.items() %}
+{% if articles %}
+## {{ sector }}
+
+{% for article in articles %}
+{{ loop.index }}. [{{ article.title }}]({{ article.link }}) - *{{ article.source }}*
+{% endfor %}
+
+{% endif %}
+{% endfor %}
+
+---
+
+*Automated news aggregation for S&P 500 companies. Updated daily at 6 AM CST (12 PM UTC).*

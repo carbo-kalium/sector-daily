@@ -31,7 +31,7 @@ jobs:
 
       - name: Run sector intelligence pipeline
         run: |
-          sector-intel run --date $(date +%Y-%m-%d)
+          sector-intel run --date $(date +%Y-%m-%d) --mode both
 
       - name: Commit and push generated posts
         run: |
