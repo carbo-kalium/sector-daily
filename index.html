@@ -418,11 +418,20 @@ function loadNewsContent(sector, date) {
           postHeader.remove();
         }
         
+        // Get the post-content div which contains the actual article
+        const postContent = articleContent.querySelector('.post-content') || articleContent;
+        
+        // Remove the first h1 and h2 (redundant title and date/count)
+        const firstH1 = postContent.querySelector('h1');
+        const firstH2 = postContent.querySelector('h2');
+        if (firstH1) firstH1.remove();
+        if (firstH2) firstH2.remove();
+        
         // Add target="_blank" to all links
-        const links = articleContent.querySelectorAll('a');
+        const links = postContent.querySelectorAll('a');
         links.forEach(link => link.setAttribute('target', '_blank'));
         
-        newsDiv.innerHTML = articleContent.innerHTML;
+        newsDiv.innerHTML = postContent.innerHTML;
       } else {
         newsDiv.innerHTML = '<p class="empty-state">No articles found for this date.</p>';
       }
@@ -529,12 +538,21 @@ function searchNews() {
           postHeader.remove();
         }
         
+        // Get the post-content div which contains the actual article
+        const postContent = articleContent.querySelector('.post-content') || articleContent;
+        
+        // Remove the first h1 and h2 (redundant title and date/count)
+        const firstH1 = postContent.querySelector('h1');
+        const firstH2 = postContent.querySelector('h2');
+        if (firstH1) firstH1.remove();
+        if (firstH2) firstH2.remove();
+        
         // Add target="_blank" to all links
-        const links = articleContent.querySelectorAll('a');
+        const links = postContent.querySelectorAll('a');
         links.forEach(link => link.setAttribute('target', '_blank'));
         
         let htmlContent = `<div style="background: white; padding: 1.5em; border-radius: 8px; margin-top: 1em;">`;
-        htmlContent += articleContent.innerHTML;
+        htmlContent += postContent.innerHTML;
         htmlContent += '</div>';
         resultsDiv.innerHTML = htmlContent;
       } else {
