@@ -63,42 +63,6 @@ Daily updates via **GitHub Actions**:
 - Commits new posts to `output/YYYY-MM-DD/`
 - Deploys to GitHub Pages automatically
 
-## 📖 Setup Guide
-
-See [SETUP.md](SETUP.md) for:
-- Pushing to GitHub
-- Enabling GitHub Pages
-- Custom domain setup (Namecheap)
-- SEO & monetization (Google AdSense)
-
-## 🎨 Features
-
-✨ **SEO Optimized**
-- Catchy titles: "Energy Sector Daily Brief: Top Market News & Analysis"
-- Meta descriptions with keywords
-- Open Graph tags for social sharing
-- Auto-generated sitemaps
-
-✨ **Clean Formatting**
-- Numbered headlines
-- Blockquote excerpts
-- Source attribution with timestamps
-- Navigation links between sectors
-
-✨ **Production Ready**
-- Persistent dedup (7-day memory)
-- Error handling for failed sources
-- Logging for monitoring
-- Extensible architecture
-
-## 💰 Monetization Ready
-
-Blog is designed for:
-- Google AdSense integration
-- Affiliate links
-- Sponsored content
-- Premium newsletter tiers
-
 ## 📊 Tech Stack
 
 - **Python 3.12**
@@ -124,4 +88,3 @@ Ideas for enhancements:
 
 **Built by:** [carbo-kalium](https://github.com/carbo-kalium)  
 **Live at:** https://carbo-kalium.github.io/sector-daily/
-# Trigger deployment
