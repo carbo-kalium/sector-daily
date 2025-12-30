@@ -4,38 +4,66 @@ title: "Other Sector Daily Brief: Top Market News for 2025-12-29"
 date: "2025-12-29"
 sector: "Other"
 etf: "N/A"
-description: "Today's Other sector headlines: 16 stories covering phoronix, market, oled, more, what. Free daily market intelligence for investors."
+description: "Today's Other sector headlines: 27 stories covering what, team, phoronix, domino, things. Free daily market intelligence for investors."
 keywords: "Other, N/A, stock market news, sector news, 2025-12-29, market intelligence, investing news"
 og_title: "Other Daily Brief — 2025-12-29"
-og_description: "16 breaking stories in Other: Best money market account rates today, December 29..., Why a $500 Steak Dinner Only Yields a $25 Profit -..., Our team of home cinema experts believes 2026 coul..."
+og_description: "27 breaking stories in Other: 13 Things GQ Readers Couldn't Stop Buying This Yea..., Linux 7.0 Expected To Bring IO_uring IOPOLL Pollin..., How to recession-proof your finances - Colorado Pu..."
 permalink: /2025-12-29/other/
 ---
 
 # Other Sector Daily Brief
-## 2025-12-29 — 16 Stories
+## 2025-12-29 — 27 Stories
 
-**Today's highlights:** phoronix, market, oled, more, what
-
----
-
-### 1. Best money market account rates today, December 29, 2025 (Earn up to 4.25% APY)
-
-**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-december-29-2025-110059998.html) · 2025-12-29
-
-[Read full article →](https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-monday-december-29-2025-110059998.html)
+**Today's highlights:** what, team, phoronix, domino, things
 
 ---
 
-### 2. Why a $500 Steak Dinner Only Yields a $25 Profit - The Wall Street Journal
+### 1. 13 Things GQ Readers Couldn't Stop Buying This Year - GQ
 
-**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMinAFBVV95cUxPS1lFR0VpUldFMnJWaHloYTFzdDdaam81SFF4d3d5WDlzTnpXZHZYYjFyV056ODl5Sm9FREZSaWNaZUkycmRiSVFDQzFLSk9qekEtYndVaUZWM3JibkNuNUR0Vnl0SWthTkFWa3JzOFlCQ2RHczJ3QWFvelV3bkl1djZtT3JaRG5uOW8xelo0QmJJR1ctVnBxYnE4T2s?oc=5) · 2025-12-29
-> Why a $500 Steak Dinner Only Yields a $25 Profit The Wall Street Journal
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9veWNPNzZJeTA5UW1Ubm1JSXFOWGk3UU5KdDUyX0QwNHRZNXhhU3NfU3VRRXJyVEVjVDhWS251d2R1X2FYTkpDQXlVWWtmMUlaWVdNWUVyVVNCUWVONWc?oc=5) · 2025-12-29
+> 13 Things GQ Readers Couldn't Stop Buying This Year GQ From hero sleep masks to the perfect secateurs: the things you loved most in 2025, and what they say about you The Guardian F ZINE Team’s Purchases Of 2025: What the Editorial Team Is Buying This Year FZINE Singapore BI's 65…
 
-[Read full article →](https://news.google.com/rss/articles/CBMinAFBVV95cUxPS1lFR0VpUldFMnJWaHloYTFzdDdaam81SFF4d3d5WDlzTnpXZHZYYjFyV056ODl5Sm9FREZSaWNaZUkycmRiSVFDQzFLSk9qekEtYndVaUZWM3JibkNuNUR0Vnl0SWthTkFWa3JzOFlCQ2RHczJ3QWFvelV3bkl1djZtT3JaRG5uOW8xelo0QmJJR1ctVnBxYnE4T2s?oc=5)
+[Read full article →](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9veWNPNzZJeTA5UW1Ubm1JSXFOWGk3UU5KdDUyX0QwNHRZNXhhU3NfU3VRRXJyVEVjVDhWS251d2R1X2FYTkpDQXlVWWtmMUlaWVdNWUVyVVNCUWVONWc?oc=5)
 
 ---
 
-### 3. Our team of home cinema experts believes 2026 could see a new HDR war, a big battle for OLED TV tech and more - What Hi-Fi?
+### 2. Linux 7.0 Expected To Bring IO_uring IOPOLL Polling Improvements - Phoronix
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xYXY4ZUZzZmFZQ2xHbkpzSXJaVjZuZG5WemxkZ2I5c1drZGVfd21uXzVWdEVqNEdlOGJTbV9td3Q3aDV1ZUFma1pVTklHM1dUNXhwTmVUd0l3ZjBWVmtNMkg2eXV4aGc?oc=5) · 2025-12-29
+> Linux 7.0 Expected To Bring IO_uring IOPOLL Polling Improvements Phoronix
+
+[Read full article →](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xYXY4ZUZzZmFZQ2xHbkpzSXJaVjZuZG5WemxkZ2I5c1drZGVfd21uXzVWdEVqNEdlOGJTbV9td3Q3aDV1ZUFma1pVTklHM1dUNXhwTmVUd0l3ZjBWVmtNMkg2eXV4aGc?oc=5)
+
+---
+
+### 3. How to recession-proof your finances - Colorado Public Radio
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMid0FVX3lxTE5nc2ZDdFVCMnJnaEZrS3Z0SEpXaGg3RER4b1RtSTFpVWlUeEZLd2FZNEJMWVZ2cWQtdUN4OE1jYW95SmtMYkl0VmROTUU4dm5vN2NBTDJmd0MzckszcW4tQlZDVnFMTXFLa0k4T2paVGFrdEtFajNr?oc=5) · 2025-12-29
+> How to recession-proof your finances Colorado Public Radio
+
+[Read full article →](https://news.google.com/rss/articles/CBMid0FVX3lxTE5nc2ZDdFVCMnJnaEZrS3Z0SEpXaGg3RER4b1RtSTFpVWlUeEZLd2FZNEJMWVZ2cWQtdUN4OE1jYW95SmtMYkl0VmROTUU4dm5vN2NBTDJmd0MzckszcW4tQlZDVnFMTXFLa0k4T2paVGFrdEtFajNr?oc=5)
+
+---
+
+### 4. Q-UP’s Competitive Coin Flip League Has a Satisfying Payoff - The New York Times
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMieEFVX3lxTE1pNU41SWZzUHRRUmRrbjlyeUp3NEgxSExEYlgxTUwzMlNCRkc2dVIwSEpzeHZ6VVhlUVlCYjRrUGQxNnFpenBGYncyeHAtN05QZkF5S1ptYVFQUmlRcUcxVEdXWmswemtBYWphdjlrcjVDS1VDbE1udQ?oc=5) · 2025-12-29
+> Q-UP’s Competitive Coin Flip League Has a Satisfying Payoff The New York Times
+
+[Read full article →](https://news.google.com/rss/articles/CBMieEFVX3lxTE1pNU41SWZzUHRRUmRrbjlyeUp3NEgxSExEYlgxTUwzMlNCRkc2dVIwSEpzeHZ6VVhlUVlCYjRrUGQxNnFpenBGYncyeHAtN05QZkF5S1ptYVFQUmlRcUcxVEdXWmswemtBYWphdjlrcjVDS1VDbE1udQ?oc=5)
+
+---
+
+### 5. The Top 10 Before & Afters of 2025 | domino - domino.com
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMiekFVX3lxTE9BRmdsNXBObk1iS1pkNHRQVFFjdnBLaWQwQ09LLWhBQmt5dGgyU083bGdaa2RJd0lmM3BBUFdPVXpoWktSM0ZhVm1fbWxIb0QxSnoxT2d3YVJGeEJZOG9ybFhCTjVIYVdxTjM1eXdQaC1EcEczTkNOU0tR?oc=5) · 2025-12-29
+> The Top 10 Before & Afters of 2025 | domino domino.com
+
+[Read full article →](https://news.google.com/rss/articles/CBMiekFVX3lxTE9BRmdsNXBObk1iS1pkNHRQVFFjdnBLaWQwQ09LLWhBQmt5dGgyU083bGdaa2RJd0lmM3BBUFdPVXpoWktSM0ZhVm1fbWxIb0QxSnoxT2d3YVJGeEJZOG9ybFhCTjVIYVdxTjM1eXdQaC1EcEczTkNOU0tR?oc=5)
+
+---
+
+### 6. Our team of home cinema experts believes 2026 could see a new HDR war, a big battle for OLED TV tech and more - What Hi-Fi?
 
 **Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeVlpZFlxcHRNbVJKdTZSaTVRVnRzbW5xVlFMY2tack1ibXlpcWVweDBzMXBCSFF6dGk0cGNiU1I0MVRXNFBGRVNrVzN0ZVAwZTZwN0k0Rm00NE42UDlNNWxOdEZGejJUVmtEdGVVVkhTUkJFcUFiUnQ4ZUVnbk5VRTlQRmpXWlZOOUF0bTJTY0RvSG8wa0t1TFdtMlBpUk1GYkNrTTBkVS10bTlGZHE2ZEVVM3FneTlQMFFTUHRtMVUweVJPaks5VnNicjBTLXdhcWZ5UEw0V1pFRWxzWVUwS1F0WkZ5Uzg?oc=5) · 2025-12-29
 > Our team of home cinema experts believes 2026 could see a new HDR war, a big battle for OLED TV tech and more What Hi-Fi? 4 Exciting Smart TVs Coming Out In 2026 bgr.com Samsung TVs in 2026: Here's what I expect from OLED, Micro RGB and more Tom's Guide How RGB Mini-LED will tra…
@@ -44,7 +72,16 @@ permalink: /2025-12-29/other/
 
 ---
 
-### 4. The rise of the side hustle
+### 7. Rance series coming to Steam - Niche Gamer
+
+**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wc09tT2FaQ1lVMzh4SkV2Qm91ak8yS3VlZkhxdm1JOWV3TlFXNEg2dTEtNWFWU0FqNDhLX05uakcya2Vtb2FIYVJ5MVdkX0YzN2xVc2hjUUJFUEMzcWJxQWtR?oc=5) · 2025-12-29
+> Rance series coming to Steam Niche Gamer
+
+[Read full article →](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wc09tT2FaQ1lVMzh4SkV2Qm91ak8yS3VlZkhxdm1JOWV3TlFXNEg2dTEtNWFWU0FqNDhLX05uakcya2Vtb2FIYVJ5MVdkX0YzN2xVc2hjUUJFUEMzcWJxQWtR?oc=5)
+
+---
+
+### 8. The rise of the side hustle
 
 **Source:** [Financial Times Markets](https://www.ft.com/content/799fa043-407a-498b-a22d-ae677f514216) · 2025-12-29
 > Economists and tax collectors might be underestimating its impact
@@ -53,7 +90,7 @@ permalink: /2025-12-29/other/
 
 ---
 
-### 5. KDE Plasma's Wayland Transition "Nears Completion" In Ending Out 2025 - Phoronix
+### 9. KDE Plasma's Wayland Transition "Nears Completion" In Ending Out 2025 - Phoronix
 
 **Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMibkFVX3lxTE84WUR0NE1LSXlWeTJtUG9tamt2UDFjaGo0QS1ucFlEaXFDUmNGeThkT1FBQkJ5OEk3SnFTVW1RUk5fdEhyRFlyQ1JfRlFkV0g2OThsYmgwNTVZQXNCNTBJdUV1Mko4Vzl6cTM5MlJn?oc=5) · 2025-12-29
 > KDE Plasma's Wayland Transition "Nears Completion" In Ending Out 2025 Phoronix
@@ -62,7 +99,7 @@ permalink: /2025-12-29/other/
 
 ---
 
-### 6. KTR2 Could Shake Up the $100 to $200 Handheld Market - Retro Handhelds
+### 10. KTR2 Could Shake Up the $100 to $200 Handheld Market - Retro Handhelds
 
 **Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUURQVVdRZWZsY25yZ3BMQ3F5TDAwbXJ1eDJVOHNKRGJra2k1akVENVV4aWRzeWhLRXB3SHJ5LVJ6R2NUQjJSM1p5TlpMZWRMMkFsRjR3Z2JUbWpueS1VZkl4SWpSaGw0YmduM3BmdWpCRDRmQkpXd08wN3VvU2NoSUlWbw?oc=5) · 2025-12-28
 > KTR2 Could Shake Up the $100 to $200 Handheld Market Retro Handhelds
@@ -71,16 +108,7 @@ permalink: /2025-12-29/other/
 
 ---
 
-### 7. D7VK 1.1 Released With An Experimental Direct3D 6 Frontend - Phoronix
-
-**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfSlJrdWpZRE1pY0dmNVlDZkYtaUt5NWp0c3UySWFDMWVGZXQtVDVpVEllbkdzaWhsejVFYjRhMTlhZ2FxakQ1M3NIY041cDRqa2xWYnQ2LXNnaTg?oc=5) · 2025-12-28
-> D7VK 1.1 Released With An Experimental Direct3D 6 Frontend Phoronix
-
-[Read full article →](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfSlJrdWpZRE1pY0dmNVlDZkYtaUt5NWp0c3UySWFDMWVGZXQtVDVpVEllbkdzaWhsejVFYjRhMTlhZ2FxakQ1M3NIY041cDRqa2xWYnQ2LXNnaTg?oc=5)
-
----
-
-### 8. 15 Things I Loved in 2025: Brian Park - Pinkbike
+### 11. 15 Things I Loved in 2025: Brian Park - Pinkbike
 
 **Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMie0FVX3lxTE5PSjl0TS1jWEkwLVNNdFB4Y3psVmtPaE9ndW04enJoR0xsS0tzUUQyb2VuMGhjRFNDbUxJNHdxbUR2ZXZWUHZqdFU4Z3FuekxYZjBFaHk4MnA1R1RxOG4wZkU4QV9PdFBxdVIzTzlPd0tSOGpzbldVLXQzWQ?oc=5) · 2025-12-28
 > 15 Things I Loved in 2025: Brian Park Pinkbike Collective Favourites 2025: The year-end round-up Escape Collective Krispies, Creatine, and Cheap Hacks: 10 Things I Loved in 2025 Outside Magazine Our editors’ favourite items of 2025 Digitec My Top 17 Favorite Discoveries of 2025.…
@@ -89,7 +117,7 @@ permalink: /2025-12-29/other/
 
 ---
 
-### 9. Sunday Preview – A putrescent crop begins to bloom - Warhammer Community
+### 12. Sunday Preview – A putrescent crop begins to bloom - Warhammer Community
 
 **Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMirgFBVV95cUxNOU9DNDFaNHZUQUNkbUVCZ1JSTTRnQzJKZ2otbHU5RnA1S1NGZHZpVTNKMkNoWEVwQVNjUnllZjZFcGVkQ3dZS0NGTFpMSmFfVFA1WU5tZzhCMExBVU1YNWU0Q3U2S2Q0X2poalVJbWJ0WjdpVWNCSzdRMFM1RmdzaFotd1lISXdicy1nMW1MVEhjZE1GMFRLa0c2cXlsYmwycGVOTm56MVFhT3VJaHc?oc=5) · 2025-12-28
 > Sunday Preview – A putrescent crop begins to bloom Warhammer Community
@@ -98,16 +126,103 @@ permalink: /2025-12-29/other/
 
 ---
 
-### 10. 4 hidden sensors in your Android phone you're probably not using - MakeUseOf
+### 13. Sanofi (SNY) to Acquire Dynavax Technologies Corporation (DVAX)
 
-**Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMie0FVX3lxTE9hVG9zWXlON1ZWbDN2YlplNWFOTUNJOURRTF82TWFVQW5IYUM4eHAzX2ZOWUdOLVZlTFlBTXZqXzVBVWItRVdRQk13MjAyRERNaXNkWmlOUjZTcG92dVhOcmZldmJjYnJwbXpLdGlYcmgxdDVSdVRrMHRTUQ?oc=5) · 2025-12-28
-> 4 hidden sensors in your Android phone you're probably not using MakeUseOf
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/sanofi-sny-acquire-dynavax-technologies-155927769.html) · 2025-12-28
 
-[Read full article →](https://news.google.com/rss/articles/CBMie0FVX3lxTE9hVG9zWXlON1ZWbDN2YlplNWFOTUNJOURRTF82TWFVQW5IYUM4eHAzX2ZOWUdOLVZlTFlBTXZqXzVBVWItRVdRQk13MjAyRERNaXNkWmlOUjZTcG92dVhOcmZldmJjYnJwbXpLdGlYcmgxdDVSdVRrMHRTUQ?oc=5)
+[Read full article →](https://finance.yahoo.com/news/sanofi-sny-acquire-dynavax-technologies-155927769.html)
 
 ---
 
-### 11. Is Ambev (ABEV) One of the Cheap Penny Stocks to Invest In?
+### 14. KBR, Inc. (KBR) Secures a Seat on Multiple Indefinite Delivery Indefinite Quantity Contracts By US Navy
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/kbr-inc-kbr-secures-seat-155919544.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/kbr-inc-kbr-secures-seat-155919544.html)
+
+---
+
+### 15. Here’s What Analysts Think About Cheniere Energy (LNG)
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/analysts-think-cheniere-energy-lng-155908033.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/analysts-think-cheniere-energy-lng-155908033.html)
+
+---
+
+### 16. Here’s What You Need to Know About Matador Resources Company (MTDR)
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/know-matador-resources-company-mtdr-155907563.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/know-matador-resources-company-mtdr-155907563.html)
+
+---
+
+### 17. Here’s What Wall Street Thinks About California Resources Corporation (CRC)
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/wall-street-thinks-california-resources-155903796.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/wall-street-thinks-california-resources-155903796.html)
+
+---
+
+### 18. ServiceNow, Inc. (NOW) Completes Moveworks Acquisition, Here’s What You Need to Know
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/servicenow-inc-now-completes-moveworks-155858564.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/servicenow-inc-now-completes-moveworks-155858564.html)
+
+---
+
+### 19. Can NFE Stock Beat the Market?
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/nfe-stock-beat-market-155000408.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/nfe-stock-beat-market-155000408.html)
+
+---
+
+### 20. WBI Investments Dumps 82,000 VFLO Shares Worth $2.6 Million. Should This Cash Flow Yield ETF Have a Place in Your Portfolio?
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/wbi-investments-dumps-82-000-152836177.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/wbi-investments-dumps-82-000-152836177.html)
+
+---
+
+### 21. If You’ve Made Money on Bitcoin, This Should Be Your Next Move
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/ve-made-money-bitcoin-next-150704383.html)
+
+---
+
+### 22. Wedbush Spotlights IonQ’s (IONQ) Scaling Revenue and Robust Pipeline in Quantum Leadership Pivot
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/wedbush-spotlights-ionq-ionq-scaling-150538956.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/wedbush-spotlights-ionq-ionq-scaling-150538956.html)
+
+---
+
+### 23. B. Riley Sees Intuitive Machines (LUNR) as Key Beneficiary of White House Order to Accelerate Lunar Missions
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/b-riley-sees-intuitive-machines-150537649.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/b-riley-sees-intuitive-machines-150537649.html)
+
+---
+
+### 24. Is Tapestry (TPR) One of the Best Performing S&P 500 Stocks in 2025?
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/tapestry-tpr-one-best-performing-150525539.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/tapestry-tpr-one-best-performing-150525539.html)
+
+---
+
+### 25. Is Ambev (ABEV) One of the Cheap Penny Stocks to Invest In?
 
 **Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/ambev-abev-one-cheap-penny-150522520.html) · 2025-12-28
 
@@ -115,44 +230,21 @@ permalink: /2025-12-29/other/
 
 ---
 
-### 12. We Asked a Designer for the One Thing That Instantly Makes a Bedroom Feel Expensive—And It’s So Doable - The Spruce
+### 26. Elon Musk warns of impact of record silver prices before China limits exports - The Guardian
+
+**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHZWUkFxcEloQ0s1SklCMzNjUVozd0owWHFNUmZsTDhnOXVTSkh5UEh2Njc5ZUVjTVdHLXYxV0l5cDJoTFZ1Wnd5b1RMc3AwUzVUWG1iTURid3JBdVVLeXB1WHVpMVJXS1MwcjBkMWtxTWFCWHp1bE0xbkZwa1hOT1loeTNYWFpBeVd1SlVxb2xfSDZ1TmIyNE5mQWJBZ2RsVjNRdC1Kd1l2ZG5jd3Z3akxSYWUxcTRKamppQ09ka1d4Q1JzajduZXNoZGQ?oc=5) · 2025-12-28
+> Elon Musk warns of impact of record silver prices before China limits exports The Guardian Musk sounds alarm on silver as China restricts exports needed for critical industrial processes Fox Business A Flashing Warning for the Economy The Free Press Silver Shines Brighter Than G…
+
+[Read full article →](https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHZWUkFxcEloQ0s1SklCMzNjUVozd0owWHFNUmZsTDhnOXVTSkh5UEh2Njc5ZUVjTVdHLXYxV0l5cDJoTFZ1Wnd5b1RMc3AwUzVUWG1iTURid3JBdVVLeXB1WHVpMVJXS1MwcjBkMWtxTWFCWHp1bE0xbkZwa1hOT1loeTNYWFpBeVd1SlVxb2xfSDZ1TmIyNE5mQWJBZ2RsVjNRdC1Kd1l2ZG5jd3Z3akxSYWUxcTRKamppQ09ka1d4Q1JzajduZXNoZGQ?oc=5)
+
+---
+
+### 27. We Asked a Designer for the One Thing That Instantly Makes a Bedroom Feel Expensive—And It’s So Doable - The Spruce
 
 **Source:** [Google News (Technology)](https://news.google.com/rss/articles/CBMigwFBVV95cUxONmJoTjZWX19tRlNGQ3dvWERBTFJzMkhQMHlIbWItemhkdUxHMURxbTZWUVNidTJheFFKaW1uLTVzdkg0b0pyaG91dEVFMzNmZW9YbWhkTnI1Z0FhS040UmtreGVERC0xWmFtbkF1UjZPSVVHSnRwTVVDZHdvOEpuc3lyaw?oc=5) · 2025-12-28
 > We Asked a Designer for the One Thing That Instantly Makes a Bedroom Feel Expensive—And It’s So Doable The Spruce
 
 [Read full article →](https://news.google.com/rss/articles/CBMigwFBVV95cUxONmJoTjZWX19tRlNGQ3dvWERBTFJzMkhQMHlIbWItemhkdUxHMURxbTZWUVNidTJheFFKaW1uLTVzdkg0b0pyaG91dEVFMzNmZW9YbWhkTnI1Z0FhS040UmtreGVERC0xWmFtbkF1UjZPSVVHSnRwTVVDZHdvOEpuc3lyaw?oc=5)
-
----
-
-### 13. Many Americans make this 1 mistake with their 401(k)s and IRAs. Here's how to avoid leaving a headache for your heirs
-
-**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/many-americans-1-mistake-401-133000200.html) · 2025-12-28
-
-[Read full article →](https://finance.yahoo.com/news/many-americans-1-mistake-401-133000200.html)
-
----
-
-### 14. How Advisors Are Tapping New ETF Strategies in 2026
-
-**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/advisors-tapping-etf-strategies-2026-130000830.html) · 2025-12-28
-
-[Read full article →](https://finance.yahoo.com/news/advisors-tapping-etf-strategies-2026-130000830.html)
-
----
-
-### 15. This 29-year-old spent $20K on a ‘whim’ to open a New York embroidery shop. Now it pulls in $1.6M a year
-
-**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/29-old-spent-20k-whim-124500015.html) · 2025-12-28
-
-[Read full article →](https://finance.yahoo.com/news/29-old-spent-20k-whim-124500015.html)
-
----
-
-### 16. ‘An economic heart attack’: Ray Dalio issued a stark warning to Americans. Here’s the assets he likes for protection
-
-**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/economic-heart-attack-ray-dalio-121500930.html) · 2025-12-28
-
-[Read full article →](https://finance.yahoo.com/news/economic-heart-attack-ray-dalio-121500930.html)
 
 ---
 

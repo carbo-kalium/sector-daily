@@ -4,30 +4,21 @@ title: "Consumer Staples Sector Daily Brief: Top Market News for 2025-12-29"
 date: "2025-12-29"
 sector: "Consumer Staples"
 etf: "XLP"
-description: "Today's Consumer Staples sector headlines: 3 stories covering food, more, forecasters, predict, caution. Free daily market intelligence for investors."
+description: "Today's Consumer Staples sector headlines: 3 stories covering quick, commerce, indian, startup, zepto. Free daily market intelligence for investors."
 keywords: "Consumer Staples, XLP, stock market news, sector news, 2025-12-29, market intelligence, investing news"
 og_title: "Consumer Staples Daily Brief — 2025-12-29"
-og_description: "3 breaking stories in Consumer Staples: How We’ll Eat in 2026: Food Forecasters Predict Mo..., Indian quick commerce startup Zepto files for $1.2..., Costco Has Tumbled Despite Higher FCF and FCF Marg..."
+og_description: "3 breaking stories in Consumer Staples: Indian quick commerce startup Zepto files for $1.2..., Better Consumer Staples ETF: Vanguard's VDC vs. In..., 3 Must-Know Facts About Costco Before You Buy the ..."
 permalink: /2025-12-29/consumer-staples/
 ---
 
 # Consumer Staples Sector Daily Brief
 ## 2025-12-29 — 3 Stories
 
-**Today's highlights:** food, more, forecasters, predict, caution
+**Today's highlights:** quick, commerce, indian, startup, zepto
 
 ---
 
-### 1. How We’ll Eat in 2026: Food Forecasters Predict More Caution and More Crunch - nytimes.com
-
-**Source:** [Google News (Business)](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjhoV3Jpc2pFMXVCanNZNzlYbkt0aW94WTh0SU54cGNtV2N3cS1SaWl3dXctZGFFTjJEZVI4ZGh1LVNhQ1VlUkVwMXJlOUNWUXI1QjBnVnMwUE9MRXpiaFFZb09rQzBOcDdLV3d5NzA3dUpiMFotZ3lOU1hSZWFiTA?oc=5) · 2025-12-29
-> How We’ll Eat in 2026: Food Forecasters Predict More Caution and More Crunch nytimes.com Looking ahead: Locally owned restaurants at core of food trends for 2026 Toledo Blade What and where to eat and drink in 2026 The Times Restaurant industry experts make predictions for 2026…
-
-[Read full article →](https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjhoV3Jpc2pFMXVCanNZNzlYbkt0aW94WTh0SU54cGNtV2N3cS1SaWl3dXctZGFFTjJEZVI4ZGh1LVNhQ1VlUkVwMXJlOUNWUXI1QjBnVnMwUE9MRXpiaFFZb09rQzBOcDdLV3d5NzA3dUpiMFotZ3lOU1hSZWFiTA?oc=5)
-
----
-
-### 2. Indian quick commerce startup Zepto files for $1.2 billion IPO amid warnings of bubble in the sector
+### 1. Indian quick commerce startup Zepto files for $1.2 billion IPO amid warnings of bubble in the sector
 
 **Source:** [CNBC Top News](https://www.cnbc.com/2025/12/29/zepto-confidential-ipo-filing-india-quick-commerce-instamart-swiggy-blinkit-zomato-eternal-flipkart-amazon.html) · 2025-12-29
 > Quick commerce is a hotly contested space in India with the entry of Amazon this year and Walmart-owned Flipkart in 2024.
@@ -36,11 +27,19 @@ permalink: /2025-12-29/consumer-staples/
 
 ---
 
-### 3. Costco Has Tumbled Despite Higher FCF and FCF Margins - Time to Buy COST Stock?
+### 2. Better Consumer Staples ETF: Vanguard's VDC vs. Invesco's RSPS
 
-**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/costco-tumbled-despite-higher-fcf-143002118.html) · 2025-12-28
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/better-consumer-staples-etf-vanguards-154401198.html) · 2025-12-28
 
-[Read full article →](https://finance.yahoo.com/news/costco-tumbled-despite-higher-fcf-143002118.html)
+[Read full article →](https://finance.yahoo.com/news/better-consumer-staples-etf-vanguards-154401198.html)
+
+---
+
+### 3. 3 Must-Know Facts About Costco Before You Buy the Stock
+
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/3-must-know-facts-costco-150500851.html) · 2025-12-28
+
+[Read full article →](https://finance.yahoo.com/news/3-must-know-facts-costco-150500851.html)
 
 ---
 

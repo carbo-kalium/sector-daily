@@ -4,25 +4,25 @@ title: "Real Estate Sector Daily Brief: Top Market News for 2025-12-29"
 date: "2025-12-29"
 sector: "Real Estate"
 etf: "XLRE"
-description: "Today's Real Estate sector headlines: 1 stories covering rising, property, taxes, fees, crushing. Free daily market intelligence for investors."
+description: "Today's Real Estate sector headlines: 1 stories covering nice, piper, sandler, reiterates, neutral. Free daily market intelligence for investors."
 keywords: "Real Estate, XLRE, stock market news, sector news, 2025-12-29, market intelligence, investing news"
 og_title: "Real Estate Daily Brief — 2025-12-29"
-og_description: "1 breaking stories in Real Estate: Rising property taxes and HOA fees are crushing me..."
+og_description: "1 breaking stories in Real Estate: Piper Sandler Reiterates Neutral Rating on NICE Lt..."
 permalink: /2025-12-29/real-estate/
 ---
 
 # Real Estate Sector Daily Brief
 ## 2025-12-29 — 1 Stories
 
-**Today's highlights:** rising, property, taxes, fees, crushing
+**Today's highlights:** nice, piper, sandler, reiterates, neutral
 
 ---
 
-### 1. Rising property taxes and HOA fees are crushing me as a single dad. How can I keep my home?
+### 1. Piper Sandler Reiterates Neutral Rating on NICE Ltd (NICE)
 
-**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/rising-property-taxes-hoa-fees-121500882.html) · 2025-12-28
+**Source:** [Yahoo Finance (All News)](https://finance.yahoo.com/news/piper-sandler-reiterates-neutral-rating-155905809.html) · 2025-12-28
 
-[Read full article →](https://finance.yahoo.com/news/rising-property-taxes-hoa-fees-121500882.html)
+[Read full article →](https://finance.yahoo.com/news/piper-sandler-reiterates-neutral-rating-155905809.html)
 
 ---
 
