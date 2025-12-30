@@ -387,7 +387,20 @@ function loadNewsContent(sector, date) {
   
   fetch(filePath)
     .then(response => {
-      if (!response.ok) throw new Error('Not found');
+      if (!response.ok) {
+        // If current date fails, try previous day (workflow might not have run yet)
+        const previousDate = new Date(date);
+        previousDate.setDate(previousDate.getDate() - 1);
+        const prevDateStr = formatDate(previousDate);
+        const prevFilePath = `./${prevDateStr}/${sector}/index.html`;
+        
+        return fetch(prevFilePath).then(prevResponse => {
+          if (!prevResponse.ok) throw new Error('Not found');
+          // Update currentDate to the previous date since that's what we're showing
+          currentDate = previousDate;
+          return prevResponse.text();
+        });
+      }
       return response.text();
     })
     .then(content => {
@@ -409,8 +422,8 @@ function loadNewsContent(sector, date) {
       }
       
       const dateDisplay = newsDiv.closest('.news-container').querySelector('.news-date');
-      if (dateDisplay) dateDisplay.textContent = dateStr;
-      updateNavButtons(dateStr);
+      if (dateDisplay) dateDisplay.textContent = formatDate(currentDate);
+      updateNavButtons(formatDate(currentDate));
     })
     .catch(error => {
       console.error('Error loading news:', error, 'Path:', filePath);
