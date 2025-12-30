@@ -11,3 +11,7 @@ build/
 *.egg-info/
 .env
 .state/*.json
+_site/
+.jekyll-cache/
+.jekyll-metadata
+SETUP.md
