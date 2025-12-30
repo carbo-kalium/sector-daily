@@ -412,6 +412,12 @@ function loadNewsContent(sector, date) {
       const articleContent = doc.querySelector('article') || doc.querySelector('.post-content') || doc.querySelector('main');
       
       if (articleContent) {
+        // Remove duplicate title (post-header with title and date)
+        const postHeader = articleContent.querySelector('.post-header');
+        if (postHeader) {
+          postHeader.remove();
+        }
+        
         // Add target="_blank" to all links
         const links = articleContent.querySelectorAll('a');
         links.forEach(link => link.setAttribute('target', '_blank'));
@@ -432,19 +438,49 @@ function loadNewsContent(sector, date) {
     });
 }
 
-function updateNavButtons(dateStr) {
+async function updateNavButtons(dateStr) {
   const today = formatDate(new Date());
   const nextBtn = document.getElementById('next-btn');
   const prevBtn = document.getElementById('prev-btn');
   
+  // Disable next button if we're at today's date
   nextBtn.disabled = dateStr >= today;
-  prevBtn.disabled = false;
+  
+  // Check if previous day data exists
+  const currentDateObj = new Date(dateStr);
+  const previousDate = new Date(currentDateObj);
+  previousDate.setDate(previousDate.getDate() - 1);
+  const prevDateStr = formatDate(previousDate);
+  
+  const activeSector = document.querySelector('.tab-button.active')?.getAttribute('onclick')?.match(/'([^']+)'/)?.[1] || 'energy';
+  const prevFilePath = `./${prevDateStr}/${activeSector}/index.html`;
+  
+  // Check if previous day file exists
+  try {
+    const response = await fetch(prevFilePath, { method: 'HEAD' });
+    prevBtn.disabled = !response.ok;
+  } catch {
+    prevBtn.disabled = true;
+  }
 }
 
-function previousDay() {
-  currentDate.setDate(currentDate.getDate() - 1);
+async function previousDay() {
+  const previousDate = new Date(currentDate);
+  previousDate.setDate(previousDate.getDate() - 1);
+  const prevDateStr = formatDate(previousDate);
   const activeSector = document.querySelector('.tab-button.active').getAttribute('onclick').match(/'([^']+)'/)[1];
-  loadNewsContent(activeSector, currentDate);
+  const prevFilePath = `./${prevDateStr}/${activeSector}/index.html`;
+  
+  // Check if previous day data exists before navigating
+  try {
+    const response = await fetch(prevFilePath, { method: 'HEAD' });
+    if (response.ok) {
+      currentDate = previousDate;
+      loadNewsContent(activeSector, currentDate);
+    }
+  } catch (error) {
+    console.log('No data available for previous day');
+  }
 }
 
 function nextDay() {
@@ -487,6 +523,12 @@ function searchNews() {
       const articleContent = doc.querySelector('article') || doc.querySelector('.post-content') || doc.querySelector('main');
       
       if (articleContent) {
+        // Remove duplicate title (post-header with title and date)
+        const postHeader = articleContent.querySelector('.post-header');
+        if (postHeader) {
+          postHeader.remove();
+        }
+        
         // Add target="_blank" to all links
         const links = articleContent.querySelectorAll('a');
         links.forEach(link => link.setAttribute('target', '_blank'));
